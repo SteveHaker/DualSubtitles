@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns="http://www.w3.org/ns/ttml"
+xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+xmlns:tts="http://www.w3.org/ns/ttml#styling"
+xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+ttp:timeBase="media" ttp:tickRate="10000000">
+<head>
+<layout>
+<region xml:id="region_00" tts:displayAlign="before" tts:extent="40% 20%" tts:origin="10% 5%"/>
+<region xml:id="region_01" tts:displayAlign="before" tts:extent="40% 15%" tts:origin="10% 8%"/>
+<region xml:id="region_02" tts:displayAlign="before" tts:extent="40% 10%" tts:origin="10% 11%"/>
+<region xml:id="region_03" tts:displayAlign="before" tts:extent="40%  5%" tts:origin="10% 14%"/>
+<region xml:id="region_10" tts:displayAlign="before" tts:extent="40% 20%" tts:origin="50% 5%"/>
+<region xml:id="region_11" tts:displayAlign="before" tts:extent="40% 15%" tts:origin="50% 8%"/>
+<region xml:id="region_12" tts:displayAlign="before" tts:extent="40% 10%" tts:origin="50% 11%"/>
+<region xml:id="region_23" tts:displayAlign="before" tts:extent="40%  5%" tts:origin="50% 14%"/>
+</layout>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:fontFamily="Arial" tts:fontSize="75%"/>
+<style style="s1" xml:id="defaultStyle"/>
+<style style="s1" xml:id="defaultStyle_1" tts:fontStyle="italic"/>
+<style style="s1" xml:id="defaultStyle_2" tts:fontStyle="italic"/>
+<style style="s1" xml:id="defaultStyle_3" tts:fontStyle="italic"/>
+</styling>
+</head>
+<body region="region_00" style="s1">
+<div xml:space="preserve">
+<p begin="66733332t" end="96346250t" region="region_00" xml:id="subtitle1">UNA SERIE ORIGINAL DE NETFLIX</p>
+<p begin="114697916t" end="128044582t" region="region_00" xml:id="subtitle2">Esta serie se basa en hechos reales.</p>
+<p begin="128878749t" end="155155000t" region="region_00" xml:id="subtitle3">Algunos personajes, escenas,<br/>nombres, empresas, incidentes,</p>
+<p begin="155989166t" end="171838332t" region="region_00" xml:id="subtitle4">lugares y acontecimientos son ficticios.</p>
+<p begin="164330832t" end="201034166t" region="region_10" xml:id="subtitle5">[low rumbling, growing louder]</p>
+<p begin="172672500t" end="201034166t" region="region_00" xml:id="subtitle6">[temblor creciente]</p>
+<p begin="239405832t" end="262762499t" region="region_10" xml:id="subtitle7">[horses whinnying]</p>
+<p begin="239405832t" end="262762499t" region="region_00" xml:id="subtitle8">[relinchos]</p>
+<p begin="299048750t" end="321154166t" region="region_10" xml:id="subtitle9">[engines racing]</p>
+<p begin="299048750t" end="321154166t" region="region_00" xml:id="subtitle10">[ronroneo de motores]</p>
+<p begin="506756249t" end="518851666t" region="region_10" xml:id="subtitle11">[in Spanish]<br/>Bastard.</p>
+<p begin="506756249t" end="518851666t" region="region_00" xml:id="subtitle12">[en español]<br/>Malparido.</p>
+<p begin="559725832t" end="599765832t" region="region_10" xml:id="subtitle13">-Let's make a bet. I'm for the boss.<br/>-I'm betting on the boss, too.</p>
+<p begin="559725832t" end="595595000t" region="region_00" xml:id="subtitle14">- Vamos a apostar. Yo voy por el patrón.<br/>- Yo también.</p>
+<p begin="596429166t" end="627293332t" region="region_00" xml:id="subtitle15">Eso es plata fácil.<br/>Al patrón siempre lo dejan ganar.</p>
+<p begin="600600000t" end="627293332t" region="region_10" xml:id="subtitle16">This one is going to be easy.<br/>They always let the boss win.</p>
+<p begin="628127500t" end="664830832t" region="region_10" xml:id="subtitle17">That's true, but if someone's going<br/>to beat him, it's this guy.</p>
+<p begin="628127500t" end="664830832t" region="region_00" xml:id="subtitle18">Sí, mijo, pero vea, vea,<br/>si hay alguno que le gana es este.</p>
+<p begin="730730000t" end="759091666t" region="region_10" xml:id="subtitle19">[Gustavo over radio]<br/><span style="defaultStyle_1">Tell me something. Are you a pussy?</span></p>
+<p begin="730730000t" end="761594166t" region="region_00" xml:id="subtitle20">[Gustavo por radio]<br/><span style="defaultStyle_1">Decime una cosa. ¿Vos sos marica?</span></p>
+<p begin="759925832t" end="771187082t" region="region_10" xml:id="subtitle21">[Gustavo cackles]</p>
+<p begin="762428332t" end="771187082t" region="region_00" xml:id="subtitle22">[Gustavo ríe]</p>
+<p begin="772021250t" end="807473332t" region="region_10" xml:id="subtitle23">[up-tempo Latin music plays]</p>
+<p begin="772021250t" end="807473332t" region="region_00" xml:id="subtitle24">[música cumbia]</p>
+<p begin="832498332t" end="843342499t" region="region_10" xml:id="subtitle25">Son of a bitch.</p>
+<p begin="832498332t" end="843342499t" region="region_00" xml:id="subtitle26">Hijo de puta.</p>
+<p begin="938854582t" end="964296666t" region="region_00" xml:id="subtitle27">- ¿Vos qué me ves?<br/>- Lo veo lentito, mijo.</p>
+<p begin="941774166t" end="964296666t" region="region_10" xml:id="subtitle28">-What's going on?<br/>-You're a little slow, son.</p>
+<p begin="983899582t" end="1019768749t" region="region_10" xml:id="subtitle29">Careful, son, careful!<br/>Keep looking forward, son!</p>
+<p begin="983899582t" end="1019768749t" region="region_00" xml:id="subtitle30">Cuidado, mijo, cuidado.<br/>Siga pa' delante, mijo.</p>
+<p begin="1054386666t" end="1079828750t" region="region_10" xml:id="subtitle31">[excited chatter in Spanish]</p>
+<p begin="1054386666t" end="1079828750t" region="region_00" xml:id="subtitle32">[gritos de aliento en español]</p>
+<p begin="1080662916t" end="1096512082t" region="region_10" xml:id="subtitle33">[honking]</p>
+<p begin="1080662916t" end="1096512082t" region="region_00" xml:id="subtitle34">[bocinas]</p>
+<p begin="1097346250t" end="1129461666t" region="region_10" xml:id="subtitle35">[laughing] Oh, shit!</p>
+<p begin="1097346250t" end="1129461666t" region="region_00" xml:id="subtitle36">[risas] ¡Ay, papá!</p>
+<p begin="1130295832t" end="1159074582t" region="region_10" xml:id="subtitle37">All right, boys,<br/>start getting that money out.</p>
+<p begin="1130295832t" end="1161160000t" region="region_00" xml:id="subtitle38">A ver, ¿qué hubo pues, mijo?<br/>Billete, papá, billete.</p>
+<p begin="1159908750t" end="1187019166t" region="region_10" xml:id="subtitle39">[overlapping chatter]</p>
+<p begin="1161994166t" end="1187019166t" region="region_00" xml:id="subtitle40">[todos hablan a la vez]</p>
+<p begin="1187853332t" end="1202034166t" region="region_10" xml:id="subtitle41">[kissing]</p>
+<p begin="1205370832t" end="1217466250t" region="region_10" xml:id="subtitle42">[laughing]</p>
+<p begin="1259591666t" end="1280445832t" region="region_10" xml:id="subtitle43">...eighty. I'm missing 20.</p>
+<p begin="1259591666t" end="1280445832t" region="region_00" xml:id="subtitle44">...tengo 330. Me faltan 70, mijo.</p>
+<p begin="1281280000t" end="1301300000t" region="region_10" xml:id="subtitle45">[Pablo]<br/>Looks like you won some money, eh?</p>
+<p begin="1281280000t" end="1323405416t" region="region_00" xml:id="subtitle46">- Ave María, se ganó una platica, ¿cierto?<br/>- Aquí, entiéndanos, patrón.</p>
+<p begin="1302134166t" end="1323405416t" region="region_10" xml:id="subtitle47">Of course, we're enjoying ourselves, boss.</p>
+<p begin="1324239582t" end="1336752082t" region="region_10" xml:id="subtitle48">Very good, son.</p>
+<p begin="1324239582t" end="1336752082t" region="region_00" xml:id="subtitle49">Muy bien, mijo.</p>
+<p begin="1343425416t" end="1384299582t" region="region_10" xml:id="subtitle50">-Very good.<br/>-[softly] What? Did he get pissed?</p>
+<p begin="1343425416t" end="1384299582t" region="region_00" xml:id="subtitle51">- Muy bien.<br/>- [en voz baja] ¿Se emputó?</p>
+<p begin="1385133750t" end="1398063332t" region="region_10" xml:id="subtitle52">Hey.</p>
+<p begin="1385133750t" end="1398063332t" region="region_00" xml:id="subtitle53">Oiga.</p>
+<p begin="1417249166t" end="1436852082t" region="region_00" xml:id="subtitle54">Usted sabe por qué ganó, ¿cierto?</p>
+<p begin="1417666250t" end="1436852082t" region="region_10" xml:id="subtitle55">Do you know why you won?</p>
+<p begin="1454786666t" end="1503585416t" region="region_10" xml:id="subtitle56">That little trick. The same one, right?</p>
+<p begin="1454786666t" end="1502334166t" region="region_00" xml:id="subtitle57">La trampita esa. La misma.<br/>La de siempre, ¿cierto?</p>
+<p begin="1503168332t" end="1534032500t" region="region_00" xml:id="subtitle58">No seas tan huevón.<br/>¿Más bien sabés por qué perdiste?</p>
+<p begin="1504419582t" end="1533198332t" region="region_10" xml:id="subtitle59">Don't be an idiot.<br/>You know why you lost, Pablo?</p>
+<p begin="1534032500t" end="1545293750t" region="region_10" xml:id="subtitle60">-Why?<br/>-Hmm?</p>
+<p begin="1534866666t" end="1545293750t" region="region_00" xml:id="subtitle61">- ¿Por qué?<br/>- ¿Hm?</p>
+<p begin="1546127916t" end="1591172916t" region="region_10" xml:id="subtitle62">Because you're a very smart guy,<br/>but you're too stubborn. You understand?</p>
+<p begin="1546127916t" end="1591172916t" region="region_00" xml:id="subtitle63">Porque sos un tipo muy inteligente,<br/>pero sos demasiado testarudo. ¿Entendés?</p>
+<p begin="1592007082t" end="1634966666t" region="region_10" xml:id="subtitle64">What I understand is I don't like to lose.<br/>Especially because of tricks.</p>
+<p begin="1592007082t" end="1634966666t" region="region_00" xml:id="subtitle65">Yo lo que entiendo es que a mí no me gusta<br/>perder, sobre todo con trampas.</p>
+<p begin="1635800832t" end="1665413750t" region="region_10" xml:id="subtitle66">-Someone had to teach you how to lose.<br/>-Yeah, why?</p>
+<p begin="1635800832t" end="1665413750t" region="region_00" xml:id="subtitle67">Lo que pasa<br/>es que alguien te tiene que enseñar.</p>
+<p begin="1666247916t" end="1680845832t" region="region_10" xml:id="subtitle68">[low chuckle]</p>
+<p begin="1666247916t" end="1680845832t" region="region_00" xml:id="subtitle69">¿Y por qué?</p>
+<p begin="1687936249t" end="1712961249t" region="region_10" xml:id="subtitle70">-Very well, you son of a bitch.<br/>-[Poison] Boss?</p>
+<p begin="1687936249t" end="1713378332t" region="region_00" xml:id="subtitle71">- Muy bien, hijo de puta.<br/>- [Poison] Patrón.</p>
+<p begin="1724639582t" end="1756337916t" region="region_10" xml:id="subtitle72">-A photo?<br/>-Sure, but not with that pansy.</p>
+<p begin="1724639582t" end="1756337916t" region="region_00" xml:id="subtitle73">- Una fotico.<br/>- Sí, pero no con ese marica.</p>
+<p begin="1757172082t" end="1802217082t" region="region_10" xml:id="subtitle74">No, no, no, no. You go over there.<br/>Over there, motherfucker.</p>
+<p begin="1757172082t" end="1802217082t" region="region_00" xml:id="subtitle75">No, no, no, no. Usted pa' allá.<br/>Pa' allá, hijo de puta.</p>
+<p begin="1803051249t" end="1819317499t" region="region_10" xml:id="subtitle76">Cousin, cousin, cousin, cousin.</p>
+<p begin="1803051249t" end="1819317499t" region="region_00" xml:id="subtitle77">Primo, primo, primo, primo.</p>
+<p begin="1820151666t" end="1850181666t" region="region_10" xml:id="subtitle78">It's because he doesn't know<br/>how to lose, but that's fine.</p>
+<p begin="1820151666t" end="1849347499t" region="region_00" xml:id="subtitle79">Lo que pasa es que no sabe<br/>perder, pero está bien.</p>
+<p begin="1850181666t" end="1875206666t" region="region_00" xml:id="subtitle80">- ¿Pa' dónde vamos?<br/>- ¡Pa' donde las putas!</p>
+<p begin="1851015832t" end="1875206666t" region="region_10" xml:id="subtitle81">-Where are we headed, guys?<br/>-To the whores!</p>
+<p begin="1961542916t" end="1989070416t" region="region_10" xml:id="subtitle82">Look how they left this place.</p>
+<p begin="1961542916t" end="1989070416t" region="region_00" xml:id="subtitle83">Ay, hermano, cómo dejaron aquí, <span style="defaultStyle_1">brother</span>.</p>
+<p begin="2027859166t" end="2075823749t" region="region_00" xml:id="subtitle84">Encontramos el cuerpo de los dos guardias.<br/>Estaban en el baúl, los quemaron vivos.</p>
+<p begin="2028276249t" end="2075823749t" region="region_10" xml:id="subtitle85">We found both the guards.<br/>Stuffed into a trunk, burned alive.</p>
+<p begin="2084999582t" end="2101265832t" region="region_10" xml:id="subtitle86">Did anybody see anything?</p>
+<p begin="2084999582t" end="2101265832t" region="region_00" xml:id="subtitle87">¿Alguien vio algo?</p>
+<p begin="2113778332t" end="2155903750t" region="region_10" xml:id="subtitle88">We're sending spotters out, but...<br/>they either come back with nothing or--</p>
+<p begin="2113778332t" end="2155903750t" region="region_00" xml:id="subtitle89">Mandamos a los informantes pero...<br/>o llegan sin información o...</p>
+<p begin="2156737916t" end="2183848332t" region="region_10" xml:id="subtitle90">-Or what?<br/>-Or they don't come back.</p>
+<p begin="2156737916t" end="2183848332t" region="region_00" xml:id="subtitle91">- ¿O qué?<br/>- O no llegan.</p>
+<p begin="2239320416t" end="2274355416t" region="region_10" xml:id="subtitle92">That bitch Judy Moncada did this.</p>
+<p begin="2239320416t" end="2274355416t" region="region_00" xml:id="subtitle93">Eso lo hizo<br/>la malparida esa de Judy Moncada.</p>
+<p begin="2282280000t" end="2320651666t" region="region_10" xml:id="subtitle94">But she couldn't do this alone.<br/>No fucking way.</p>
+<p begin="2282280000t" end="2320651666t" region="region_00" xml:id="subtitle95">Pero esa perra no pudo<br/>hacer eso sola, ni por el putas.</p>
+<p begin="2321485832t" end="2344842500t" region="region_10" xml:id="subtitle96">The guys that came at me<br/>had high-end weapons.</p>
+<p begin="2321485832t" end="2349847500t" region="region_00" xml:id="subtitle97">Los tipos que me atacaron<br/>tenían armas buenas.</p>
+<p begin="2350681666t" end="2362360000t" region="region_10" xml:id="subtitle98">Big ones.</p>
+<p begin="2350681666t" end="2362360000t" region="region_00" xml:id="subtitle99">Largas.</p>
+<p begin="2381128750t" end="2392807082t" region="region_10" xml:id="subtitle100">Gringo shit.</p>
+<p begin="2381128750t" end="2392807082t" region="region_00" xml:id="subtitle101">Mierda gringa.</p>
+<p begin="2478309166t" end="2498746250t" region="region_10" xml:id="subtitle102">The Cali cartel.</p>
+<p begin="2478309166t" end="2498746250t" region="region_00" xml:id="subtitle103">El cartel de Cali.</p>
+<p begin="2520851666t" end="2537117916t" region="region_10" xml:id="subtitle104">I fucking know it.</p>
+<p begin="2520851666t" end="2537117916t" region="region_00" xml:id="subtitle105">Estoy seguro de esa mierda.</p>
+<p begin="2554635416t" end="2581745832t" region="region_10" xml:id="subtitle106">Those sons of bitches will regret it.</p>
+<p begin="2554635416t" end="2581745832t" region="region_00" xml:id="subtitle107">Pero esos hijos de puta<br/>se van a arrepentir,</p>
+<p begin="2582580000t" end="2632630000t" region="region_10" xml:id="subtitle108">I will personally burn that fucking city<br/>to the ground.</p>
+<p begin="2582580000t" end="2632212916t" region="region_00" xml:id="subtitle109">porque yo voy a ir personalmente<br/>y voy a quemar toda esa puta ciudad.</p>
+<p begin="2633047082t" end="2648479166t" region="region_00" xml:id="subtitle110">[Carlos]<br/>Eso no lo sabemos.</p>
+<p begin="2633464166t" end="2648479166t" region="region_10" xml:id="subtitle111">[Carlos]<br/>We don't know that Pablo.</p>
+<p begin="2649313332t" end="2696860832t" region="region_10" xml:id="subtitle112">Until we know who did it, we can't attack<br/>the Cali cartel. It would be a mistake.</p>
+<p begin="2649313332t" end="2697277916t" region="region_00" xml:id="subtitle113">Hasta que no sepamos quién fue, no podés<br/>atacar al cartel de Cali. Sería un error.</p>
+<p begin="2790704582t" end="2831995832t" region="region_10" xml:id="subtitle114">Get whoever we can out on the street.<br/>Give them cash.</p>
+<p begin="2790704582t" end="2831995832t" region="region_00" xml:id="subtitle115">Pongamos a los que puedan<br/>en la calle. Denles plata.</p>
+<p begin="2832830000t" end="2872452916t" region="region_10" xml:id="subtitle116">And if anyone needs more persuasion,<br/>motivate them.</p>
+<p begin="2832830000t" end="2872452916t" region="region_00" xml:id="subtitle117">Y si alguien necesita motivación especial,<br/>pues que lo motiven.</p>
+<p begin="2873287082t" end="2939186250t" region="region_10" xml:id="subtitle118">Put the word out. We're going to kill<br/>all the bastards who did this.</p>
+<p begin="2873287082t" end="2907070832t" region="region_00" xml:id="subtitle119">Que se corra la voz:<br/>nosotros vamos a quebrar</p>
+<p begin="2907905000t" end="2939186250t" region="region_00" xml:id="subtitle120">a todos esos malparidos<br/>que nos hicieron eso.</p>
+<p begin="2940020416t" end="2964628332t" region="region_10" xml:id="subtitle121">I know I hit one of them.</p>
+<p begin="2940020416t" end="2964628332t" region="region_00" xml:id="subtitle122">Yo sé que le di a uno.</p>
+<p begin="2965462500t" end="3000080416t" region="region_10" xml:id="subtitle123">Let's hope he's still breathing.</p>
+<p begin="2965462500t" end="3000080416t" region="region_00" xml:id="subtitle124">Y esperamos que al que le dio<br/>todavía esté respirando.</p>
+<p begin="3011341666t" end="3025522500t" region="region_10" xml:id="subtitle125">Because then...</p>
+<p begin="3011341666t" end="3025522500t" region="region_00" xml:id="subtitle126">Porque ahí sí...</p>
+<p begin="3050547500t" end="3113527082t" region="region_10" xml:id="subtitle127">we can find out who that son of a bitch<br/>is working for.</p>
+<p begin="3050547500t" end="3113527082t" region="region_00" xml:id="subtitle128">Vamos a descubrir exactamente<br/>para quién trabaja ese hijo de puta.</p>
+<p begin="3222385832t" end="3244491250t" region="region_00" xml:id="subtitle129">[se cierran las puertas del vehículo]</p>
+<p begin="3223220000t" end="3243657082t" region="region_10" xml:id="subtitle130">[vehicle doors slam shut]</p>
+<p begin="3261174582t" end="3291621666t" region="region_10" xml:id="subtitle131">[Latin guitar theme music plays]</p>
+<p begin="3261174582t" end="3291621666t" region="region_00" xml:id="subtitle132">[música bolero]</p>
+<p begin="4152898749t" end="4180009166t" region="region_10" xml:id="subtitle133">-[festive music playing]<br/>-[children chatter indistinctly]</p>
+<p begin="4152898749t" end="4180009166t" region="region_00" xml:id="subtitle134">- [villancico en español]<br/>- [los niños charlan]</p>
+<p begin="4180843332t" end="4221717499t" region="region_10" xml:id="subtitle135">[Steve]<span style="defaultStyle_1"> Colombia is a Catholic country,</span><br/><span style="defaultStyle_1">so Christmas is a big deal.</span></p>
+<p begin="4180843332t" end="4221717499t" region="region_00" xml:id="subtitle136">[Steve] <span style="defaultStyle_1">Colombia es un país católico,</span><br/><span style="defaultStyle_1">donde la Navidad es importante.</span></p>
+<p begin="4222551666t" end="4254667082t" region="region_10" xml:id="subtitle137"><span style="defaultStyle_1">But the people of Medellín</span><br/><span style="defaultStyle_1">always take it to the next level.</span></p>
+<p begin="4222551666t" end="4254667082t" region="region_00" xml:id="subtitle138"><span style="defaultStyle_1">En Medellín se festeja más</span><br/><span style="defaultStyle_1">que en ningún otro lado,</span></p>
+<p begin="4255501249t" end="4304717082t" region="region_10" xml:id="subtitle139"><span style="defaultStyle_1">And despite the manhunt for Pablo going on</span><br/><span style="defaultStyle_1">around them, this year was no different.</span></p>
+<p begin="4255501249t" end="4304717082t" region="region_00" xml:id="subtitle140"><span style="defaultStyle_1">y pese a la persecución de Pablo,</span><br/><span style="defaultStyle_1">este año no fue la excepción.</span></p>
+<p begin="4310556250t" end="4341837500t" region="region_10" xml:id="subtitle141"><span style="defaultStyle_1">Call it faith, optimism, or stubbornness,</span></p>
+<p begin="4310556250t" end="4341837500t" region="region_00" xml:id="subtitle142"><span style="defaultStyle_1">Ya por fe, ya por optimismo,</span><br/><span style="defaultStyle_1">ya por terquedad,</span></p>
+<p begin="4342671666t" end="4376455416t" region="region_10" xml:id="subtitle143"><span style="defaultStyle_1">the people of Medellín thought</span><br/><span style="defaultStyle_1">they'd seen it all, but they hadn't.</span></p>
+<p begin="4342671666t" end="4381877500t" region="region_00" xml:id="subtitle144"><span style="defaultStyle_1">la gente de Medellín creía</span><br/><span style="defaultStyle_1">haberlo visto todo, pero no era así.</span></p>
+<p begin="4377289582t" end="4402731666t" region="region_10" xml:id="subtitle145"><span style="defaultStyle_1">In fact, they hadn't seen anything yet.</span></p>
+<p begin="4382711666t" end="4403982916t" region="region_00" xml:id="subtitle146"><span style="defaultStyle_1">De hecho, aún no habían visto nada.</span></p>
+<p begin="4403565832t" end="4426088332t" region="region_10" xml:id="subtitle147">[low murmurs]</p>
+<p begin="4404817082t" end="4426088332t" region="region_00" xml:id="subtitle148">[murmullos]</p>
+<p begin="4486565416t" end="4526188332t" region="region_10" xml:id="subtitle149">PABLO MERRY CHRISTMAS<br/>LOS PEPES</p>
+<p begin="4527022500t" end="4562057500t" region="region_10" xml:id="subtitle150">HAPPY HOLIDAYS</p>
+<p begin="4562891666t" end="4590002082t" region="region_10" xml:id="subtitle151"><span style="defaultStyle_1">Medellín was about to get a show</span><br/><span style="defaultStyle_1">they would never forget.</span></p>
+<p begin="4562891666t" end="4590002082t" region="region_00" xml:id="subtitle152"><span style="defaultStyle_1">Medellín jamás olvidaría</span><br/><span style="defaultStyle_1">lo que estaba por ver.</span></p>
+<p begin="4590836250t" end="4603765832t" region="region_10" xml:id="subtitle153">[in Spanish]<br/><span style="defaultStyle_1">Good day.</span></p>
+<p begin="4590836250t" end="4605017082t" region="region_00" xml:id="subtitle154">[en español]<br/>Buenos días.</p>
+<p begin="4604600000t" end="4660072082t" region="region_10" xml:id="subtitle155"><span style="defaultStyle_1">In a letter sent to the media, a group</span><br/><span style="defaultStyle_1">that identifies itself as "Los Pepes,"</span></p>
+<p begin="4605851250t" end="4631710416t" region="region_00" xml:id="subtitle156">En una carta que enviaron<br/>a todos los medios,</p>
+<p begin="4632961666t" end="4660072082t" region="region_00" xml:id="subtitle157">un grupo que se identifica<br/>como "Los Pepes",</p>
+<p begin="4660906250t" end="4696775416t" region="region_10" xml:id="subtitle158"><span style="defaultStyle_1">an acronym for</span><br/><span style="defaultStyle_1">"People Persecuted by Pablo Escobar."</span></p>
+<p begin="4660906250t" end="4696775416t" region="region_00" xml:id="subtitle159">acrónimo utilizado<br/>para "Perseguidos por Pablo Escobar"...</p>
+<p begin="4697609582t" end="4725554166t" region="region_10" xml:id="subtitle160">[woman in English]<span style="defaultStyle_3"> ...or</span><br/><span style="defaultStyle_3">"People Persecuted by Pablo Escobar,"</span></p>
+<p begin="4697609582t" end="4728473750t" region="region_00" xml:id="subtitle161">[mujer en inglés]<br/><span style="defaultStyle_3">..."Perseguidos por Pablo Escobar",</span></p>
+<p begin="4726388332t" end="4773518750t" region="region_10" xml:id="subtitle162"><span style="defaultStyle_3">the vigilantes waging war on those</span><br/><span style="defaultStyle_3">associated with the notorious drug lord.</span></p>
+<p begin="4729307916t" end="4773518750t" region="region_00" xml:id="subtitle163"><span style="defaultStyle_3">los justicieros que luchan contra </span><br/><span style="defaultStyle_3">los allegados del infame narcotraficante.</span></p>
+<p begin="4774352916t" end="4836081250t" region="region_10" xml:id="subtitle164">[in Spanish] Mr. President, the media<br/>is asking for a comment on Los Pepes.</p>
+<p begin="4774352916t" end="4803548750t" region="region_00" xml:id="subtitle165">[en español] Sr. presidente,<br/>los medios preguntan</p>
+<p begin="4804382916t" end="4833578750t" region="region_00" xml:id="subtitle166">por su posición<br/>sobre Los Pepes, sus comentarios.</p>
+<p begin="4834412916t" end="4865694166t" region="region_00" xml:id="subtitle167">Es cuestión de tiempo<br/>que esto salga a la luz pública.</p>
+<p begin="4836915416t" end="4865694166t" region="region_10" xml:id="subtitle168">It's only a matter of time<br/>before it's made public.</p>
+<p begin="4866528332t" end="4885297082t" region="region_10" xml:id="subtitle169">Acknowledgment isn't the same<br/>as condemning.</p>
+<p begin="4866528332t" end="4885297082t" region="region_00" xml:id="subtitle170">Aceptarlo no es condenar.</p>
+<p begin="4886131250t" end="4940352082t" region="region_10" xml:id="subtitle171">Sooner or later, you'll have to make<br/>an official public statement.</p>
+<p begin="4886131250t" end="4908236666t" region="region_00" xml:id="subtitle172">Tarde o temprano, usted debe salir</p>
+<p begin="4909070832t" end="4940352082t" region="region_00" xml:id="subtitle173">a dar una declaración<br/>pública y oficial en los medios.</p>
+<p begin="4941186250t" end="4969965000t" region="region_10" xml:id="subtitle174">They're doing God's work<br/>as far as I'm concerned.</p>
+<p begin="4941186250t" end="4973718750t" region="region_00" xml:id="subtitle175">En lo que a mí respecta,<br/>llevan a cabo la labor de Dios.</p>
+<p begin="4970799166t" end="5017095416t" region="region_10" xml:id="subtitle176">-That can't be our official position.<br/>-It can be our official position...</p>
+<p begin="4974552916t" end="5017095416t" region="region_00" xml:id="subtitle177">- No puede ser nuestra posición oficial.<br/>- Puede ser nuestra posición...</p>
+<p begin="5017929582t" end="5040869166t" region="region_10" xml:id="subtitle178">[overlapping arguments]</p>
+<p begin="5017929582t" end="5040869166t" region="region_00" xml:id="subtitle179">[todos discuten a la vez]</p>
+<p begin="5049627916t" end="5061306250t" region="region_10" xml:id="subtitle180">[Gaviria]<br/>Gentlemen!</p>
+<p begin="5049627916t" end="5061306250t" region="region_00" xml:id="subtitle181">[Gaviria]<br/>¡Señores!</p>
+<p begin="5085914166t" end="5128039582t" region="region_10" xml:id="subtitle182">Los Pepes is a vigilante death squad.</p>
+<p begin="5085914166t" end="5128039582t" region="region_00" xml:id="subtitle183">Los Pepes son paramilitares,<br/>un escuadrón de la muerte.</p>
+<p begin="5128873750t" end="5157652500t" region="region_10" xml:id="subtitle184">We'll take care of them<br/>when the time comes.</p>
+<p begin="5128873750t" end="5157652500t" region="region_00" xml:id="subtitle185">Nos encargaremos de ellos<br/>cuando llegue el momento.</p>
+<p begin="5168496666t" end="5201029166t" region="region_10" xml:id="subtitle186">But for now, let's focus<br/>on our own efforts to catch Escobar.</p>
+<p begin="5168496666t" end="5201029166t" region="region_00" xml:id="subtitle187">Pero por ahora debemos ocuparnos<br/>en encontrar a Escobar.</p>
+<p begin="5210622082t" end="5243154582t" region="region_10" xml:id="subtitle188">I believe that's proven<br/>a big enough job for all of us.</p>
+<p begin="5210622082t" end="5243154582t" region="region_00" xml:id="subtitle189">Eso ya ha sido<br/>lo suficientemente difícil para todos.</p>
+<p begin="5243988750t" end="5293204582t" region="region_10" xml:id="subtitle190">[Martinez] Communications picked up<br/>conversations in the Manrique district</p>
+<p begin="5243988750t" end="5293204582t" region="region_00" xml:id="subtitle191">[Martínez] El depto. de comunicaciones<br/>ha detectado conversaciones en Manrique,</p>
+<p begin="5294038750t" end="5349093750t" region="region_10" xml:id="subtitle192">between Jairo, who is one of Escobar's<br/><span style="defaultStyle_1">sicarios,</span> and his mother, who is ill.</p>
+<p begin="5294038750t" end="5349093750t" region="region_00" xml:id="subtitle193">entre Jairo, un sicario de Pablo Escobar,<br/>y su mamá, que resulta que está enferma.</p>
+<p begin="5349927916t" end="5388299582t" region="region_10" xml:id="subtitle194">We know Jairo is her only child<br/>and likely to visit her.</p>
+<p begin="5349927916t" end="5390385000t" region="region_00" xml:id="subtitle195">Sabemos que él es su único hijo<br/>y que, entonces, la va a visitar.</p>
+<p begin="5391219166t" end="5436264166t" region="region_00" xml:id="subtitle196">Vamos a seguir monitoreando esa frecuencia<br/>y los vamos a mantener informados.</p>
+<p begin="5395807082t" end="5436264166t" region="region_10" xml:id="subtitle197">We'll continue to monitor the frequencies<br/>for further information.</p>
+<p begin="5437098332t" end="5451279166t" region="region_10" xml:id="subtitle198">One more thing.</p>
+<p begin="5437098332t" end="5451279166t" region="region_00" xml:id="subtitle199">Otra cosa.</p>
+<p begin="5452113332t" end="5487565416t" region="region_10" xml:id="subtitle200">I don't have to tell you that there's<br/>another group now operating in Medellín,</p>
+<p begin="5452113332t" end="5487565416t" region="region_00" xml:id="subtitle201">No tengo que decirles<br/>que hay otro grupo aquí en Medellín</p>
+<p begin="5488399582t" end="5517595416t" region="region_10" xml:id="subtitle202">combating Escobar: Los Pepes.</p>
+<p begin="5488399582t" end="5517595416t" region="region_00" xml:id="subtitle203">combatiendo a Escobar: Los Pepes.</p>
+<p begin="5518429582t" end="5533444582t" region="region_10" xml:id="subtitle204">Let me be very clear.</p>
+<p begin="5518429582t" end="5533444582t" region="region_00" xml:id="subtitle205">Quiero ser muy claro.</p>
+<p begin="5550545000t" end="5618529582t" region="region_10" xml:id="subtitle206">There must and will be a clear line<br/>between them and us.</p>
+<p begin="5550545000t" end="5616861250t" region="region_00" xml:id="subtitle207">Debe haber y habrá una línea<br/>muy clara entre ellos y nosotros.</p>
+<p begin="5617695416t" end="5638549582t" region="region_00" xml:id="subtitle208">- ¿Entendido?<br/>- [todos] Sí, coronel.</p>
+<p begin="5619363750t" end="5637298332t" region="region_10" xml:id="subtitle209">-Understood?<br/>-[all] Yes, Colonel.</p>
+<p begin="5638132500t" end="5654815832t" region="region_10" xml:id="subtitle210">[Martinez]<br/>Dismissed, thank you.</p>
+<p begin="5639383750t" end="5663157500t" region="region_00" xml:id="subtitle211">[Martínez]<br/>Pueden retirarse. Gracias.</p>
+<p begin="5671082082t" end="5701946250t" region="region_00" xml:id="subtitle212">[en inglés]<br/>Esto de Los Pepes es un giro interesante.</p>
+<p begin="5671916250t" end="5701112082t" region="region_10" xml:id="subtitle213">[in English] So Los Pepes<br/>is an interesting new wrinkle.</p>
+<p begin="5711956250t" end="5756167082t" region="region_10" xml:id="subtitle214">Well, are you surprised?<br/>Escobar's got a lot of enemies.</p>
+<p begin="5711956250t" end="5756167082t" region="region_00" xml:id="subtitle215">¿Acaso te sorprende?<br/>Escobar tiene muchos enemigos.</p>
+<p begin="5757001250t" end="5795790000t" region="region_10" xml:id="subtitle216">I heard from Messina this morning.<br/>There's a lot of eyes on them and us,</p>
+<p begin="5757001250t" end="5795790000t" region="region_00" xml:id="subtitle217">Esta mañana Messina me dijo<br/>que hay muchos ojos vigilándonos,</p>
+<p begin="5796624166t" end="5822066250t" region="region_10" xml:id="subtitle218">so she wants us to steer clear.</p>
+<p begin="5796624166t" end="5822066250t" region="region_00" xml:id="subtitle219">así que debemos mantenernos al margen.</p>
+<p begin="5839166666t" end="5874201666t" region="region_10" xml:id="subtitle220">-Are you working for Los Pepes, Murphy?<br/>-No, I'm not.</p>
+<p begin="5839166666t" end="5874201666t" region="region_00" xml:id="subtitle221">- ¿Trabajas para Los Pepes, Murphy?<br/>- No.</p>
+<p begin="5889633750t" end="5906734166t" region="region_00" xml:id="subtitle222">Entonces no hay problema.</p>
+<p begin="5890885000t" end="5905900000t" region="region_10" xml:id="subtitle223">Then I guess we're good.</p>
+<p begin="5965125832t" end="5990150832t" region="region_10" xml:id="subtitle224">[Latin music plays over radio]</p>
+<p begin="5965125832t" end="5990150832t" region="region_00" xml:id="subtitle225">[música guasca en la radio]</p>
+<p begin="6124451666t" end="6145722916t" region="region_10" xml:id="subtitle226">[in Spanish]<br/>CNP's been busy with wiretaps.</p>
+<p begin="6124451666t" end="6156984166t" region="region_00" xml:id="subtitle227">[en español] La policía nacional<br/>registró conversaciones</p>
+<p begin="6146557082t" end="6184094582t" region="region_10" xml:id="subtitle228">They picked up chatter<br/>from Jairo's mom here... and here.</p>
+<p begin="6157818332t" end="6184094582t" region="region_00" xml:id="subtitle229">con la mamá de Jairo aquí y aquí.</p>
+<p begin="6211622082t" end="6252913332t" region="region_10" xml:id="subtitle230">Search Bloc won't be able to move until<br/>they get corroboration he's in the area.</p>
+<p begin="6211622082t" end="6242486250t" region="region_00" xml:id="subtitle231">El Bloque de Búsqueda<br/>no se puede mover hasta no tener pruebas</p>
+<p begin="6243320416t" end="6274601666t" region="region_00" xml:id="subtitle232">de que Jairo está en la zona,<br/>lo que puede tomar días.</p>
+<p begin="6253747500t" end="6274601666t" region="region_10" xml:id="subtitle233">Which could take days.</p>
+<p begin="6275435832t" end="6319229582t" region="region_10" xml:id="subtitle234">Even longer... for them to find the house.</p>
+<p begin="6275435832t" end="6319229582t" region="region_00" xml:id="subtitle235">Incluso más tiempo...<br/>hasta que encuentren la casa.</p>
+<p begin="6328405416t" end="6381375000t" region="region_10" xml:id="subtitle236">I think... Jairo is planning a homecoming.</p>
+<p begin="6328405416t" end="6381375000t" region="region_00" xml:id="subtitle237">Yo creo que Jairo<br/>está planeando una visita pronto.</p>
+<p begin="6390967916t" end="6403063332t" region="region_10" xml:id="subtitle238">Maybe even today.</p>
+<p begin="6390967916t" end="6403063332t" region="region_00" xml:id="subtitle239">Podría ser hoy.</p>
+<p begin="6451862082t" end="6480640832t" region="region_10" xml:id="subtitle240">I'll see what I can find out<br/>on the streets.</p>
+<p begin="6451862082t" end="6480640832t" region="region_00" xml:id="subtitle241">Voy a ver<br/>qué puedo averiguar en las calles.</p>
+<p begin="6511505000t" end="6527354166t" region="region_10" xml:id="subtitle242">[phone rings]</p>
+<p begin="6511505000t" end="6527354166t" region="region_00" xml:id="subtitle243">[suena el teléfono]</p>
+<p begin="6554881666t" end="6575735832t" region="region_00" xml:id="subtitle244">- ¿Aló?<br/>- [Berna]<span style="defaultStyle_1"> Escuchame, Carlos.</span></p>
+<p begin="6556550000t" end="6575735832t" region="region_10" xml:id="subtitle245">-Hello?<br/>-[Berna]<span style="defaultStyle_1"> Listen up, Carlos.</span></p>
+<p begin="6576570000t" end="6608268332t" region="region_10" xml:id="subtitle246">I have information that Jairo<br/>is going to his mother's.</p>
+<p begin="6576570000t" end="6608268332t" region="region_00" xml:id="subtitle247">Mi información es que Jairo<br/>va a ir donde la mamá.</p>
+<p begin="6609102500t" end="6635795832t" region="region_10" xml:id="subtitle248">[Steve]<br/><span style="defaultStyle_1">For Los Pepes, it was easy.</span></p>
+<p begin="6609102500t" end="6635795832t" region="region_00" xml:id="subtitle249">[Steve]<br/><span style="defaultStyle_1">Los Pepes tenían las cosas fáciles.</span></p>
+<p begin="6636630000t" end="6664991666t" region="region_10" xml:id="subtitle250"><span style="defaultStyle_1">They had all the man-on-the-street</span><br/><span style="defaultStyle_1">intelligence they needed.</span></p>
+<p begin="6636630000t" end="6664991666t" region="region_00" xml:id="subtitle251"><span style="defaultStyle_1">Contaban con todos</span><br/><span style="defaultStyle_1">los informantes necesarios.</span></p>
+<p begin="6665825832t" end="6712539166t" region="region_10" xml:id="subtitle252"><span style="defaultStyle_1">If they'd heard a guy, take Jairo</span><br/><span style="defaultStyle_1">for example, was in a certain vicinity,</span></p>
+<p begin="6665825832t" end="6712539166t" region="region_00" xml:id="subtitle253"><span style="defaultStyle_1">Si oían que alguien, como Jairo,</span><br/><span style="defaultStyle_1">estaba en determinada zona,</span></p>
+<p begin="6713373332t" end="6738398332t" region="region_10" xml:id="subtitle254"><span style="defaultStyle_1">they just asked around</span><br/><span style="defaultStyle_1">and they'd find him.</span></p>
+<p begin="6713373332t" end="6738398332t" region="region_00" xml:id="subtitle255"><span style="defaultStyle_1">les bastaba con preguntar para hallarlo.</span></p>
+<p begin="6739232499t" end="6773433332t" region="region_10" xml:id="subtitle256"><span style="defaultStyle_1">But for us, well,</span><br/><span style="defaultStyle_1">we had to go door-to-door,</span></p>
+<p begin="6739232499t" end="6773433332t" region="region_00" xml:id="subtitle257"><span style="defaultStyle_1">Nosotros, en cambio,</span><br/><span style="defaultStyle_1">teníamos que ir de puerta en puerta</span></p>
+<p begin="6774267499t" end="6807217082t" region="region_10" xml:id="subtitle258"><span style="defaultStyle_1">asking for help from people</span><br/><span style="defaultStyle_1">who don't tell cops shit.</span></p>
+<p begin="6774267499t" end="6804714582t" region="region_00" xml:id="subtitle259"><span style="defaultStyle_1">y pedir ayuda a gente</span><br/><span style="defaultStyle_1">que no dice nada a la policía.</span></p>
+<p begin="6805548749t" end="6834744582t" region="region_00" xml:id="subtitle260">- [en español] Policía, ¿me abre?<br/>- ¿Qué necesita?</p>
+<p begin="6808051249t" end="6834327499t" region="region_10" xml:id="subtitle261">-[in Spanish] Police. Can you open up?<br/>-What do you need?</p>
+<p begin="6835161666t" end="6850593749t" region="region_10" xml:id="subtitle262">Open up. Hurry. Hurry.</p>
+<p begin="6835578749t" end="6850593749t" region="region_00" xml:id="subtitle263">Que abra. Rápido. Rápido.</p>
+<p begin="6855598749t" end="6881040832t" region="region_00" xml:id="subtitle264">[Steve]<br/><span style="defaultStyle_1">Los Pepes no tenían ningún problema.</span></p>
+<p begin="6856015832t" end="6881040832t" region="region_10" xml:id="subtitle265">[Steve]<span style="defaultStyle_1"> Los Pepes, on the other hand,</span><br/><span style="defaultStyle_1">had no problems.</span></p>
+<p begin="6881874999t" end="6901060832t" region="region_10" xml:id="subtitle266"><span style="defaultStyle_1">They were quite persuasive.</span></p>
+<p begin="6881874999t" end="6901060832t" region="region_00" xml:id="subtitle267"><span style="defaultStyle_1">Eran bastante persuasivos.</span></p>
+<p begin="6910653749t" end="6931924999t" region="region_10" xml:id="subtitle268">[murmuring in Spanish]</p>
+<p begin="6910653749t" end="6931924999t" region="region_00" xml:id="subtitle269">[murmullos en español]</p>
+<p begin="6932759166t" end="6962789166t" region="region_10" xml:id="subtitle270"><span style="defaultStyle_1">Sure, once in a while,</span><br/><span style="defaultStyle_1">we got lucky and picked somebody up.</span></p>
+<p begin="6932759166t" end="6962789166t" region="region_00" xml:id="subtitle271"><span style="defaultStyle_1">A veces teníamos suerte</span><br/><span style="defaultStyle_1">y dábamos con alguien,</span></p>
+<p begin="6963623332t" end="6986562916t" region="region_10" xml:id="subtitle272"><span style="defaultStyle_1">But it was rarely the guy</span><br/><span style="defaultStyle_1">we were looking for.</span></p>
+<p begin="6963623332t" end="6986562916t" region="region_00" xml:id="subtitle273"><span style="defaultStyle_1">pero rara vez era quien buscábamos.</span></p>
+<p begin="6987397082t" end="6999492499t" region="region_10" xml:id="subtitle274">[arguing in Spanish]</p>
+<p begin="6987397082t" end="6999492499t" region="region_00" xml:id="subtitle275">[gritos en español]</p>
+<p begin="7007417082t" end="7031190832t" region="region_10" xml:id="subtitle276">Shh! Don't make me kill you<br/>in front of your mother.</p>
+<p begin="7007417082t" end="7044120416t" region="region_00" xml:id="subtitle277">- No te hagas matar delante de tu mamá.<br/>- ¡No la toques!</p>
+<p begin="7032024999t" end="7044120416t" region="region_10" xml:id="subtitle278">Don't touch her!</p>
+<p begin="7044954582t" end="7067477082t" region="region_10" xml:id="subtitle279">Relax, mother, relax.</p>
+<p begin="7044954582t" end="7067477082t" region="region_00" xml:id="subtitle280">Ya, ya. Tranquila, madre. Tranquila.</p>
+<p begin="7075401666t" end="7092919166t" region="region_10" xml:id="subtitle281">[Steve]<br/><span style="defaultStyle_1">It was slow-going.</span></p>
+<p begin="7075401666t" end="7092919166t" region="region_00" xml:id="subtitle282">[Steve]<br/><span style="defaultStyle_1">Era un proceso lento.</span></p>
+<p begin="7103346249t" end="7132542082t" region="region_10" xml:id="subtitle283">[Martinez in Spanish] If you don't<br/>cooperate, we can't find your son.</p>
+<p begin="7103346249t" end="7139632499t" region="region_00" xml:id="subtitle284">[Martínez] Señora, si no colabora,<br/>no encontraremos a su hijo.</p>
+<p begin="7133376249t" end="7171747916t" region="region_10" xml:id="subtitle285">But I don't know where he is.<br/>I didn't notice anything.</p>
+<p begin="7140466666t" end="7171747916t" region="region_00" xml:id="subtitle286">Es que no sé dónde está.<br/>No me di cuenta de nada.</p>
+<p begin="7172582082t" end="7195521666t" region="region_10" xml:id="subtitle287">Do you have enemies here<br/>in the neighborhood?</p>
+<p begin="7172582082t" end="7195521666t" region="region_00" xml:id="subtitle288">¿Hay algún enemigo aquí en el barrio?</p>
+<p begin="7196355832t" end="7225968749t" region="region_10" xml:id="subtitle289">I don't know.<br/>It was my fault that he was here.</p>
+<p begin="7196355832t" end="7240149582t" region="region_00" xml:id="subtitle290">No, yo no sé. Fue culpa mía que viniera.<br/>Vino a visitar a su mamá...</p>
+<p begin="7226802916t" end="7240566666t" region="region_10" xml:id="subtitle291">He came to see his mother...</p>
+<p begin="7240983749t" end="7273099166t" region="region_00" xml:id="subtitle292">[en inglés] Llegamos tarde.<br/>Dice que ya se lo llevaron.</p>
+<p begin="7241400832t" end="7266008749t" region="region_10" xml:id="subtitle293">[in English]<br/>We're too late. Says they already got him.</p>
+<p begin="7331073749t" end="7378621249t" region="region_10" xml:id="subtitle294">We finally get corroboration on Jairo,<br/>Martinez orders the raid...</p>
+<p begin="7331073749t" end="7378621249t" region="region_00" xml:id="subtitle295">Finalmente nos corroboran la ubicación<br/>de Jairo, Martínez ordena la redada...</p>
+<p begin="7394470416t" end="7408651249t" region="region_10" xml:id="subtitle296">So?</p>
+<p begin="7394470416t" end="7408651249t" region="region_00" xml:id="subtitle297">¿Y?</p>
+<p begin="7409485416t" end="7438264166t" region="region_10" xml:id="subtitle298">Well, so, how does Los Pepes<br/>get here first?</p>
+<p begin="7409485416t" end="7438264166t" region="region_00" xml:id="subtitle299">¿Cómo es que Los Pepes<br/>llegan antes que nosotros?</p>
+<p begin="7463706249t" end="7479972499t" region="region_10" xml:id="subtitle300">Maybe he got followed.</p>
+<p begin="7463706249t" end="7479972499t" region="region_00" xml:id="subtitle301">Tal vez alguien lo siguió.</p>
+<p begin="7494987499t" end="7524600416t" region="region_10" xml:id="subtitle302">Or the dumb fuck shot his mouth off<br/>and somebody else got lucky.</p>
+<p begin="7494987499t" end="7524600416t" region="region_00" xml:id="subtitle303">O el estúpido abrió la boca<br/>y alguien más lo oyó.</p>
+<p begin="7525434582t" end="7553379166t" region="region_10" xml:id="subtitle304">Mmm. That's it?<br/>That's all you got to say on that?</p>
+<p begin="7525434582t" end="7553379166t" region="region_00" xml:id="subtitle305">¿Es todo lo que tienes para decir?</p>
+<p begin="7577987082t" end="7586328749t" region="region_10" xml:id="subtitle306">Yeah.</p>
+<p begin="7577987082t" end="7586328749t" region="region_00" xml:id="subtitle307">Sí.</p>
+<p begin="7626368749t" end="7644720416t" region="region_10" xml:id="subtitle308">If it worries you, look into it.</p>
+<p begin="7626368749t" end="7644720416t" region="region_00" xml:id="subtitle309">Si te preocupa, investígalo.</p>
+<p begin="7659735416t" end="7684760416t" region="region_10" xml:id="subtitle310">[Steve]<br/><span style="defaultStyle_1">"Look into it"? Right.</span></p>
+<p begin="7659735416t" end="7684760416t" region="region_00" xml:id="subtitle311">[Steve]<br/><span style="defaultStyle_1">¿"Investígalo"? Sí, claro.</span></p>
+<p begin="7700192499t" end="7733559166t" region="region_10" xml:id="subtitle312"><span style="defaultStyle_1">Nobody was looking into it.</span><br/><span style="defaultStyle_1">Why would they?</span></p>
+<p begin="7700192499t" end="7733142082t" region="region_00" xml:id="subtitle313"><span style="defaultStyle_1">Nadie lo investigaba.</span><br/><span style="defaultStyle_1">¿Por qué iban a hacerlo?</span></p>
+<p begin="7733976249t" end="7765257499t" region="region_00" xml:id="subtitle314"><span style="defaultStyle_1">La pandilla de Pablo</span><br/><span style="defaultStyle_1">aparecía muerta por todo Medellín</span></p>
+<p begin="7734393332t" end="7765257499t" region="region_10" xml:id="subtitle315"><span style="defaultStyle_1">Pablo's crew was turning up dead</span><br/><span style="defaultStyle_1">all over Medellín,</span></p>
+<p begin="7766091666t" end="7788614166t" region="region_10" xml:id="subtitle316"><span style="defaultStyle_1">and Jairo became the latest victim.</span></p>
+<p begin="7766091666t" end="7788614166t" region="region_00" xml:id="subtitle317"><span style="defaultStyle_1">y Jairo era la última víctima.</span></p>
+<p begin="7789448332t" end="7813222082t" region="region_10" xml:id="subtitle318"><span style="defaultStyle_1">The terror that Pablo had spread</span><br/><span style="defaultStyle_1">across the country</span></p>
+<p begin="7789448332t" end="7813222082t" region="region_00" xml:id="subtitle319"><span style="defaultStyle_1">Pablo finalmente cosechaba con creces</span></p>
+<p begin="7814056249t" end="7859935416t" region="region_10" xml:id="subtitle320"><span style="defaultStyle_1">was finally back on him tenfold.</span><br/><span style="defaultStyle_1">Los Pepes' method was working.</span></p>
+<p begin="7814056249t" end="7859935416t" region="region_00" xml:id="subtitle321"><span style="defaultStyle_1">el terror que había sembrado en el país.</span><br/><span style="defaultStyle_1">El método de Los Pepes funcionaba</span></p>
+<p begin="7860769582t" end="7884126249t" region="region_10" xml:id="subtitle322"><span style="defaultStyle_3">And you better believe</span><br/><span style="defaultStyle_3">it was getting to Escobar.</span></p>
+<p begin="7860769582t" end="7901226666t" region="region_00" xml:id="subtitle323"><span style="defaultStyle_3">y no cabían dudas</span><br/><span style="defaultStyle_3">de que estaba afectando a Escobar.</span></p>
+<p begin="7884960416t" end="7901226666t" region="region_10" xml:id="subtitle324">IN DEFENSE OF THE COLOMBIAN PEOPLE</p>
+<p begin="7902060832t" end="7925000416t" region="region_10" xml:id="subtitle325">[Carlos in Spanish]<br/>What did you ask Santa for?</p>
+<p begin="7902060832t" end="7925000416t" region="region_00" xml:id="subtitle326">[Carlos en español]<br/>¿Qué pides al niño Dios?</p>
+<p begin="7925834582t" end="7942517916t" region="region_10" xml:id="subtitle327">-[Juan Pablo] A game.<br/>-Which one?</p>
+<p begin="7925834582t" end="7945020416t" region="region_00" xml:id="subtitle328">- [Juan Pablo] Un juego.<br/>- ¿Cuál?</p>
+<p begin="7943352082t" end="7976718749t" region="region_10" xml:id="subtitle329">-[Juan Pablo] The Joker game.<br/>-You think he'll bring it to you?</p>
+<p begin="7945854582t" end="7977135832t" region="region_00" xml:id="subtitle330">- [Juan Pablo] El del guasón.<br/>- ¿Crees que te lo trae?</p>
+<p begin="7977552916t" end="7990065416t" region="region_10" xml:id="subtitle331">[Juan Pablo]<br/>Dad?</p>
+<p begin="7977969999t" end="7988814166t" region="region_00" xml:id="subtitle332">[Juan Pablo]<br/>¿Papá?</p>
+<p begin="7989648332t" end="8022180832t" region="region_00" xml:id="subtitle333">¿Cierto que Papá Noel<br/>me va a traer el juego del guasón?</p>
+<p begin="7990899582t" end="8020512499t" region="region_10" xml:id="subtitle334">Santa is going to bring me<br/>the Joker game, right?</p>
+<p begin="8040115416t" end="8067225832t" region="region_10" xml:id="subtitle335">Dad? Dad?</p>
+<p begin="8040115416t" end="8067225832t" region="region_00" xml:id="subtitle336">¿Papá? ¿Papá?</p>
+<p begin="8068059999t" end="8084743332t" region="region_10" xml:id="subtitle337">Pablo, my love?</p>
+<p begin="8068059999t" end="8084743332t" region="region_00" xml:id="subtitle338">¿Pablo, mi amor?</p>
+<p begin="8099341249t" end="8131873749t" region="region_00" xml:id="subtitle339">Sí, Papá Noel le va a traer<br/>lo que quiera, como siempre.</p>
+<p begin="8100592499t" end="8131873749t" region="region_10" xml:id="subtitle340">Of course, Santa will bring you<br/>everything you want, like always.</p>
+<p begin="8132707916t" end="8152727916t" region="region_10" xml:id="subtitle341">Christmas without Christ.</p>
+<p begin="8132707916t" end="8152727916t" region="region_00" xml:id="subtitle342">Navidad sin Jesús.</p>
+<p begin="8196521666t" end="8209034166t" region="region_10" xml:id="subtitle343">Pablo.</p>
+<p begin="8196521666t" end="8209034166t" region="region_00" xml:id="subtitle344">Pablo.</p>
+<p begin="8222380832t" end="8256164582t" region="region_00" xml:id="subtitle345">Me gustaría mañana<br/>ir a la misa de adviento con los niños.</p>
+<p begin="8224883332t" end="8256164582t" region="region_10" xml:id="subtitle346">I'm planning on going to<br/>the advent service tomorrow with the kids.</p>
+<p begin="8256998749t" end="8279521249t" region="region_10" xml:id="subtitle347">What? No.<br/>No one should leave this house.</p>
+<p begin="8256998749t" end="8279104166t" region="region_00" xml:id="subtitle348">Que no. Nadie puede dejar esta casa.</p>
+<p begin="8279938332t" end="8305380416t" region="region_00" xml:id="subtitle349">A los niños<br/>les va a encantar ver las luces.</p>
+<p begin="8280355416t" end="8305380416t" region="region_10" xml:id="subtitle350">I'm sure the kids would love<br/>to see the lights, Pablo.</p>
+<p begin="8306214582t" end="8327485832t" region="region_10" xml:id="subtitle351">[Tata] The children are staying here<br/>and so are you.</p>
+<p begin="8306214582t" end="8327485832t" region="region_00" xml:id="subtitle352">[Tata] Ellos no salen y tú tampoco.</p>
+<p begin="8328319999t" end="8350842499t" region="region_10" xml:id="subtitle353">[Hermilda] Remember the first time<br/>you saw the fireworks?</p>
+<p begin="8328319999t" end="8350842499t" region="region_00" xml:id="subtitle354">[Hermilda] ¿Recordás<br/>cuando viste los fuegos?</p>
+<p begin="8351676666t" end="8387545832t" region="region_10" xml:id="subtitle355">My love, can you tell your mother<br/>she can't take the children to Medellín?</p>
+<p begin="8351676666t" end="8387545832t" region="region_00" xml:id="subtitle356">¿Podés decirle que no se puede<br/>llevar los niños a Medellín?</p>
+<p begin="8388379999t" end="8411319582t" region="region_10" xml:id="subtitle357">[Pablo]<br/>Mama, it's best for us to stay here.</p>
+<p begin="8388379999t" end="8411319582t" region="region_00" xml:id="subtitle358">[Pablo]<br/>Es mejor que nos quedemos aquí.</p>
+<p begin="8412153749t" end="8433007916t" region="region_10" xml:id="subtitle359">It's been a month<br/>since I've gone to church.</p>
+<p begin="8412153749t" end="8433424999t" region="region_00" xml:id="subtitle360">Hace un mes que no voy a la iglesia.</p>
+<p begin="8433842082t" end="8463454999t" region="region_10" xml:id="subtitle361">I'm sure that God<br/>can hear your prayers from here.</p>
+<p begin="8434259166t" end="8463454999t" region="region_00" xml:id="subtitle362">Seguro que Dios escuchará<br/>sus oraciones desde acá.</p>
+<p begin="8464289166t" end="8475550416t" region="region_10" xml:id="subtitle363">[Blackie]<br/>Don Pablo.</p>
+<p begin="8464289166t" end="8475550416t" region="region_00" xml:id="subtitle364">[Blackie]<br/>Don Pablo.</p>
+<p begin="8559384166t" end="8588997082t" region="region_10" xml:id="subtitle365">Boss, they killed three more of our men.</p>
+<p begin="8559384166t" end="8588997082t" region="region_00" xml:id="subtitle366">Patrón, mataron<br/>a tres más de nuestros hombres.</p>
+<p begin="8589831249t" end="8617358750t" region="region_10" xml:id="subtitle367">They found Jairo dead next to the river.</p>
+<p begin="8589831249t" end="8617358750t" region="region_00" xml:id="subtitle368">A Jairo lo encontraron<br/>muerto al lado del río.</p>
+<p begin="8636127500t" end="8672413750t" region="region_10" xml:id="subtitle369">-[low chatter]<br/>-Look, it's the Baccarat Crystal.</p>
+<p begin="8636127500t" end="8672413750t" region="region_00" xml:id="subtitle370">- [las mujeres charlan]<br/>- Ay, mirá, eso es Baccarat.</p>
+<p begin="8682006666t" end="8693267916t" region="region_10" xml:id="subtitle371">-Thank you.<br/>-Oh!</p>
+<p begin="8682006666t" end="8693267916t" region="region_00" xml:id="subtitle372">- Gracias.<br/>- ¡Ay!</p>
+<p begin="8694102082t" end="8729554166t" region="region_10" xml:id="subtitle373">-That's also Baccarat Crystal.<br/>-Feel the weight. Look...</p>
+<p begin="8694102082t" end="8727885832t" region="region_00" xml:id="subtitle374">- ¡Ay, este es Baccarat también!<br/>- Y mirá el peso. Mirá.</p>
+<p begin="8728720000t" end="8741232500t" region="region_00" xml:id="subtitle375">[golpetea el cristal]</p>
+<p begin="8730388332t" end="8742066666t" region="region_10" xml:id="subtitle376">[woman taps on crystal]</p>
+<p begin="8742066666t" end="8784192082t" region="region_00" xml:id="subtitle377">Le haces así y se siente que es Baccarat.<br/>Estos son los Lloreda, ¿no?</p>
+<p begin="8742900832t" end="8784192082t" region="region_10" xml:id="subtitle378">You can feel it's Baccarat.<br/>This is from the Lloredas, right?</p>
+<p begin="8785026250t" end="8799207082t" region="region_10" xml:id="subtitle379">How's it going, my love?</p>
+<p begin="8785026250t" end="8799207082t" region="region_00" xml:id="subtitle380">¿Cómo va, mi amor?</p>
+<p begin="8800041250t" end="8827985832t" region="region_10" xml:id="subtitle381">My love, look at what<br/>the Lloredas brought.</p>
+<p begin="8800041250t" end="8827985832t" region="region_00" xml:id="subtitle382">Mi amor, mirá el regalo de los Lloreda.</p>
+<p begin="8828820000t" end="8876784582t" region="region_10" xml:id="subtitle383">-Look, there's two.<br/>-The Lloredas always treat us well...</p>
+<p begin="8828820000t" end="8876784582t" region="region_00" xml:id="subtitle384">- Mira estos.<br/>- No, ellos... ellos siempre se lucen.</p>
+<p begin="8877618750t" end="8896804582t" region="region_10" xml:id="subtitle385">[chatter continues]</p>
+<p begin="8877618750t" end="8896804582t" region="region_00" xml:id="subtitle386">[siguen charlando]</p>
+<p begin="8897638750t" end="8929754166t" region="region_10" xml:id="subtitle387">NEW DEATH SQUAD IN MEDELLIN</p>
+<p begin="8936844582t" end="8972296666t" region="region_00" xml:id="subtitle388">[Gilberto] <span style="defaultStyle_1">Por reconfortantes</span><br/><span style="defaultStyle_1">que parezcan estos despliegues,</span></p>
+<p begin="8942683750t" end="8972296666t" region="region_10" xml:id="subtitle389">[Gilberto]<br/><span style="defaultStyle_1">As gratifying as these displays may feel,</span></p>
+<p begin="8973130832t" end="8999407082t" region="region_10" xml:id="subtitle390">I'm not comfortable with these signs.</p>
+<p begin="8973130832t" end="8999407082t" region="region_00" xml:id="subtitle391">no me siento cómodo<br/>mandando estos mensajes.</p>
+<p begin="9000241250t" end="9033607916t" region="region_10" xml:id="subtitle392">They invite too much attention<br/>and will lead to questions.</p>
+<p begin="9000241250t" end="9033607916t" region="region_00" xml:id="subtitle393">Atraen demasiada atención y preguntas.</p>
+<p begin="9034442082t" end="9081155416t" region="region_10" xml:id="subtitle394">Our objective is to eliminate Escobar<br/>as efficiently and discreetly as possible.</p>
+<p begin="9034442082t" end="9081155416t" region="region_00" xml:id="subtitle395">Nuestro objetivo es eliminar a Escobar<br/>lo más eficiente y discretamente posible.</p>
+<p begin="9081989582t" end="9097004582t" region="region_10" xml:id="subtitle396">Without a doubt.</p>
+<p begin="9081989582t" end="9097004582t" region="region_00" xml:id="subtitle397">Sin duda.</p>
+<p begin="9174999166t" end="9209200000t" region="region_00" xml:id="subtitle398">No más declaraciones<br/>ni manifiestos ni cartas a los medios.</p>
+<p begin="9175833332t" end="9209200000t" region="region_10" xml:id="subtitle399">No more proclamations or manifestos<br/>or letters to the media.</p>
+<p begin="9210034166t" end="9231722500t" region="region_10" xml:id="subtitle400">What about Miami?</p>
+<p begin="9210034166t" end="9231722500t" region="region_00" xml:id="subtitle401">¿Y qué hacemos con Miami?</p>
+<p begin="9253410832t" end="9276350416t" region="region_10" xml:id="subtitle402">We buy time.</p>
+<p begin="9253410832t" end="9276350416t" region="region_00" xml:id="subtitle403">Ganamos tiempo.</p>
+<p begin="9277184582t" end="9303460832t" region="region_10" xml:id="subtitle404">Let him think he still has control.</p>
+<p begin="9277184582t" end="9303460832t" region="region_00" xml:id="subtitle405">Le hacemos pensar que todavía lo controla.</p>
+<p begin="9310968332t" end="9329737082t" region="region_10" xml:id="subtitle406">Until the moment we take it from him.</p>
+<p begin="9310968332t" end="9329737082t" region="region_00" xml:id="subtitle407">Y a última hora se lo quitamos.</p>
+<p begin="9397304582t" end="9425666250t" region="region_10" xml:id="subtitle408">-[in Spanish] New intel from the embassy.<br/>-Thank you.</p>
+<p begin="9397304582t" end="9428168750t" region="region_00" xml:id="subtitle409">- [en español] Información de la embajada.<br/>- Gracias.</p>
+<p begin="9492816666t" end="9524932082t" region="region_00" xml:id="subtitle410">[en inglés] ¿Centra Spike<br/>envía un regalo de Navidad?</p>
+<p begin="9496153332t" end="9524932082t" region="region_10" xml:id="subtitle411">[in English] Centra Spike<br/>give us anything good for Christmas?</p>
+<p begin="9525766250t" end="9553293750t" region="region_10" xml:id="subtitle412">Well, Blackie's been getting calls<br/>from Envigado.</p>
+<p begin="9525766250t" end="9553293750t" region="region_00" xml:id="subtitle413">Blackie ha recibido llamadas de Envigado.</p>
+<p begin="9567474582t" end="9586660416t" region="region_10" xml:id="subtitle414">The son of a bitch has got a girlfriend.</p>
+<p begin="9567474582t" end="9586660416t" region="region_00" xml:id="subtitle415">El hijo de puta tiene una novia.</p>
+<p begin="9629620000t" end="9659650000t" region="region_10" xml:id="subtitle416">Here, I'll give that to Martinez.<br/>I'm sure it's gotta get vetted.</p>
+<p begin="9629620000t" end="9659650000t" region="region_00" xml:id="subtitle417">Se lo daré a Martínez.<br/>Seguro que deben revisarlo.</p>
+<p begin="9660484166t" end="9678001666t" region="region_10" xml:id="subtitle418">Yeah, sure. Whatever.</p>
+<p begin="9660484166t" end="9678001666t" region="region_00" xml:id="subtitle419">Sí, claro. Como quieras.</p>
+<p begin="9764337916t" end="9780604166t" region="region_10" xml:id="subtitle420">[line ringing]</p>
+<p begin="9764337916t" end="9780604166t" region="region_00" xml:id="subtitle421">[suena la línea]</p>
+<p begin="9786860416t" end="9808965832t" region="region_00" xml:id="subtitle422">[Berna en español]<br/><span style="defaultStyle_1">¿Qué me trae, Peña?</span></p>
+<p begin="9789362916t" end="9808965832t" region="region_10" xml:id="subtitle423">[Berna in Spanish]<br/><span style="defaultStyle_1">What do you have for me?</span></p>
+<p begin="9809800000t" end="9823146666t" region="region_10" xml:id="subtitle424">I got something new.</p>
+<p begin="9809800000t" end="9823146666t" region="region_00" xml:id="subtitle425">Tengo algo nuevo.</p>
+<p begin="9831071250t" end="9869025832t" region="region_10" xml:id="subtitle426"><span style="defaultStyle_1">-Blackie.</span><br/>-I like the way this is going, Javier.</p>
+<p begin="9831071250t" end="9869025832t" region="region_00" xml:id="subtitle427"><span style="defaultStyle_1">- A Blackie.</span><br/>- Me gusta cómo está funcionando esto.</p>
+<p begin="9869860000t" end="9908648750t" region="region_10" xml:id="subtitle428">He's got a girlfriend. She's pregnant,<br/>keeps calling. They're vetting it now.</p>
+<p begin="9869860000t" end="9914070832t" region="region_00" xml:id="subtitle429">Tiene una novia embarazada, que llama<br/>todo el día. Van allá a investigarlo.</p>
+<p begin="9909482916t" end="9946603332t" region="region_10" xml:id="subtitle430">It'll take a while.<br/>Blackie's going to show.</p>
+<p begin="9914905000t" end="9946603332t" region="region_00" xml:id="subtitle431">Se van a demorar. Blackie va a aparecer.</p>
+<p begin="9947437500t" end="9964120832t" region="region_10" xml:id="subtitle432"><span style="defaultStyle_1">It's done.</span></p>
+<p begin="9947437500t" end="9964120832t" region="region_00" xml:id="subtitle433"><span style="defaultStyle_1">Hecho.</span></p>
+<p begin="9971211250t" end="10002492500t" region="region_10" xml:id="subtitle434">[Steve]<span style="defaultStyle_1"> I didn't know how Los Pepes</span><br/><span style="defaultStyle_1">was beating us to the punch.</span></p>
+<p begin="9971211250t" end="10010000000t" region="region_00" xml:id="subtitle435">[Steve]<span style="defaultStyle_1"> Yo todavía no sabía por qué</span><br/><span style="defaultStyle_1">Los Pepes se nos anticipaban.</span></p>
+<p begin="10003326666t" end="10034190832t" region="region_10" xml:id="subtitle436"><span style="defaultStyle_1">Not yet anyway.</span><br/><span style="defaultStyle_1">What I did know was that if Search Bloc</span></p>
+<p begin="10010834166t" end="10034190832t" region="region_00" xml:id="subtitle437"><span style="defaultStyle_1">Pero sí sabía que el Bloque de Búsqueda</span></p>
+<p begin="10035025000t" end="10064637916t" region="region_10" xml:id="subtitle438"><span style="defaultStyle_1">was gonna have any kind of impact</span><br/><span style="defaultStyle_1">on the hunt for Pablo,</span></p>
+<p begin="10035025000t" end="10087577500t" region="region_00" xml:id="subtitle439"><span style="defaultStyle_1">tendría que moverse mejor y más rápido</span><br/><span style="defaultStyle_1">si quería hacer algún aporte a la cacería.</span></p>
+<p begin="10065472082t" end="10087577500t" region="region_10" xml:id="subtitle440"><span style="defaultStyle_1">we'd have to play the game</span><br/><span style="defaultStyle_1">better and faster.</span></p>
+<p begin="10088411666t" end="10124697916t" region="region_10" xml:id="subtitle441">All right, Blackie's had a girlfriend<br/>in Envigado for a while.</p>
+<p begin="10088411666t" end="10124697916t" region="region_00" xml:id="subtitle442">Hace tiempo que Blackie<br/>tiene una novia en Envigado.</p>
+<p begin="10125532082t" end="10138878750t" region="region_10" xml:id="subtitle443">According to Centra Spike,</p>
+<p begin="10125532082t" end="10156813332t" region="region_00" xml:id="subtitle444">Según la última llamada<br/>interceptada por Centra Spike,</p>
+<p begin="10139712916t" end="10177667500t" region="region_10" xml:id="subtitle445">the last known intercept<br/>places her somewhere in this vicinity.</p>
+<p begin="10157647500t" end="10177667500t" region="region_00" xml:id="subtitle446">ella se encuentra por esta zona.</p>
+<p begin="10178501666t" end="10204777916t" region="region_10" xml:id="subtitle447">Yeah. And how's that relevant?</p>
+<p begin="10178501666t" end="10204777916t" region="region_00" xml:id="subtitle448">¿Y qué relevancia tiene eso?</p>
+<p begin="10205612082t" end="10223546666t" region="region_10" xml:id="subtitle449">Intel says she's pregnant.</p>
+<p begin="10205612082t" end="10223546666t" region="region_00" xml:id="subtitle450">Sabemos que está embarazada.</p>
+<p begin="10230220000t" end="10263586666t" region="region_10" xml:id="subtitle451">I know protocol is to vet intel,<br/>wait for corroboration,</p>
+<p begin="10230220000t" end="10264837916t" region="region_00" xml:id="subtitle452">Sé que el protocolo implica<br/>revisar y corroborar los datos,</p>
+<p begin="10264420832t" end="10287360416t" region="region_10" xml:id="subtitle453">but I feel this one in my gut, sir.</p>
+<p begin="10265672082t" end="10306546250t" region="region_00" xml:id="subtitle454">pero tengo el presentimiento<br/>de que Blackie irá a verla.</p>
+<p begin="10288194582t" end="10306546250t" region="region_10" xml:id="subtitle455">Blackie's gonna show.</p>
+<p begin="10307380416t" end="10345335000t" region="region_10" xml:id="subtitle456">Los Pepes keeps getting the jump on us,<br/><span style="defaultStyle_1">sicarios</span> are gonna keep winding up dead.</p>
+<p begin="10307380416t" end="10345335000t" region="region_00" xml:id="subtitle457">Si Los Pepes se nos adelantan,<br/>seguirán muriendo sicarios.</p>
+<p begin="10346169166t" end="10364937916t" region="region_10" xml:id="subtitle458">This way, we get to Blackie first,</p>
+<p begin="10346169166t" end="10364937916t" region="region_00" xml:id="subtitle459">Si nosotros damos con Blackie,</p>
+<p begin="10365772082t" end="10394550832t" region="region_10" xml:id="subtitle460">bring that son of a bitch in<br/>and get something out of him.</p>
+<p begin="10365772082t" end="10394550832t" region="region_00" xml:id="subtitle461">podemos arrestar al cabrón<br/>y sonsacarle algo.</p>
+<p begin="10436676250t" end="10490897082t" region="region_10" xml:id="subtitle462">Well, we could set up a perimeter.<br/>No one walks in or out.</p>
+<p begin="10436676250t" end="10490897082t" region="region_00" xml:id="subtitle463">Podríamos establecer<br/>un perímetro. Nadie sale ni entra.</p>
+<p begin="10491731250t" end="10510500000t" region="region_10" xml:id="subtitle464">[Steve]<br/>Collapse that perimeter house by house.</p>
+<p begin="10491731250t" end="10510500000t" region="region_00" xml:id="subtitle465">[Steve]<br/>Luego ir casa por casa.</p>
+<p begin="10511334166t" end="10533022500t" region="region_10" xml:id="subtitle466">-[Martinez] Yeah.<br/>-[Steve] Sounds good to me.</p>
+<p begin="10511334166t" end="10535525000t" region="region_00" xml:id="subtitle467">- [Martínez] Sí.<br/>- [Steve] Me parece bien.</p>
+<p begin="10571394166t" end="10608931666t" region="region_10" xml:id="subtitle468">[groans, in Spanish] Almighty Holy Child<br/>of Atocha. Carmelita, help me please.</p>
+<p begin="10571394166t" end="10599338750t" region="region_00" xml:id="subtitle469">[se lamenta en español]<br/>Poderoso Niño de Atocha.</p>
+<p begin="10600172916t" end="10625197916t" region="region_00" xml:id="subtitle470">Ayudame, Carmelita, no pelees más conmigo.</p>
+<p begin="10609765832t" end="10625197916t" region="region_10" xml:id="subtitle471">Don't fight with me anymore.</p>
+<p begin="10626032082t" end="10660650000t" region="region_10" xml:id="subtitle472">I'm going to tell you two things:<br/>First, relax.</p>
+<p begin="10626032082t" end="10659398750t" region="region_00" xml:id="subtitle473">Te voy a decir dos cosas:<br/>la primera, tranquilizate.</p>
+<p begin="10660232916t" end="10680670000t" region="region_00" xml:id="subtitle474">Eso les hace daño a vos y al bebé.</p>
+<p begin="10661484166t" end="10680670000t" region="region_10" xml:id="subtitle475">That's harmful for you and the baby.</p>
+<p begin="10681504166t" end="10715287916t" region="region_10" xml:id="subtitle476">Second, for the love of God,<br/>take the money.</p>
+<p begin="10681504166t" end="10712785416t" region="region_00" xml:id="subtitle477">La segunda, por el amor de Dios,<br/>recibime el billete.</p>
+<p begin="10713619582t" end="10728217500t" region="region_00" xml:id="subtitle478">Después te consigo más.</p>
+<p begin="10716122082t" end="10729051666t" region="region_10" xml:id="subtitle479">I'll find more later.</p>
+<p begin="10729051666t" end="10762835416t" region="region_00" xml:id="subtitle480">No es para vos, no es para mí,<br/>es para el bebé. Entendeme.</p>
+<p begin="10729885832t" end="10762835416t" region="region_10" xml:id="subtitle481">It's not for you or me, it's for the baby,<br/>please understand.</p>
+<p begin="10763669582t" end="10792865416t" region="region_10" xml:id="subtitle482">Try to understand me.<br/>I don't want your money.</p>
+<p begin="10763669582t" end="10790362916t" region="region_00" xml:id="subtitle483">Mirá, entendeme vos a mí.<br/>No quiero tu dinero.</p>
+<p begin="10791197082t" end="10819558750t" region="region_00" xml:id="subtitle484">Quiero que estés conmigo<br/>y con el bebé. Solo eso.</p>
+<p begin="10793699582t" end="10816639166t" region="region_10" xml:id="subtitle485">I want you to be with me<br/>and the baby, that's it.</p>
+<p begin="10817473332t" end="10856262082t" region="region_10" xml:id="subtitle486">Stop being stupid, girl.<br/>We need that money.</p>
+<p begin="10820392916t" end="10853759582t" region="region_00" xml:id="subtitle487">Déjate de pendejadas, muchacha.<br/>Esa plata la necesitamos.</p>
+<p begin="10854593750t" end="10882121250t" region="region_00" xml:id="subtitle488">- Escuche a su papá.<br/>- No sé qué le pasa.</p>
+<p begin="10857096250t" end="10882121250t" region="region_10" xml:id="subtitle489">-Listen to your dad.<br/>-I don't know what's wrong with this girl.</p>
+<p begin="10882955416t" end="10901307082t" region="region_10" xml:id="subtitle490">[Blackie]<br/>She's stubborn.</p>
+<p begin="10882955416t" end="10901307082t" region="region_00" xml:id="subtitle491">[Blackie]<br/>Es que está terca.</p>
+<p begin="10902141250t" end="10912151250t" region="region_10" xml:id="subtitle492">[chatter in Spanish]</p>
+<p begin="10902141250t" end="10912985416t" region="region_00" xml:id="subtitle493">[órdenes en español]</p>
+<p begin="10912985416t" end="10927583332t" region="region_10" xml:id="subtitle494">-[in English] Hey!<br/>-Hey.</p>
+<p begin="10913819582t" end="10927583332t" region="region_00" xml:id="subtitle495">- [en inglés] ¡Ey!<br/>- Ey.</p>
+<p begin="10928417500t" end="10940095832t" region="region_10" xml:id="subtitle496">What's going on?</p>
+<p begin="10928417500t" end="10940095832t" region="region_00" xml:id="subtitle497">¿Qué pasa?</p>
+<p begin="10940930000t" end="10968874582t" region="region_10" xml:id="subtitle498">Martinez gave the green light<br/>to go after Blackie.</p>
+<p begin="10940930000t" end="10968874582t" region="region_00" xml:id="subtitle499">Martínez dio luz verde<br/>para ir por Blackie.</p>
+<p begin="10985557916t" end="11013502500t" region="region_10" xml:id="subtitle500">-It's a good thing, right?<br/>-Yeah. Right.</p>
+<p begin="10985557916t" end="11013502500t" region="region_00" xml:id="subtitle501">- Es buena noticia, ¿no?<br/>- Sí, claro.</p>
+<p begin="11024346666t" end="11043949582t" region="region_00" xml:id="subtitle502">Es un maldito milagro de Navidad.</p>
+<p begin="11025180832t" end="11043949582t" region="region_10" xml:id="subtitle503">Goddamn Christmas miracle.</p>
+<p begin="11219541666t" end="11252491250t" region="region_00" xml:id="subtitle504">[en español] Puesto de control tres,<br/>estamos en posición.</p>
+<p begin="11233722500t" end="11252491250t" region="region_10" xml:id="subtitle505">[in Spanish]<br/>Post three is in position.</p>
+<p begin="11253325416t" end="11287943332t" region="region_10" xml:id="subtitle506">[man over radio]<br/><span style="defaultStyle_1">Yes, sir, we'll be there in five minutes.</span></p>
+<p begin="11253325416t" end="11288777500t" region="region_00" xml:id="subtitle507">[hombre por radio] <span style="defaultStyle_1">Sí, señor.</span><br/><span style="defaultStyle_1">Estaremos ahí en cinco minutos.</span></p>
+<p begin="11399721666t" end="11410565832t" region="region_10" xml:id="subtitle508">[Berna]<br/><span style="defaultStyle_1">Wait, Javier.</span></p>
+<p begin="11399721666t" end="11416405000t" region="region_00" xml:id="subtitle509">[Berna]<br/><span style="defaultStyle_1">Esperate, Javier.</span></p>
+<p begin="11466037916t" end="11486475000t" region="region_10" xml:id="subtitle510">[in English]<br/>We're moving in. Let's go.</p>
+<p begin="11466037916t" end="11486475000t" region="region_00" xml:id="subtitle511">[en inglés]<br/>Avancemos. Vamos.</p>
+<p begin="11519007500t" end="11536525000t" region="region_10" xml:id="subtitle512">[phone ringing]</p>
+<p begin="11519007500t" end="11536525000t" region="region_00" xml:id="subtitle513">[suena el teléfono]</p>
+<p begin="11544449582t" end="11585740832t" region="region_10" xml:id="subtitle514">[in Spanish]<br/>Talk to me. We're just getting here.</p>
+<p begin="11544449582t" end="11585740832t" region="region_00" xml:id="subtitle515">[en español] Diga. Vea,<br/>pero nosotros ya estamos llegando.</p>
+<p begin="11586575000t" end="11603675416t" region="region_10" xml:id="subtitle516">Copy that, we're leaving now.</p>
+<p begin="11586575000t" end="11601590000t" region="region_00" xml:id="subtitle517">Bueno, listo, nos vamos.</p>
+<p begin="11604509582t" end="11627866250t" region="region_10" xml:id="subtitle518">It was Berna.<br/>The streets are full of Search Bloc.</p>
+<p begin="11604509582t" end="11627449166t" region="region_00" xml:id="subtitle519">Era Berna, esto está minado de tombos.</p>
+<p begin="11628283332t" end="11663735416t" region="region_00" xml:id="subtitle520">Muchachos, se acabó la cacería<br/>por hoy, nos largamos de aquí.</p>
+<p begin="11628700416t" end="11663735416t" region="region_10" xml:id="subtitle521">All right, boys, the hunt is over for now.<br/>Let's get out of here.</p>
+<p begin="11723795416t" end="11742147082t" region="region_10" xml:id="subtitle522">-What's going on?<br/>-Nothing, sir.</p>
+<p begin="11723795416t" end="11742147082t" region="region_00" xml:id="subtitle523">- ¿Qué pasa?<br/>- Nada, señor.</p>
+<p begin="11742981250t" end="11775513750t" region="region_10" xml:id="subtitle524">We're conducting a police operation.<br/>All good?</p>
+<p begin="11742981250t" end="11775513750t" region="region_00" xml:id="subtitle525">Es una operación<br/>de control policial. ¿Todo bien?</p>
+<p begin="11776347916t" end="11790111666t" region="region_10" xml:id="subtitle526">[affirmative murmur]</p>
+<p begin="11776347916t" end="11790111666t" region="region_00" xml:id="subtitle527">[afirma en voz baja]</p>
+<p begin="11798036250t" end="11810131666t" region="region_10" xml:id="subtitle528">Let him through.</p>
+<p begin="11798036250t" end="11810131666t" region="region_00" xml:id="subtitle529">Que siga.</p>
+<p begin="11846417916t" end="11899804582t" region="region_10" xml:id="subtitle530">Keep calm, guys.<br/>Hide your weapons while we handle this.</p>
+<p begin="11846417916t" end="11872694166t" region="region_00" xml:id="subtitle531">Muchachos, calmaditos y quieticos.</p>
+<p begin="11873528332t" end="11899804582t" region="region_00" xml:id="subtitle532">Escondan las armas<br/>mientras arreglamos esto.</p>
+<p begin="11900638750t" end="11916905000t" region="region_10" xml:id="subtitle533">Let him through.</p>
+<p begin="11900638750t" end="11916905000t" region="region_00" xml:id="subtitle534">Que siga, que siga.</p>
+<p begin="12009080416t" end="12029100416t" region="region_10" xml:id="subtitle535">Good evening, what can I do for you?</p>
+<p begin="12009080416t" end="12034105416t" region="region_00" xml:id="subtitle536">Buenas, agente,<br/>¿qué puedo hacer por usted?</p>
+<p begin="12035356666t" end="12079567500t" region="region_10" xml:id="subtitle537">Good afternoon, gentlemen.<br/>I need to see some form of ID, please.</p>
+<p begin="12035356666t" end="12079567500t" region="region_00" xml:id="subtitle538">Buenas tardes. Son tan amables y me dejan<br/>ver sus documentos de identidad.</p>
+<p begin="12080401666t" end="12098336250t" region="region_10" xml:id="subtitle539">Of course, with pleasure.</p>
+<p begin="12080401666t" end="12098336250t" region="region_00" xml:id="subtitle540">Claro que sí, con mucho gusto.</p>
+<p begin="12127532082t" end="12144632500t" region="region_10" xml:id="subtitle541">How's this for an ID?</p>
+<p begin="12127532082t" end="12144632500t" region="region_00" xml:id="subtitle542">¿Así está bien de papeles?</p>
+<p begin="12229300416t" end="12271842916t" region="region_00" xml:id="subtitle543">Háganme el favor, se bajan ya del carro.<br/>Y las manos donde las pueda ver.</p>
+<p begin="12229717500t" end="12270591666t" region="region_10" xml:id="subtitle544">Get out of the car and put your hands<br/>where I can see them.</p>
+<p begin="12277682082t" end="12291028750t" region="region_10" xml:id="subtitle545">Quickly.</p>
+<p begin="12277682082t" end="12291028750t" region="region_00" xml:id="subtitle546">Rápido.</p>
+<p begin="12315636666t" end="12327732082t" region="region_10" xml:id="subtitle547">Boy, come over here.</p>
+<p begin="12315636666t" end="12327732082t" region="region_00" xml:id="subtitle548">Muchacho, venga.</p>
+<p begin="12328566250t" end="12374445416t" region="region_10" xml:id="subtitle549">-Colonel. Situation at checkpoint 20.<br/>-What's going on?</p>
+<p begin="12328566250t" end="12374445416t" region="region_00" xml:id="subtitle550">- Coronel. Situación en el sector 20.<br/>- ¿Qué pasó?</p>
+<p begin="12375279582t" end="12396550832t" region="region_10" xml:id="subtitle551">-Armed men attempting to pass through.<br/>-Checkpoint 20?</p>
+<p begin="12375279582t" end="12399470416t" region="region_00" xml:id="subtitle552">- Hombres armados quieren pasar.<br/>- ¿En el sector 20?</p>
+<p begin="12397385000t" end="12409063332t" region="region_10" xml:id="subtitle553">That's correct, sir.</p>
+<p begin="12400304582t" end="12409063332t" region="region_00" xml:id="subtitle554">Así es, señor.</p>
+<p begin="12430751666t" end="12457862082t" region="region_00" xml:id="subtitle555">- Todas las unidades al sector 20.<br/>- Entendido.</p>
+<p begin="12432002916t" end="12457862082t" region="region_10" xml:id="subtitle556">-All units move to position 20.<br/>-Understood.</p>
+<p begin="12458696250t" end="12483721250t" region="region_10" xml:id="subtitle557">All units to position 20. Move!</p>
+<p begin="12458696250t" end="12482887082t" region="region_00" xml:id="subtitle558">Todas las unidades al sector 20. ¡Rápido!</p>
+<p begin="12483721250t" end="12515836666t" region="region_00" xml:id="subtitle559">- [en inglés] ¿Qué pasa?<br/>- Hay un problema en el retén.</p>
+<p begin="12484555416t" end="12515836666t" region="region_10" xml:id="subtitle560">-[in English] What's going on?<br/>-Some shit's going down at checkpoint.</p>
+<p begin="12569223332t" end="12599670416t" region="region_10" xml:id="subtitle561">[in Spanish]<br/>My love, you have to take the money.</p>
+<p begin="12569223332t" end="12599670416t" region="region_00" xml:id="subtitle562">[en español]<br/>Hágame el favor, recíbame la plata...</p>
+<p begin="12600504582t" end="12628449166t" region="region_10" xml:id="subtitle563">Blackie! Blackie. The cops are here.</p>
+<p begin="12600504582t" end="12628449166t" region="region_00" xml:id="subtitle564">¡Blackie! Blackie, los tombos.</p>
+<p begin="12629283332t" end="12659730416t" region="region_10" xml:id="subtitle565">Take care of the baby!<br/>Take care, Carmelita!</p>
+<p begin="12629283332t" end="12659730416t" region="region_00" xml:id="subtitle566">¡Cuidá al bebé! ¡Cuidate, Carmelita!</p>
+<p begin="12668489166t" end="12714785416t" region="region_10" xml:id="subtitle567">We're both on the same team here.<br/>What's the problem?</p>
+<p begin="12668489166t" end="12708946250t" region="region_00" xml:id="subtitle568">Ustedes y nosotros estamos jugando<br/>del mismo lado, del mismo equipo.</p>
+<p begin="12709780416t" end="12722710000t" region="region_00" xml:id="subtitle569">¿Cuál es el problema?</p>
+<p begin="12723544166t" end="12763584166t" region="region_10" xml:id="subtitle570">Stay where you are!<br/>Hands where I can see them.</p>
+<p begin="12723544166t" end="12763584166t" region="region_00" xml:id="subtitle571">¡Quédese donde está!<br/>¡Y las manos arriba donde las pueda ver!</p>
+<p begin="12792362916t" end="12812800000t" region="region_10" xml:id="subtitle572">Relax, relax.</p>
+<p begin="12792362916t" end="12812800000t" region="region_00" xml:id="subtitle573">Tranquilos, tranquilos.</p>
+<p begin="12830317500t" end="12845749582t" region="region_10" xml:id="subtitle574">Want to see my ID?</p>
+<p begin="12830317500t" end="12845749582t" region="region_00" xml:id="subtitle575">¿Quiere ver mi cédula?</p>
+<p begin="12861181666t" end="12881618750t" region="region_10" xml:id="subtitle576">-Take it out slowly.<br/>-Okay.</p>
+<p begin="12861181666t" end="12881618750t" region="region_00" xml:id="subtitle577">- Hágale, despacio.<br/>- Okey.</p>
+<p begin="12995065416t" end="13026763750t" region="region_10" xml:id="subtitle578">You point a gun at me, motherfucker?</p>
+<p begin="12995065416t" end="13026763750t" region="region_00" xml:id="subtitle579">¿Vos me apuntás a mí<br/>con una pistola, hijo de puta?</p>
+<p begin="13027597916t" end="13047200832t" region="region_10" xml:id="subtitle580">Do me a favor.</p>
+<p begin="13027597916t" end="13046783750t" region="region_00" xml:id="subtitle581">Haceme un favor.</p>
+<p begin="13047617916t" end="13085572500t" region="region_00" xml:id="subtitle582">Mové esas patrullas que no estamos<br/>jugando a policías y ladrones.</p>
+<p begin="13048035000t" end="13085572500t" region="region_10" xml:id="subtitle583">Move those cars because<br/>we're not playing Cops and Robbers here.</p>
+<p begin="13090994582t" end="13109763332t" region="region_10" xml:id="subtitle584">[Steve in English]<br/>What the fuck is this?</p>
+<p begin="13090994582t" end="13113934166t" region="region_00" xml:id="subtitle585">[Steve en inglés]<br/>¿Qué carajo es esto?</p>
+<p begin="13131868750t" end="13141044582t" region="region_10" xml:id="subtitle586">Hey, hey, hey, hey!</p>
+<p begin="13131868750t" end="13141044582t" region="region_00" xml:id="subtitle587">¡Ey!</p>
+<p begin="13141878750t" end="13175662500t" region="region_10" xml:id="subtitle588">[in Spanish]<br/>Relax! Relax! Relax! Relax!</p>
+<p begin="13141878750t" end="13175662500t" region="region_00" xml:id="subtitle589">[en español] ¡Tranquilo, tranquilo!</p>
+<p begin="13176496666t" end="13194014166t" region="region_10" xml:id="subtitle590">Disarm. Disarm!</p>
+<p begin="13176496666t" end="13194014166t" region="region_00" xml:id="subtitle591">Desarma. ¡Desarma!</p>
+<p begin="13200270416t" end="13220707500t" region="region_10" xml:id="subtitle592">-No, you disarm!<br/>-Sir...</p>
+<p begin="13200270416t" end="13220707500t" region="region_00" xml:id="subtitle593">- No, baje el arma suya.<br/>- Señor.</p>
+<p begin="13221541666t" end="13243230000t" region="region_10" xml:id="subtitle594">[Carlos]<br/>Lower your firearm!</p>
+<p begin="13221541666t" end="13243230000t" region="region_00" xml:id="subtitle595">[Carlos]<br/>¡Que la baje!</p>
+<p begin="13256159582t" end="13287857916t" region="region_10" xml:id="subtitle596">[in English] Put the fucking gun down!<br/>[in Spanish] Easy! Easy!</p>
+<p begin="13256159582t" end="13287857916t" region="region_00" xml:id="subtitle597">[en inglés] ¡Baje la puta arma!<br/>[en español] ¡Suave!</p>
+<p begin="13288692082t" end="13315385416t" region="region_10" xml:id="subtitle598">[Javier clapping]<br/>Okay, tough guys. Bravo!</p>
+<p begin="13288692082t" end="13315385416t" region="region_00" xml:id="subtitle599">[Javier aplaude]<br/>¡Qué machitos! ¡Qué bravos!</p>
+<p begin="13325395416t" end="13333737082t" region="region_10" xml:id="subtitle600">Bravo!</p>
+<p begin="13325395416t" end="13333737082t" region="region_00" xml:id="subtitle601">¡Bravo!</p>
+<p begin="13344581250t" end="13381701666t" region="region_10" xml:id="subtitle602">Bravo, yes, we know it.<br/>We all want Escobar.</p>
+<p begin="13344581250t" end="13381284582t" region="region_00" xml:id="subtitle603">¡Bravo! Sí, sí, ya lo sabemos.<br/>Todos queremos a Escobar.</p>
+<p begin="13382118750t" end="13402972916t" region="region_00" xml:id="subtitle604">Pero dejanos hacer el puto trabajo.</p>
+<p begin="13382535832t" end="13402972916t" region="region_10" xml:id="subtitle605">But let us do the fucking job.</p>
+<p begin="13420907500t" end="13452605832t" region="region_10" xml:id="subtitle606">[softly] What? You want to<br/>kill each other at a checkpoint?</p>
+<p begin="13420907500t" end="13452605832t" region="region_00" xml:id="subtitle607">[en voz baja]<br/>¿Qué? ¿Nos matamos en un puto retén?</p>
+<p begin="13472625832t" end="13489309166t" region="region_10" xml:id="subtitle608">Lower your weapon. Lower it.</p>
+<p begin="13472625832t" end="13489309166t" region="region_00" xml:id="subtitle609">Bajen el arma. Bajen.</p>
+<p begin="13508494999t" end="13522675832t" region="region_10" xml:id="subtitle610">[whispers] Lower it.</p>
+<p begin="13508494999t" end="13522675832t" region="region_00" xml:id="subtitle611">[susurra] Baja el arma.</p>
+<p begin="13594831249t" end="13627780832t" region="region_10" xml:id="subtitle612">Okay. These dreamers<br/>think they're helping.</p>
+<p begin="13594831249t" end="13627780832t" region="region_00" xml:id="subtitle613">Estos ilusos creen que están ayudando.</p>
+<p begin="13637790832t" end="13663232916t" region="region_10" xml:id="subtitle614">-Are you okay? Yeah? Everything okay?<br/>-Yes, sir.</p>
+<p begin="13637790832t" end="13663232916t" region="region_00" xml:id="subtitle615">- ¿Estás bien? ¿Sí? ¿Todo bien?<br/>- Sí, señor.</p>
+<p begin="13664067082t" end="13701187499t" region="region_10" xml:id="subtitle616">Okay. Let's go home alive.</p>
+<p begin="13664067082t" end="13701187499t" region="region_00" xml:id="subtitle617">Okey. Bueno, vámonos vivos a la casa.</p>
+<p begin="13702021666t" end="13720373332t" region="region_10" xml:id="subtitle618">-Okay?<br/>-Okay.</p>
+<p begin="13702021666t" end="13720373332t" region="region_00" xml:id="subtitle619">- ¿Okey?<br/>- Okey.</p>
+<p begin="13721207499t" end="13734554166t" region="region_10" xml:id="subtitle620">-Let them pass.<br/>-Okay.</p>
+<p begin="13721207499t" end="13734554166t" region="region_00" xml:id="subtitle621">- Que pasen.<br/>- Okey.</p>
+<p begin="13760413332t" end="13785438332t" region="region_10" xml:id="subtitle622">Well then, thank you.</p>
+<p begin="13760413332t" end="13785438332t" region="region_00" xml:id="subtitle623">No, pues, dé gracias.</p>
+<p begin="13868854999t" end="13897216666t" region="region_00" xml:id="subtitle624">[en inglés]<br/>Intento evitar una matanza, hermano.</p>
+<p begin="13870106249t" end="13894714166t" region="region_10" xml:id="subtitle625">[in English]<br/>Trying to avoid a bloodbath, brother.</p>
+<p begin="14001487499t" end="14024844166t" region="region_00" xml:id="subtitle626">[en español]<br/>¿Qué pasó? ¿Todo bien? ¿Sí?</p>
+<p begin="14002321666t" end="14024844166t" region="region_10" xml:id="subtitle627">[in Spanish]<br/>What happened? Everything okay? Yes?</p>
+<p begin="14025678332t" end="14039442082t" region="region_10" xml:id="subtitle628">Yes, sir.</p>
+<p begin="14025678332t" end="14039442082t" region="region_00" xml:id="subtitle629">Sí, señor.</p>
+<p begin="14040276249t" end="14061130416t" region="region_10" xml:id="subtitle630">[Trujillo]<br/>Miss, we need your cooperation.</p>
+<p begin="14040276249t" end="14066969582t" region="region_00" xml:id="subtitle631">[Trujillo] Señorita,<br/>queremos su colaboración.</p>
+<p begin="14067803749t" end="14091994582t" region="region_00" xml:id="subtitle632">¿Dónde está Blackie? ¿Dónde lo ubicamos?</p>
+<p begin="14068220832t" end="14092411666t" region="region_10" xml:id="subtitle633">Tell us where Blackie is.<br/>Where do we find him?</p>
+<p begin="14092828749t" end="14110763332t" region="region_00" xml:id="subtitle634">Ya le dije que no lo he visto.</p>
+<p begin="14093245832t" end="14110346249t" region="region_10" xml:id="subtitle635">I told you. I haven't seen him.</p>
+<p begin="14111180416t" end="14133285832t" region="region_10" xml:id="subtitle636">Don't be afraid. We don't want you.</p>
+<p begin="14111597499t" end="14162064582t" region="region_00" xml:id="subtitle637">No tenga miedo, no la queremos a usted.<br/>Queremos a su pareja. A Blackie.</p>
+<p begin="14134119999t" end="14162064582t" region="region_10" xml:id="subtitle638">We want your boyfriend, Blackie.</p>
+<p begin="14171240416t" end="14198767916t" region="region_10" xml:id="subtitle639">Sir, I told you,<br/>I don't know where he's at.</p>
+<p begin="14171240416t" end="14198767916t" region="region_00" xml:id="subtitle640">Señor, ya le dije que no sé dónde está.</p>
+<p begin="14199602082t" end="14224209999t" region="region_10" xml:id="subtitle641">That bastard has not come around<br/>in a long time.</p>
+<p begin="14199602082t" end="14224209999t" region="region_00" xml:id="subtitle642">Ese malparido no viene hace mucho tiempo.</p>
+<p begin="14225044166t" end="14259244999t" region="region_10" xml:id="subtitle643">If you want, let's go to the station.<br/>But I told you, I don't know where he is.</p>
+<p begin="14225044166t" end="14259244999t" region="region_00" xml:id="subtitle644">Si quiere vamos a la estación,<br/>pero ya le dije que no sé dónde está.</p>
+<p begin="14260079166t" end="14277179582t" region="region_10" xml:id="subtitle645">So please leave my house.</p>
+<p begin="14260079166t" end="14277179582t" region="region_00" xml:id="subtitle646">Por favor, váyase de mi casa.</p>
+<p begin="14283018749t" end="14309294999t" region="region_10" xml:id="subtitle647">They were eight, maybe ten.</p>
+<p begin="14283018749t" end="14309294999t" region="region_00" xml:id="subtitle648">Eran ocho, tal vez diez.</p>
+<p begin="14330149166t" end="14353505832t" region="region_10" xml:id="subtitle649">How did they take your firearm?</p>
+<p begin="14330149166t" end="14353505832t" region="region_00" xml:id="subtitle650">¿Y cómo hicieron para quitarle el arma?</p>
+<p begin="14388540832t" end="14429832082t" region="region_10" xml:id="subtitle651">-I don't know, he just took it. Sorry.<br/>-[sighs]</p>
+<p begin="14388540832t" end="14429832082t" region="region_00" xml:id="subtitle652">- No sé, simplemente me la quitó. Perdón.<br/>- [suspira]</p>
+<p begin="14446515416t" end="14492394582t" region="region_10" xml:id="subtitle653">Next time, might as well<br/>put the gun to your own head.</p>
+<p begin="14446515416t" end="14492394582t" region="region_00" xml:id="subtitle654">Pues la próxima vez que saque el arma,<br/>apúntesela en la propia cabeza, huevón.</p>
+<p begin="14493228749t" end="14505741249t" region="region_10" xml:id="subtitle655">It's easier.</p>
+<p begin="14493228749t" end="14505741249t" region="region_00" xml:id="subtitle656">Más fácil.</p>
+<p begin="14541610416t" end="14554539999t" region="region_10" xml:id="subtitle657">[sighs]</p>
+<p begin="14541610416t" end="14554539999t" region="region_00" xml:id="subtitle658">[suspira]</p>
+<p begin="14665484166t" end="14708026666t" region="region_10" xml:id="subtitle659">[in English] When were you gonna tell me<br/>about your new friend Carlos Castaño?</p>
+<p begin="14665484166t" end="14708026666t" region="region_00" xml:id="subtitle660">[en inglés] ¿Cuándo me ibas a contar<br/>de tu nuevo amigo, Carlos Castaño?</p>
+<p begin="14763915832t" end="14808543749t" region="region_10" xml:id="subtitle661">He's not a friend, he's a...<br/>he's a man with a shared interest.</p>
+<p begin="14763915832t" end="14808543749t" region="region_00" xml:id="subtitle662">No es un amigo... es alguien<br/>con quien comparto un interés.</p>
+<p begin="14809377916t" end="14833151666t" region="region_10" xml:id="subtitle663">Jesus Christ.<br/>I hope you know what you're doing.</p>
+<p begin="14809377916t" end="14833151666t" region="region_00" xml:id="subtitle664">Dios. Espero que sepas lo que haces.</p>
+<p begin="14833985832t" end="14856508332t" region="region_10" xml:id="subtitle665">Don't worry.<br/>It's not gonna blow back on you.</p>
+<p begin="14833985832t" end="14856508332t" region="region_00" xml:id="subtitle666">No te preocupes, no te afectará.</p>
+<p begin="14857342499t" end="14881950416t" region="region_10" xml:id="subtitle667">-No, it's not me I'm worried about.<br/>-I can handle it.</p>
+<p begin="14857342499t" end="14881950416t" region="region_00" xml:id="subtitle668">- No me preocupa eso.<br/>- Puedo manejarlo.</p>
+<p begin="14882784582t" end="14899467916t" region="region_10" xml:id="subtitle669">These aren't the guys<br/>you wanna be messing with.</p>
+<p begin="14882784582t" end="14899467916t" region="region_00" xml:id="subtitle670">Con estos tipos no se jode.</p>
+<p begin="14955774166t" end="14986638332t" region="region_10" xml:id="subtitle671">They're gonna do what they're gonna do<br/>with or without me, right?</p>
+<p begin="14955774166t" end="14986638332t" region="region_00" xml:id="subtitle672">Harán lo que quieran<br/>con o sin mi ayuda, ¿no?</p>
+<p begin="14992060416t" end="15039190832t" region="region_10" xml:id="subtitle673">At least this way...<br/>I'm on the inside and I can control it.</p>
+<p begin="14992060416t" end="15039190832t" region="region_00" xml:id="subtitle674">Al menos de esta manera...<br/>sé lo que hacen y puedo controlarlos.</p>
+<p begin="15053371666t" end="15087989582t" region="region_10" xml:id="subtitle675">-Make sure it doesn't go too far.<br/>-So that doesn't go too far?</p>
+<p begin="15053371666t" end="15087989582t" region="region_00" xml:id="subtitle676">- Ver que no se pasen.<br/>- ¿Que no se pasen?</p>
+<p begin="15088823749t" end="15113431666t" region="region_10" xml:id="subtitle677">The good guys, they got guns<br/>pointing at their fucking head</p>
+<p begin="15088823749t" end="15113431666t" region="region_00" xml:id="subtitle678">¿A los buenos les apuntan a la cabeza</p>
+<p begin="15114265832t" end="15144712916t" region="region_10" xml:id="subtitle679">-and the bad guys get away with it?<br/>-Who are the good guys, Steve?</p>
+<p begin="15114265832t" end="15152220416t" region="region_00" xml:id="subtitle680">- y los malos salen impunes?<br/>- ¿Quiénes son los buenos?</p>
+<p begin="15153054582t" end="15164315832t" region="region_10" xml:id="subtitle681">That's us?</p>
+<p begin="15153054582t" end="15164315832t" region="region_00" xml:id="subtitle682">¿Nosotros?</p>
+<p begin="15289857916t" end="15316551249t" region="region_10" xml:id="subtitle683">[in Spanish]<br/>Mr. President, these men, the Castaños,</p>
+<p begin="15289857916t" end="15321139166t" region="region_00" xml:id="subtitle684">[en español] Sr. presidente,<br/>yo conozco a los Castaño,</p>
+<p begin="15317385416t" end="15350752082t" region="region_10" xml:id="subtitle685">I've seen their tactics firsthand<br/>in the jungle against the FARC.</p>
+<p begin="15321973332t" end="15350752082t" region="region_00" xml:id="subtitle686">sé cómo operan en la selva<br/>en contra de las FARC.</p>
+<p begin="15351586249t" end="15400384999t" region="region_10" xml:id="subtitle687"><span style="defaultStyle_1">Their method of war is murder.</span><br/><span style="defaultStyle_1">I think this is only the beginning.</span></p>
+<p begin="15351586249t" end="15400384999t" region="region_00" xml:id="subtitle688"><span style="defaultStyle_1">Su método de guerra es el asesinato.</span><br/><span style="defaultStyle_1">Y yo creo que eso es solo el comienzo.</span></p>
+<p begin="15401219166t" end="15427495416t" region="region_10" xml:id="subtitle689"><span style="defaultStyle_1">And it will get even worse.</span></p>
+<p begin="15401219166t" end="15427495416t" region="region_00" xml:id="subtitle690"><span style="defaultStyle_1">Seguramente la situación va a empeorar.</span></p>
+<p begin="15428329582t" end="15454605832t" region="region_10" xml:id="subtitle691"><span style="defaultStyle_1">Colonel, I understand your concern.</span></p>
+<p begin="15428329582t" end="15454605832t" region="region_00" xml:id="subtitle692"><span style="defaultStyle_1">Coronel, entiendo su preocupación.</span></p>
+<p begin="15455439999t" end="15491726249t" region="region_10" xml:id="subtitle693">It's strange. They usually operate<br/>against the guerrillas</p>
+<p begin="15455439999t" end="15492143332t" region="region_00" xml:id="subtitle694">Bueno, y lo raro es que ellos<br/>usualmente atacan a la guerrilla,</p>
+<p begin="15492560416t" end="15528012499t" region="region_10" xml:id="subtitle695">but now they're operating<br/>against the narcos.</p>
+<p begin="15492977499t" end="15528012499t" region="region_00" xml:id="subtitle696">pero ahora también<br/>están atacando a los narcotraficantes.</p>
+<p begin="15528846666t" end="15564298749t" region="region_10" xml:id="subtitle697">Hugo, my cabinet is still evaluating<br/>the best course of action</p>
+<p begin="15528846666t" end="15554705832t" region="region_00" xml:id="subtitle698">Hugo. Mi gabinete está evaluando</p>
+<p begin="15555539999t" end="15581399166t" region="region_00" xml:id="subtitle699">las acciones a tomar<br/>en contra de Los Pepes.</p>
+<p begin="15565132916t" end="15581399166t" region="region_10" xml:id="subtitle700">with regard to Los Pepes.</p>
+<p begin="15582233332t" end="15645629999t" region="region_10" xml:id="subtitle701">Sir, I'd like your permission<br/>to engage them.</p>
+<p begin="15582233332t" end="15620187916t" region="region_00" xml:id="subtitle702">Señor, con todo respeto,<br/>me gustaría pedirle una autorización</p>
+<p begin="15621022082t" end="15645629999t" region="region_00" xml:id="subtitle703">para proceder en contra de ellos también.</p>
+<p begin="15646464166t" end="15699433749t" region="region_10" xml:id="subtitle704">No. The greatest service we can do<br/>for this nation is capture Escobar.</p>
+<p begin="15646464166t" end="15699433749t" region="region_00" xml:id="subtitle705">No, lo mejor que podemos hacer<br/>para esta nación es capturar a Escobar.</p>
+<p begin="15700267916t" end="15723624582t" region="region_10" xml:id="subtitle706">That's what we must focus on, Colonel.</p>
+<p begin="15700267916t" end="15723624582t" region="region_00" xml:id="subtitle707">En eso debemos enfocarnos, coronel.</p>
+<p begin="15724458749t" end="15744895832t" region="region_10" xml:id="subtitle708"><span style="defaultStyle_1">It's our priority.</span></p>
+<p begin="15724458749t" end="15744895832t" region="region_00" xml:id="subtitle709"><span style="defaultStyle_1">Es nuestra prioridad.</span></p>
+<p begin="15745729999t" end="15780764999t" region="region_10" xml:id="subtitle710">I understand. Thank you, sir.</p>
+<p begin="15745729999t" end="15780764999t" region="region_00" xml:id="subtitle711">Entiendo. Muchas gracias, señor.</p>
+<p begin="15824975832t" end="15841659166t" region="region_10" xml:id="subtitle712">[sighs softly]</p>
+<p begin="15849583749t" end="15872940416t" region="region_00" xml:id="subtitle713">[Steve]<br/><span style="defaultStyle_1">Los Pepes llevaban las de ganar,</span></p>
+<p begin="15850417916t" end="15874608749t" region="region_10" xml:id="subtitle714">[Steve]<span style="defaultStyle_1"> Los Pepes may have</span><br/><span style="defaultStyle_1">seemed to be running the board,</span></p>
+<p begin="15873774582t" end="15899216666t" region="region_00" xml:id="subtitle715"><span style="defaultStyle_1">pero Escobar tenía</span><br/><span style="defaultStyle_1">algunos ases en la manga.</span></p>
+<p begin="15875442916t" end="15899216666t" region="region_10" xml:id="subtitle716"><span style="defaultStyle_1">but Escobar still had a trick or two</span><br/><span style="defaultStyle_1">up his sleeve.</span></p>
+<p begin="15900050832t" end="15933417499t" region="region_10" xml:id="subtitle717"><span style="defaultStyle_1">Remember I told you Ricardo Prisco</span><br/><span style="defaultStyle_1">was a licensed doctor?</span></p>
+<p begin="15900050832t" end="15933417499t" region="region_00" xml:id="subtitle718"><span style="defaultStyle_1">¿Recuerdan que les conté</span><br/><span style="defaultStyle_1">que Ricardo era médico?</span></p>
+<p begin="15939256666t" end="15950100832t" region="region_10" xml:id="subtitle719"><span style="defaultStyle_1">Well, he was.</span></p>
+<p begin="15939256666t" end="15950100832t" region="region_00" xml:id="subtitle720"><span style="defaultStyle_1">Pues lo era.</span></p>
+<p begin="15950934999t" end="15998065416t" region="region_10" xml:id="subtitle721"><span style="defaultStyle_1">And as such, he had privileges</span><br/><span style="defaultStyle_1">at just about every hospital in Medellín.</span></p>
+<p begin="15950934999t" end="15998065416t" region="region_00" xml:id="subtitle722"><span style="defaultStyle_1">Como tal, tenía privilegios</span><br/><span style="defaultStyle_1">en casi todos los hospitales de Medellín,</span></p>
+<p begin="15998899582t" end="16036019999t" region="region_10" xml:id="subtitle723"><span style="defaultStyle_1">Including the one where the Los Pepes</span><br/><span style="defaultStyle_1">gunman he shot was recovering.</span></p>
+<p begin="15998899582t" end="16036019999t" region="region_00" xml:id="subtitle724"><span style="defaultStyle_1">aun donde estaba el secuaz</span><br/><span style="defaultStyle_1">de Los Pepes a quien había disparado.</span></p>
+<p begin="16036854166t" end="16077311249t" region="region_10" xml:id="subtitle725"><span style="defaultStyle_1">Unfortunately for that guy,</span><br/><span style="defaultStyle_1">Dr. Prisco paid him a visit.</span></p>
+<p begin="16036854166t" end="16077311249t" region="region_00" xml:id="subtitle726"><span style="defaultStyle_1">El tipo tuvo la mala suerte</span><br/><span style="defaultStyle_1">de que el doctor Prisco lo visitara.</span></p>
+<p begin="16078145416t" end="16100667916t" region="region_10" xml:id="subtitle727">[in Spanish]<br/>Let's take a look at this injury.</p>
+<p begin="16078145416t" end="16100667916t" region="region_00" xml:id="subtitle728">[en español]<br/>Vamos a ver esa herida.</p>
+<p begin="16137371249t" end="16166567082t" region="region_10" xml:id="subtitle729">Oh... very good.</p>
+<p begin="16137371249t" end="16166567082t" region="region_00" xml:id="subtitle730">Ah, muy bien.</p>
+<p begin="16187004166t" end="16214948749t" region="region_10" xml:id="subtitle731">-[muffled screams]<br/>-Shh!</p>
+<p begin="16187004166t" end="16214948749t" region="region_00" xml:id="subtitle732">- [gritos ahogados]<br/>- ¡Sh!</p>
+<p begin="16215782916t" end="16233300416t" region="region_10" xml:id="subtitle733">[whimpering]</p>
+<p begin="16215782916t" end="16233300416t" region="region_00" xml:id="subtitle734">[gemidos]</p>
+<p begin="16240390832t" end="16279596666t" region="region_10" xml:id="subtitle735">This is going to hurt.<br/>Tell me who you work for.</p>
+<p begin="16240390832t" end="16279596666t" region="region_00" xml:id="subtitle736">Va a doler. Dime para quién trabajas.</p>
+<p begin="16289189582t" end="16310043749t" region="region_10" xml:id="subtitle737">[Pablo]<br/>The Castaños.</p>
+<p begin="16289189582t" end="16310043749t" region="region_00" xml:id="subtitle738">[Pablo]<br/>Los Castaño.</p>
+<p begin="16326727082t" end="16343827499t" region="region_10" xml:id="subtitle739">Mmm.</p>
+<p begin="16326727082t" end="16343827499t" region="region_00" xml:id="subtitle740">Hm.</p>
+<p begin="16344661666t" end="16360510832t" region="region_10" xml:id="subtitle741">The Castaños.</p>
+<p begin="16344661666t" end="16360510832t" region="region_00" xml:id="subtitle742">Los Castaño.</p>
+<p begin="16381782082t" end="16417651249t" region="region_10" xml:id="subtitle743">What could have brought them<br/>out of the jungle?</p>
+<p begin="16381782082t" end="16417651249t" region="region_00" xml:id="subtitle744">¿Qué será lo que hizo<br/>que se salieran de la selva?</p>
+<p begin="16451017916t" end="16469369582t" region="region_10" xml:id="subtitle745">I say it was money.</p>
+<p begin="16451017916t" end="16469369582t" region="region_00" xml:id="subtitle746">Yo digo que plata.</p>
+<p begin="16478962499t" end="16511912082t" region="region_10" xml:id="subtitle747">More money than Judy Moncada can find.</p>
+<p begin="16478962499t" end="16511912082t" region="region_00" xml:id="subtitle748">Mucha más plata<br/>de la que tiene Judy Moncada.</p>
+<p begin="16529012499t" end="16539022499t" region="region_10" xml:id="subtitle749">Pablo.</p>
+<p begin="16529012499t" end="16539022499t" region="region_00" xml:id="subtitle750">Pablo.</p>
+<p begin="16559876666t" end="16589906666t" region="region_10" xml:id="subtitle751">Now is not the time<br/>to take on more problems, brother.</p>
+<p begin="16559876666t" end="16589906666t" region="region_00" xml:id="subtitle752">No es momento<br/>de que nos metamos en más problemas.</p>
+<p begin="16632449166t" end="16662062082t" region="region_10" xml:id="subtitle753">The Cali cartel thinks<br/>they're immune to attack.</p>
+<p begin="16632449166t" end="16662062082t" region="region_00" xml:id="subtitle754">El cartel de Cali piensa que es intocable.</p>
+<p begin="16662896249t" end="16686252916t" region="region_10" xml:id="subtitle755">This can't go unanswered.</p>
+<p begin="16662896249t" end="16686252916t" region="region_00" xml:id="subtitle756">Eso no se va a quedar así.</p>
+<p begin="16698348332t" end="16711277916t" region="region_10" xml:id="subtitle757">Go.</p>
+<p begin="16698348332t" end="16711277916t" region="region_00" xml:id="subtitle758">Hágale.</p>
+<p begin="16712112082t" end="16736302916t" region="region_10" xml:id="subtitle759">[men murmur in Spanish]</p>
+<p begin="16712112082t" end="16736302916t" region="region_00" xml:id="subtitle760">[los hombres murmuran en español]</p>
+<p begin="16882282082t" end="16897714166t" region="region_10" xml:id="subtitle761">Maria.</p>
+<p begin="16882282082t" end="16897714166t" region="region_00" xml:id="subtitle762">María.</p>
+<p begin="16916899999t" end="16938171249t" region="region_10" xml:id="subtitle763">[whispers] Carlos, you scared me.</p>
+<p begin="16916899999t" end="16938171249t" region="region_00" xml:id="subtitle764">[susurra] Carlos, me asustaste.</p>
+<p begin="17073306249t" end="17105421666t" region="region_10" xml:id="subtitle765">Tata, you have to do it now.<br/>Pablo's gone mad.</p>
+<p begin="17073306249t" end="17105421666t" region="region_00" xml:id="subtitle766">Tata, tenés que hacerlo ya.<br/>Pablo se enloqueció.</p>
+<p begin="17106255832t" end="17134617499t" region="region_10" xml:id="subtitle767">With everything he's planning,<br/>there will be consequences.</p>
+<p begin="17106255832t" end="17134617499t" region="region_00" xml:id="subtitle768">Todo lo que está haciendo<br/>traerá consecuencias.</p>
+<p begin="17135451666t" end="17156305832t" region="region_10" xml:id="subtitle769">You and the kids<br/>need to separate from him.</p>
+<p begin="17135451666t" end="17156722916t" region="region_00" xml:id="subtitle770">Vos y los niños lo tienen que dejar.</p>
+<p begin="17157139999t" end="17174657499t" region="region_10" xml:id="subtitle771">No, Carlos.</p>
+<p begin="17157557082t" end="17174657499t" region="region_00" xml:id="subtitle772">No, Carlos.</p>
+<p begin="17210109582t" end="17231797916t" region="region_10" xml:id="subtitle773">[whispers] Tata, my God, listen to me.</p>
+<p begin="17210109582t" end="17231797916t" region="region_00" xml:id="subtitle774">Tata, por Dios, escuchame.</p>
+<p begin="17232632082t" end="17261410832t" region="region_10" xml:id="subtitle775">There's a fearlessness to Los Pepes<br/>that I've never seen.</p>
+<p begin="17232632082t" end="17261410832t" region="region_00" xml:id="subtitle776">La actitud de Los Pepes,<br/>yo nunca la había visto.</p>
+<p begin="17262245000t" end="17292692082t" region="region_10" xml:id="subtitle777">The public declarations,<br/>the open displays.</p>
+<p begin="17262245000t" end="17292692082t" region="region_00" xml:id="subtitle778">Sus declaraciones,<br/>sus operaciones tan sangrientas.</p>
+<p begin="17293526250t" end="17318134166t" region="region_10" xml:id="subtitle779">They won't stop until he's dead.</p>
+<p begin="17293526250t" end="17318551250t" region="region_00" xml:id="subtitle780">Que no van a descansar hasta verlo muerto.</p>
+<p begin="17318968332t" end="17357757082t" region="region_10" xml:id="subtitle781">I know that, Carlos.<br/>I've known for a long time now.</p>
+<p begin="17319385416t" end="17357757082t" region="region_00" xml:id="subtitle782">Eso lo sé, Carlos.<br/>Lo sé desde hace tiempo.</p>
+<p begin="17366098750t" end="17392792082t" region="region_00" xml:id="subtitle783">¿Sabés cuál es<br/>el único pensamiento que tengo?</p>
+<p begin="17367350000t" end="17390289582t" region="region_10" xml:id="subtitle784">You know what's the only thought<br/>on my mind?</p>
+<p begin="17399465416t" end="17416982916t" region="region_10" xml:id="subtitle785">That this is the last time...</p>
+<p begin="17399465416t" end="17416982916t" region="region_00" xml:id="subtitle786">Que es la última vez...</p>
+<p begin="17424490416t" end="17457440000t" region="region_10" xml:id="subtitle787">the last time<br/>I'll look at my husband's face.</p>
+<p begin="17424490416t" end="17457440000t" region="region_00" xml:id="subtitle788">La última vez<br/>que voy a ver la cara de mi marido.</p>
+<p begin="17458274166t" end="17490806666t" region="region_10" xml:id="subtitle789">The last time<br/>I'll feel his arms around me.</p>
+<p begin="17458274166t" end="17490806666t" region="region_00" xml:id="subtitle790">La última vez<br/>que voy a sentir cómo me abraza.</p>
+<p begin="17491640832t" end="17525007500t" region="region_10" xml:id="subtitle791">The last time I'll see him play<br/>with our children.</p>
+<p begin="17491640832t" end="17525424582t" region="region_00" xml:id="subtitle792">La última vez que lo voy a ver<br/>jugando con nuestros hijos.</p>
+<p begin="17525841666t" end="17560876666t" region="region_10" xml:id="subtitle793">I automatically push that idea<br/>out of my mind.</p>
+<p begin="17526258750t" end="17560876666t" region="region_00" xml:id="subtitle794">Y automáticamente<br/>arranco ese sentimiento de mí.</p>
+<p begin="17561710832t" end="17579228332t" region="region_10" xml:id="subtitle795">And now? Hmm?</p>
+<p begin="17561710832t" end="17579228332t" region="region_00" xml:id="subtitle796">¿Y ahora qué? ¿Hm?</p>
+<p begin="17613429166t" end="17644293332t" region="region_10" xml:id="subtitle797">Now I know, Carlos, that wherever I go...</p>
+<p begin="17613429166t" end="17644293332t" region="region_00" xml:id="subtitle798">Y ahora me doy cuenta<br/>de que donde quiera que esté...</p>
+<p begin="17645127500t" end="17677660000t" region="region_00" xml:id="subtitle799">...yo siempre voy a ser<br/>la mujer de Pablo Escobar.</p>
+<p begin="17653469166t" end="17677660000t" region="region_10" xml:id="subtitle800">I'll always be Pablo Escobar's wife.</p>
+<p begin="17678494166t" end="17717700000t" region="region_10" xml:id="subtitle801">My children will always<br/>be Pablo Escobar's children.</p>
+<p begin="17678494166t" end="17717700000t" region="region_00" xml:id="subtitle802">Mis hijos siempre<br/>van a ser los hijos de Pablo Escobar.</p>
+<p begin="17724373332t" end="17749398332t" region="region_10" xml:id="subtitle803">Even if we lived in exile with him.</p>
+<p begin="17724373332t" end="17749398332t" region="region_00" xml:id="subtitle804">Aunque tenga que vivir<br/>en el exilio con él.</p>
+<p begin="17766498750t" end="17794860416t" region="region_10" xml:id="subtitle805">But without him? [scoffs softly]</p>
+<p begin="17766498750t" end="17794860416t" region="region_00" xml:id="subtitle806">Pero ¿sin él...?</p>
+<p begin="17805704582t" end="17817382916t" region="region_10" xml:id="subtitle807">No.</p>
+<p begin="17805704582t" end="17817382916t" region="region_00" xml:id="subtitle808">No.</p>
+<p begin="17849081250t" end="17874106250t" region="region_10" xml:id="subtitle809">Okay. Okay.</p>
+<p begin="17849081250t" end="17874106250t" region="region_00" xml:id="subtitle810">Okey.</p>
+<p begin="17874940416t" end="17891623750t" region="region_10" xml:id="subtitle811">Let's do something.</p>
+<p begin="17874940416t" end="17891623750t" region="region_00" xml:id="subtitle812">Hagamos algo.</p>
+<p begin="17892457916t" end="17932915000t" region="region_10" xml:id="subtitle813">If we talk to him,<br/>maybe he'll reconsider leaving with us.</p>
+<p begin="17892457916t" end="17932915000t" region="region_00" xml:id="subtitle814">Si hablamos con él, lo podemos convencer<br/>de que se vaya con nosotros.</p>
+<p begin="17958774166t" end="17977960000t" region="region_10" xml:id="subtitle815">I've had a good life.</p>
+<p begin="17958774166t" end="17977960000t" region="region_00" xml:id="subtitle816">He tenido una buena vida.</p>
+<p begin="17988804166t" end="18021336666t" region="region_00" xml:id="subtitle817">¿Vos alguna vez imaginaste<br/>que íbamos a tener todo esto?</p>
+<p begin="17990055416t" end="18019668332t" region="region_10" xml:id="subtitle818">Did you ever imagine we'd have all this?</p>
+<p begin="18120185416t" end="18149798332t" region="region_10" xml:id="subtitle819">[overlapping chatter slowly subsides]</p>
+<p begin="18120185416t" end="18149798332t" region="region_00" xml:id="subtitle820">[el bullicio se acalla poco a poco]</p>
+<p begin="18163145000t" end="18232797916t" region="region_10" xml:id="subtitle821">When my niece was growing up,<br/>she didn't think this day would come.</p>
+<p begin="18163145000t" end="18197345832t" region="region_00" xml:id="subtitle822">Cuando mi sobrina<br/>se estaba haciendo una señorita,</p>
+<p begin="18198597082t" end="18232797916t" region="region_00" xml:id="subtitle823">ella pensaba<br/>que este día nunca iba a llegar.</p>
+<p begin="18233632082t" end="18262410832t" region="region_10" xml:id="subtitle824">-[low chuckles]<br/>-She was so skinny.</p>
+<p begin="18233632082t" end="18262410832t" region="region_00" xml:id="subtitle825">- [la gente ríe por lo bajo]<br/>- Ella era flaquita.</p>
+<p begin="18263245000t" end="18298280000t" region="region_10" xml:id="subtitle826">-She wore glasses and had braces.<br/>-Yes.</p>
+<p begin="18263245000t" end="18298280000t" region="region_00" xml:id="subtitle827">- Usaba unas gafas y tenía frenillos.<br/>- Sí.</p>
+<p begin="18299114166t" end="18341656666t" region="region_10" xml:id="subtitle828">When she was 12,<br/>she thought her life was over.</p>
+<p begin="18299114166t" end="18341656666t" region="region_00" xml:id="subtitle829">A los doce años, ella pensaba<br/>que la vida ya se le iba a terminar.</p>
+<p begin="18350415416t" end="18385450416t" region="region_10" xml:id="subtitle830">I told her to wait and be patient.</p>
+<p begin="18350415416t" end="18385450416t" region="region_00" xml:id="subtitle831">Y yo le dije que esperara,<br/>que tuviera paciencia.</p>
+<p begin="18386284582t" end="18431329582t" region="region_10" xml:id="subtitle832">Someday her beauty on the outside<br/>would match her beauty within.</p>
+<p begin="18386284582t" end="18431329582t" region="region_00" xml:id="subtitle833">Que algún día su belleza exterior<br/>iba a igualar su belleza interior.</p>
+<p begin="18432163750t" end="18464279166t" region="region_10" xml:id="subtitle834">You have never looked more beautiful<br/>than you do tonight.</p>
+<p begin="18432163750t" end="18464279166t" region="region_00" xml:id="subtitle835">Nunca has estado<br/>tan bella como esta noche.</p>
+<p begin="18465113332t" end="18485550416t" region="region_10" xml:id="subtitle836">[murmurs of agreement in crowd]</p>
+<p begin="18465113332t" end="18485550416t" region="region_00" xml:id="subtitle837">[murmullos de aprobación]</p>
+<p begin="18486384582t" end="18501399582t" region="region_10" xml:id="subtitle838">Cheers to the family.</p>
+<p begin="18486384582t" end="18501399582t" region="region_00" xml:id="subtitle839">Brindo por la familia.</p>
+<p begin="18507655832t" end="18539354166t" region="region_10" xml:id="subtitle840">To Marta and Diego! Cheers!</p>
+<p begin="18507655832t" end="18539354166t" region="region_00" xml:id="subtitle841">Por Marta y Diego. ¡Salud!</p>
+<p begin="18540188332t" end="18569384166t" region="region_10" xml:id="subtitle842">-[crowd] Cheers!<br/>-[applause]</p>
+<p begin="18540188332t" end="18569384166t" region="region_00" xml:id="subtitle843">- [todos] ¡Salud!<br/>- [aplausos]</p>
+<p begin="18584399166t" end="18604419166t" region="region_10" xml:id="subtitle844">[up-tempo Latin music plays]</p>
+<p begin="18584399166t" end="18604419166t" region="region_00" xml:id="subtitle845">[música salsa]</p>
+<p begin="18843825000t" end="18860508332t" region="region_10" xml:id="subtitle846">[whispers indistinctly]</p>
+<p begin="18843825000t" end="18860508332t" region="region_00" xml:id="subtitle847">[murmullos indistintos]</p>
+<p begin="18951432500t" end="18976457500t" region="region_10" xml:id="subtitle848">[indistinct chatter]</p>
+<p begin="18951432500t" end="18976457500t" region="region_00" xml:id="subtitle849">[conversaciones indistintas]</p>
+<p begin="19045693332t" end="19065296250t" region="region_10" xml:id="subtitle850">[music continues nearby]</p>
+<p begin="19045693332t" end="19065296250t" region="region_00" xml:id="subtitle851">[sigue la música]</p>
+<p begin="19107421666t" end="19138702916t" region="region_10" xml:id="subtitle852">-[explosion]<br/>-[people screaming]</p>
+<p begin="19107421666t" end="19138702916t" region="region_00" xml:id="subtitle853">- [explosión]<br/>- [gritos]</p>
+<p begin="19156637500t" end="19168315832t" region="region_10" xml:id="subtitle854">[Diego] Wait!</p>
+<p begin="19156637500t" end="19168315832t" region="region_00" xml:id="subtitle855">[Diego] ¡Espera!</p>
+<p begin="19176240416t" end="19196260416t" region="region_10" xml:id="subtitle856">Wait! Wait!</p>
+<p begin="19176240416t" end="19196260416t" region="region_00" xml:id="subtitle857">¡Espera, espera!</p>
+<p begin="19216280416t" end="19233380832t" region="region_10" xml:id="subtitle858">[woman moans]</p>
+<p begin="19216280416t" end="19233380832t" region="region_00" xml:id="subtitle859">[una mujer gime]</p>
+<p begin="19251732500t" end="19274672082t" region="region_10" xml:id="subtitle860">[chaotic chatter]</p>
+<p begin="19251732500t" end="19274672082t" region="region_00" xml:id="subtitle861">[alboroto]</p>
+<p begin="19317631666t" end="19336817500t" region="region_10" xml:id="subtitle862">[woman sobbing]</p>
+<p begin="19317631666t" end="19336817500t" region="region_00" xml:id="subtitle863">[una mujer solloza]</p>
+<p begin="19368515832t" end="19416480416t" region="region_10" xml:id="subtitle864">Ma! Papa! Papa!</p>
+<p begin="19368515832t" end="19416480416t" region="region_00" xml:id="subtitle865">¡Ma! ¡Papá, papá!</p>
+<p begin="19439002916t" end="19469032916t" region="region_10" xml:id="subtitle866">-I'm here, my love.<br/>-Mom! [sobs]</p>
+<p begin="19439002916t" end="19469032916t" region="region_00" xml:id="subtitle867">- Aquí estás, mi amor.<br/>- ¡Mamá, mamá! [llora]</p>
+<p begin="19504067916t" end="19531178332t" region="region_10" xml:id="subtitle868">[sobbing continues]</p>
+<p begin="19504067916t" end="19531178332t" region="region_00" xml:id="subtitle869">[siguen los llantos]</p>
+<p begin="19596660416t" end="19612509582t" region="region_10" xml:id="subtitle870">That man...</p>
+<p begin="19596660416t" end="19612509582t" region="region_00" xml:id="subtitle871">Ese hombre...</p>
+<p begin="19645876250t" end="19678408750t" region="region_10" xml:id="subtitle872">has no decency.</p>
+<p begin="19645876250t" end="19678408750t" region="region_00" xml:id="subtitle873">...no tiene ningún tipo de decencia.</p>
+<p begin="19734297916t" end="19758488750t" region="region_10" xml:id="subtitle874">To attack my family like this...</p>
+<p begin="19734297916t" end="19758488750t" region="region_00" xml:id="subtitle875">Atacar así a mi familia...</p>
+<p begin="19781845416t" end="19802282500t" region="region_10" xml:id="subtitle876">my daughter...</p>
+<p begin="19781845416t" end="19802282500t" region="region_00" xml:id="subtitle877">A mi hija...</p>
+<p begin="19811875416t" end="19835232082t" region="region_10" xml:id="subtitle878">on the night of her wedding...</p>
+<p begin="19811875416t" end="19835232082t" region="region_00" xml:id="subtitle879">...la noche de su matrimonio...</p>
+<p begin="19863593750t" end="19888618750t" region="region_10" xml:id="subtitle880">Only a madman would do that.</p>
+<p begin="19863593750t" end="19888618750t" region="region_00" xml:id="subtitle881">Eso solo lo puede hacer un loco.</p>
+<p begin="19912392500t" end="19952432500t" region="region_10" xml:id="subtitle882">A crazed animal, dangerous.</p>
+<p begin="19912392500t" end="19952432500t" region="region_00" xml:id="subtitle883">Una bestia enloquecida, peligrosa.</p>
+<p begin="19992472500t" end="20004985000t" region="region_00" xml:id="subtitle884">Lo quiero ver muerto.</p>
+<p begin="19993306666t" end="20004985000t" region="region_10" xml:id="subtitle885">I want him dead.</p>
+<p begin="20014995000t" end="20035432082t" region="region_10" xml:id="subtitle886">Not next year. Right now.</p>
+<p begin="20014995000t" end="20035432082t" region="region_00" xml:id="subtitle887">No el próximo año, sino ya.</p>
+<p begin="20045025000t" end="20062542500t" region="region_10" xml:id="subtitle888">Kill all of them.</p>
+<p begin="20045025000t" end="20062542500t" region="region_00" xml:id="subtitle889">Mátenlos a todos.</p>
+<p begin="20063376666t" end="20109672916t" region="region_10" xml:id="subtitle890">I don't just want you to kill his lawyers,<br/>accountants and bankers...</p>
+<p begin="20063376666t" end="20109672916t" region="region_00" xml:id="subtitle891">No quiero que solamente maten<br/>a sus abogados, contadores, banqueros...</p>
+<p begin="20110507082t" end="20140537082t" region="region_10" xml:id="subtitle892">I want you to kill his secretaries...</p>
+<p begin="20110507082t" end="20140537082t" region="region_00" xml:id="subtitle893">Quiero que maten a sus secretarias...</p>
+<p begin="20153466666t" end="20199762916t" region="region_10" xml:id="subtitle894">anyone who lifted a finger<br/>to help that man.</p>
+<p begin="20153466666t" end="20199762916t" region="region_00" xml:id="subtitle895">A toda aquella persona que haya levantado<br/>un dedo para ayudar a ese hombre,</p>
+<p begin="20200597082t" end="20218948750t" region="region_10" xml:id="subtitle896">I want to see them dead.</p>
+<p begin="20200597082t" end="20218948750t" region="region_00" xml:id="subtitle897">la quiero ver muerta.</p>
+<p begin="20226039166t" end="20272752500t" region="region_10" xml:id="subtitle898">Anyone who has ever licked a postage stamp<br/>and put it on an envelope in his name,</p>
+<p begin="20226039166t" end="20272752500t" region="region_00" xml:id="subtitle899">A todo aquel que haya pegado<br/>una estampilla en una carta en su nombre,</p>
+<p begin="20273586666t" end="20294857916t" region="region_10" xml:id="subtitle900">I want to see them dead!</p>
+<p begin="20273586666t" end="20294857916t" region="region_00" xml:id="subtitle901">lo quiero ver muerto.</p>
+<p begin="20295692082t" end="20354917916t" region="region_10" xml:id="subtitle902">And then I want you to find anyone who<br/>ever shook his hand and kill them too!</p>
+<p begin="20295692082t" end="20341988332t" region="region_00" xml:id="subtitle903">Y luego van, Miguel, y me encuentran<br/>a todo aquel que lo haya saludado de mano,</p>
+<p begin="20342822500t" end="20354917916t" region="region_00" xml:id="subtitle904">y lo matan también.</p>
+<p begin="20385782082t" end="20405802082t" region="region_10" xml:id="subtitle905">That son of a bitch.</p>
+<p begin="20385782082t" end="20405802082t" region="region_00" xml:id="subtitle906">Terrible hijo de puta.</p>
+<p begin="20444590832t" end="20486299166t" region="region_10" xml:id="subtitle907">From this night, we'll show no mercy.</p>
+<p begin="20444590832t" end="20486299166t" region="region_00" xml:id="subtitle908">Desde esta noche,<br/>nadie debe ser visto con compasión.</p>
+<p begin="20597243332t" end="20611007082t" region="region_10" xml:id="subtitle909">[Pablo]<br/><span style="defaultStyle_1">Gilberto?</span></p>
+<p begin="20597243332t" end="20610590000t" region="region_00" xml:id="subtitle910">[Pablo]<br/><span style="defaultStyle_1">¿Y Gilberto?</span></p>
+<p begin="20611424166t" end="20645207916t" region="region_00" xml:id="subtitle911">[La Quica] Gilberto, Miguel<br/>y Pacho sobrevivieron, patrón.</p>
+<p begin="20611841250t" end="20645207916t" region="region_10" xml:id="subtitle912">[La Quica]<br/>Gilberto, Miguel and Pacho survived, boss.</p>
+<p begin="20646042082t" end="20669398750t" region="region_10" xml:id="subtitle913">That'll be all, Quica.</p>
+<p begin="20646042082t" end="20669398750t" region="region_00" xml:id="subtitle914">Eso es todo, Quica, listo.</p>
+<p begin="20670232916t" end="20682745416t" region="region_10" xml:id="subtitle915">Thank you, boss.</p>
+<p begin="20670232916t" end="20682745416t" region="region_00" xml:id="subtitle916">Gracias, patrón.</p>
+<p begin="20771584166t" end="20783679582t" region="region_10" xml:id="subtitle917">[Carlos]<br/>Pablo?</p>
+<p begin="20771584166t" end="20783679582t" region="region_00" xml:id="subtitle918">[Carlos]<br/>¿Pablo?</p>
+<p begin="20808704582t" end="20828724582t" region="region_10" xml:id="subtitle919">I'm worried about Tata.</p>
+<p begin="20808704582t" end="20828724582t" region="region_00" xml:id="subtitle920">Estoy preocupado por Tata.</p>
+<p begin="20833729582t" end="20866262082t" region="region_00" xml:id="subtitle921">¿Por qué no la enviás a viajar?<br/>Pa' que esté más segura.</p>
+<p begin="20842905416t" end="20866262082t" region="region_10" xml:id="subtitle922">I think you should let her travel.<br/>She'll be safer.</p>
+<p begin="20867096250t" end="20897960416t" region="region_10" xml:id="subtitle923">What you're doing will have consequences.</p>
+<p begin="20867096250t" end="20897960416t" region="region_00" xml:id="subtitle924">Eso que hiciste va a traer consecuencias.</p>
+<p begin="20910472916t" end="20935497916t" region="region_10" xml:id="subtitle925">That's why they're here. Right?</p>
+<p begin="20910472916t" end="20935497916t" region="region_00" xml:id="subtitle926">Bueno, por eso están aquí, ¿cierto?</p>
+<p begin="20943005416t" end="20969281666t" region="region_00" xml:id="subtitle927">Por eso están conmigo,<br/>pa' que estén seguros.</p>
+<p begin="20945090832t" end="20969281666t" region="region_10" xml:id="subtitle928">That's why they're here with me,<br/>to be safe.</p>
+<p begin="20970115832t" end="20998894582t" region="region_10" xml:id="subtitle929">-Cali is going to want payback for--<br/>-I know...</p>
+<p begin="20970115832t" end="20998894582t" region="region_00" xml:id="subtitle930">- Cali va a querer venganza, por la...<br/>- Yo sé...</p>
+<p begin="21006819166t" end="21033512500t" region="region_10" xml:id="subtitle931">who my enemies are, Carlos.</p>
+<p begin="21006819166t" end="21033512500t" region="region_00" xml:id="subtitle932">...quiénes son mis enemigos, Carlos.</p>
+<p begin="21051864166t" end="21072718332t" region="region_10" xml:id="subtitle933">And I can fight them all.</p>
+<p begin="21051864166t" end="21072718332t" region="region_00" xml:id="subtitle934">Y yo puedo con todos ellos.</p>
+<p begin="21073552500t" end="21086065000t" region="region_10" xml:id="subtitle935">I know that.</p>
+<p begin="21073552500t" end="21086065000t" region="region_00" xml:id="subtitle936">Yo sé eso.</p>
+<p begin="21092738332t" end="21119014582t" region="region_10" xml:id="subtitle937">But if Tata and the children<br/>are out of the country,</p>
+<p begin="21092738332t" end="21140285832t" region="region_00" xml:id="subtitle938">Pero con Tata y los niños fuera del país,<br/>vas a poder batallar más tranquilo.</p>
+<p begin="21119848750t" end="21140285832t" region="region_10" xml:id="subtitle939">you'd be free to wage this war<br/>with no holds barred.</p>
+<p begin="21180742916t" end="21199928750t" region="region_00" xml:id="subtitle940">Déjeme que le haga una pregunta.</p>
+<p begin="21181160000t" end="21199928750t" region="region_10" xml:id="subtitle941">Let me ask you something.</p>
+<p begin="21306285000t" end="21323802500t" region="region_10" xml:id="subtitle942">-Why are you here?<br/>-Pablo--</p>
+<p begin="21306285000t" end="21323802500t" region="region_00" xml:id="subtitle943">- ¿Para qué vino?<br/>- Pablo...</p>
+<p begin="21324636666t" end="21338400416t" region="region_10" xml:id="subtitle944">For Tata.</p>
+<p begin="21324636666t" end="21338400416t" region="region_00" xml:id="subtitle945">Por Tata.</p>
+<p begin="21355500832t" end="21366345000t" region="region_10" xml:id="subtitle946">Right?</p>
+<p begin="21355500832t" end="21366345000t" region="region_00" xml:id="subtitle947">¿Cierto?</p>
+<p begin="21393455416t" end="21413475416t" region="region_10" xml:id="subtitle948">To make her happier.</p>
+<p begin="21393455416t" end="21413475416t" region="region_00" xml:id="subtitle949">Pa' que la pusiera más contenta.</p>
+<p begin="21422234166t" end="21475620832t" region="region_10" xml:id="subtitle950">To help her be more comfortable<br/>with the life we're being forced to lead.</p>
+<p begin="21422234166t" end="21475620832t" region="region_00" xml:id="subtitle951">Pa' que la ayudara a estar más tranquila<br/>con esta vida que nos toca vivir.</p>
+<p begin="21506067916t" end="21524419582t" region="region_00" xml:id="subtitle952">¿Y eso es lo que está haciendo?</p>
+<p begin="21508987500t" end="21524419582t" region="region_10" xml:id="subtitle953">Have you done that?</p>
+<p begin="21536515000t" end="21571550000t" region="region_00" xml:id="subtitle954">Mi hermana tiene mucho miedo.<br/>Vos no te querés dar cuenta...</p>
+<p begin="21538600416t" end="21571550000t" region="region_10" xml:id="subtitle955">Pablo, my sister is terrified.<br/>And you can't see that--</p>
+<p begin="21572384166t" end="21634112500t" region="region_10" xml:id="subtitle956">Your sister is a lot tougher<br/>than you think.</p>
+<p begin="21572384166t" end="21634112500t" region="region_00" xml:id="subtitle957">Su hermana es mucho más fuerte<br/>de lo que piensa usted.</p>
+<p begin="21650378750t" end="21690001666t" region="region_10" xml:id="subtitle958">My wife... and my children...</p>
+<p begin="21650378750t" end="21690001666t" region="region_00" xml:id="subtitle959">Mi esposa y mis hijos...</p>
+<p begin="21697092082t" end="21717112082t" region="region_10" xml:id="subtitle960">stay with me.</p>
+<p begin="21697092082t" end="21717112082t" region="region_00" xml:id="subtitle961">...se quedan conmigo.</p>
+<p begin="21825970832t" end="21845573750t" region="region_10" xml:id="subtitle962">[sighs]</p>
+<p begin="21825970832t" end="21845573750t" region="region_00" xml:id="subtitle963">[suspira]</p>
+<p begin="21894789582t" end="21904799582t" region="region_10" xml:id="subtitle964">[in Spanish]<br/>Hello.</p>
+<p begin="21894789582t" end="21904799582t" region="region_00" xml:id="subtitle965">[en español]<br/>Hola.</p>
+<p begin="21905633750t" end="21921900000t" region="region_10" xml:id="subtitle966">[in English]<br/>Did you see this?</p>
+<p begin="21905633750t" end="21921900000t" region="region_00" xml:id="subtitle967">[en inglés]<br/>¿Ha visto esto?</p>
+<p begin="21929407500t" end="21957769166t" region="region_10" xml:id="subtitle968">Reports of a massive bombing<br/>in Cali last night.</p>
+<p begin="21929407500t" end="21957769166t" region="region_00" xml:id="subtitle969">Una bomba enorme estalló ayer en Cali.</p>
+<p begin="21958603332t" end="21981960000t" region="region_10" xml:id="subtitle970">-Gilberto Rodríguez's daughter's wedding?<br/>-[chuckles]</p>
+<p begin="21958603332t" end="21984879582t" region="region_00" xml:id="subtitle971">¿En la boda de la hija<br/>de Gilberto Rodríguez?</p>
+<p begin="21982794166t" end="22000311666t" region="region_10" xml:id="subtitle972">I know of only one person in Colombia</p>
+<p begin="21985713750t" end="22022834166t" region="region_00" xml:id="subtitle973">Solo una persona en Colombia<br/>se atrevería a atacar a ese tipo.</p>
+<p begin="22001145832t" end="22022834166t" region="region_10" xml:id="subtitle974">with the balls big enough<br/>to go after that guy.</p>
+<p begin="22023668332t" end="22040768750t" region="region_10" xml:id="subtitle975">Yeah, Pablo Escobar.</p>
+<p begin="22023668332t" end="22040768750t" region="region_00" xml:id="subtitle976">Sí, Pablo Escobar.</p>
+<p begin="22041602916t" end="22058703332t" region="region_10" xml:id="subtitle977">He had to have had a damn good reason.</p>
+<p begin="22041602916t" end="22058703332t" region="region_00" xml:id="subtitle978">Habrá tenido una buena razón.</p>
+<p begin="22059537500t" end="22098743332t" region="region_10" xml:id="subtitle979">I'd like to shift some of our resources<br/>from Medellín to Cali.</p>
+<p begin="22059537500t" end="22098743332t" region="region_00" xml:id="subtitle980">Quisiera desplazar algunos<br/>de nuestros recursos de Medellín a Cali.</p>
+<p begin="22099577500t" end="22119597500t" region="region_10" xml:id="subtitle981">Now's a bad time to deviate from Medellín.</p>
+<p begin="22099577500t" end="22119597500t" region="region_00" xml:id="subtitle982">No es momento de dejar Medellín.</p>
+<p begin="22120431666t" end="22144622500t" region="region_10" xml:id="subtitle983">Cali is trafficking<br/>in the billions right now.</p>
+<p begin="22120431666t" end="22144622500t" region="region_00" xml:id="subtitle984">En Cali se trafican miles de millones.</p>
+<p begin="22145456666t" end="22170898750t" region="region_10" xml:id="subtitle985">-If they get a free head start--<br/>-You're not wrong.</p>
+<p begin="22145456666t" end="22170898750t" region="region_00" xml:id="subtitle986">- Si les damos ventaja...<br/>- No se equivoca,</p>
+<p begin="22171732916t" end="22194255416t" region="region_10" xml:id="subtitle987">But you're thinking about this<br/>too logically.</p>
+<p begin="22171732916t" end="22194255416t" region="region_00" xml:id="subtitle988">pero piensa con demasiada lógica.</p>
+<p begin="22207185000t" end="22235129582t" region="region_10" xml:id="subtitle989">The best thing for you right now<br/>is to keep your head in the game.</p>
+<p begin="22207185000t" end="22235129582t" region="region_00" xml:id="subtitle990">Lo que debe hacer<br/>es concentrarse en la meta</p>
+<p begin="22235963750t" end="22273084166t" region="region_10" xml:id="subtitle991">Because right now,<br/>the game is Pablo Escobar.</p>
+<p begin="22235963750t" end="22273084166t" region="region_00" xml:id="subtitle992">porque, en este momento,<br/>la meta es Pablo Escobar.</p>
+<p begin="22296023750t" end="22321048750t" region="region_10" xml:id="subtitle993">Right. Escobar.</p>
+<p begin="22296023750t" end="22321048750t" region="region_00" xml:id="subtitle994">Así es. Escobar.</p>
+<p begin="22335229582t" end="22355249582t" region="region_00" xml:id="subtitle995">Nos vemos esta noche en la fiesta.</p>
+<p begin="22338566250t" end="22355249582t" region="region_10" xml:id="subtitle996">I'll see you at the party tonight.</p>
+<p begin="22370681666t" end="22400294582t" region="region_10" xml:id="subtitle997">We could all use a few hours' break<br/>from this shit.</p>
+<p begin="22370681666t" end="22400294582t" region="region_00" xml:id="subtitle998">Nos hará bien olvidar esta mierda<br/>unas horas.</p>
+<p begin="22416977916t" end="22431158750t" region="region_10" xml:id="subtitle999">I'll see you there.</p>
+<p begin="22416977916t" end="22431158750t" region="region_00" xml:id="subtitle1000">Nos vemos allí.</p>
+<p begin="22533344166t" end="22547107916t" region="region_10" xml:id="subtitle1001">Manuel.</p>
+<p begin="22533344166t" end="22547107916t" region="region_00" xml:id="subtitle1002">Manuel.</p>
+<p begin="22569213332t" end="22581725832t" region="region_10" xml:id="subtitle1003">[in Spanish]<br/>Ma'am?</p>
+<p begin="22569213332t" end="22581725832t" region="region_00" xml:id="subtitle1004">[en español]<br/>Señora.</p>
+<p begin="22592152916t" end="22610087500t" region="region_10" xml:id="subtitle1005">Take me to Mass.</p>
+<p begin="22592152916t" end="22610087500t" region="region_00" xml:id="subtitle1006">Llévame a la iglesia.</p>
+<p begin="22618429166t" end="22655966666t" region="region_00" xml:id="subtitle1007">- El patrón dijo que no se podía.<br/>- Pablo se preocupa demasiado.</p>
+<p begin="22618846250t" end="22655966666t" region="region_10" xml:id="subtitle1008">-But the boss said we couldn't.<br/>-Pablo worries too much.</p>
+<p begin="22656800832t" end="22674735416t" region="region_10" xml:id="subtitle1009">Besides, you work for me.</p>
+<p begin="22656800832t" end="22674735416t" region="region_00" xml:id="subtitle1010">Además trabajas para mí.</p>
+<p begin="22719363332t" end="22780257500t" region="region_10" xml:id="subtitle1011">Our Father who art in heaven,<br/>hallowed be thy name.</p>
+<p begin="22719363332t" end="22780257500t" region="region_00" xml:id="subtitle1012">Padre nuestro que estás en el cielo,<br/>santificado sea tu nombre,</p>
+<p begin="22781091666t" end="22849076250t" region="region_10" xml:id="subtitle1013">Thy kingdom come, thy will be done,<br/>on earth, as it is in heaven.</p>
+<p begin="22781091666t" end="22806950832t" region="region_00" xml:id="subtitle1014">venga a nosotros tu reino.</p>
+<p begin="22807785000t" end="22849076250t" region="region_00" xml:id="subtitle1015">Hágase tu voluntad<br/>en la tierra como en el cielo.</p>
+<p begin="22849910416t" end="22904548332t" region="region_10" xml:id="subtitle1016">Give us this day our daily bread<br/>and forgive us our trespasses</p>
+<p begin="22849910416t" end="22904548332t" region="region_00" xml:id="subtitle1017">Danos hoy nuestro pan de cada día.<br/>Perdona nuestras ofensas,</p>
+<p begin="22905382500t" end="22945005416t" region="region_10" xml:id="subtitle1018">as we forgive those<br/>who trespass against us.</p>
+<p begin="22905382500t" end="22945005416t" region="region_00" xml:id="subtitle1019">como también nosotros<br/>perdonamos a los que nos ofenden.</p>
+<p begin="22945839582t" end="22971281666t" region="region_10" xml:id="subtitle1020">[Christmas song plays in Spanish]</p>
+<p begin="22945839582t" end="22971281666t" region="region_00" xml:id="subtitle1021">[villancico en español]</p>
+<p begin="22996723750t" end="23016326666t" region="region_10" xml:id="subtitle1022">[man in English]<br/>Welcome, Mr. President.</p>
+<p begin="22996723750t" end="23023417082t" region="region_00" xml:id="subtitle1023">[hombre en inglés]<br/>Bienvenido, Sr. presidente.</p>
+<p begin="23038849166t" end="23052195832t" region="region_10" xml:id="subtitle1024">Welcome, Ma'am.</p>
+<p begin="23038849166t" end="23052195832t" region="region_00" xml:id="subtitle1025">Bienvenida, señora.</p>
+<p begin="23067627916t" end="23108502082t" region="region_10" xml:id="subtitle1026">Yeah, Bogotá is beautiful. It's a lot more<br/>like an American city than I thought.</p>
+<p begin="23067627916t" end="23083894166t" region="region_00" xml:id="subtitle1027">Bogotá es hermosa.</p>
+<p begin="23084728332t" end="23124351250t" region="region_00" xml:id="subtitle1028">No la imaginaba tan similar<br/>a una ciudad estadounidense ni tan fría.</p>
+<p begin="23109336250t" end="23124351250t" region="region_10" xml:id="subtitle1029">I didn't know it'd be so cold.</p>
+<p begin="23125185416t" end="23140617500t" region="region_10" xml:id="subtitle1030">-Good to see you.<br/>-Thank you.</p>
+<p begin="23125185416t" end="23141868750t" region="region_00" xml:id="subtitle1031">- Qué bueno verlo.<br/>- Gracias.</p>
+<p begin="23161888750t" end="23226536666t" region="region_10" xml:id="subtitle1032">[in Spanish] It's shameful for the country<br/>to stand by while a group of mercenaries</p>
+<p begin="23161888750t" end="23190250416t" region="region_00" xml:id="subtitle1033">[en español]<br/>Es vergonzoso para el país</p>
+<p begin="23191501666t" end="23226536666t" region="region_00" xml:id="subtitle1034">que no hagamos nada<br/>mientras un grupo de mercenarios</p>
+<p begin="23227370832t" end="23269079166t" region="region_10" xml:id="subtitle1035">distributes its version<br/>of perverse justice.</p>
+<p begin="23227370832t" end="23269079166t" region="region_00" xml:id="subtitle1036">se encarga de administrar,<br/>perversamente, la justicia.</p>
+<p begin="23279089166t" end="23301194582t" region="region_10" xml:id="subtitle1037">It makes all of us look bad.</p>
+<p begin="23279089166t" end="23301194582t" region="region_00" xml:id="subtitle1038">Estamos quedando todos mal.</p>
+<p begin="23302028750t" end="23343320000t" region="region_10" xml:id="subtitle1039">-Including the president.<br/>-Especially the president.</p>
+<p begin="23302028750t" end="23343320000t" region="region_00" xml:id="subtitle1040">- Sobre todo el presidente.<br/>- Especialmente el presidente.</p>
+<p begin="23344154166t" end="23387530832t" region="region_10" xml:id="subtitle1041">If he continues to allow Los Pepes<br/>to do the dirty work,</p>
+<p begin="23344154166t" end="23387530832t" region="region_00" xml:id="subtitle1042">Si sigue dejando que Los Pepes<br/>hagan el trabajo sucio,</p>
+<p begin="23388365000t" end="23404214166t" region="region_10" xml:id="subtitle1043">which is his responsibility...</p>
+<p begin="23388365000t" end="23404214166t" region="region_00" xml:id="subtitle1044">que le corresponde...</p>
+<p begin="23429656250t" end="23465942500t" region="region_10" xml:id="subtitle1045">Colombia will never forgive him.</p>
+<p begin="23429656250t" end="23465942500t" region="region_00" xml:id="subtitle1046">...Colombia no lo va a perdonar nunca.</p>
+<p begin="23480123332t" end="23507233750t" region="region_10" xml:id="subtitle1047">[church bells tolling]</p>
+<p begin="23480123332t" end="23507233750t" region="region_00" xml:id="subtitle1048">[tañen las campanas de la iglesia]</p>
+<p begin="23508067916t" end="23523500000t" region="region_10" xml:id="subtitle1049">[murmurs indistinctly]</p>
+<p begin="23508067916t" end="23523500000t" region="region_00" xml:id="subtitle1050">[murmullos indistintos]</p>
+<p begin="23622765832t" end="23652378750t" region="region_10" xml:id="subtitle1051">MERRY CHRISTMAS</p>
+<p begin="23694921250t" end="23710770416t" region="region_10" xml:id="subtitle1052">[engine starts]</p>
+<p begin="23694921250t" end="23710770416t" region="region_00" xml:id="subtitle1053">[arranca el motor]</p>
+<p begin="23762488750t" end="23780006250t" region="region_10" xml:id="subtitle1054">[engine starts]</p>
+<p begin="23762488750t" end="23780006250t" region="region_00" xml:id="subtitle1055">[arranca el motor]</p>
+<p begin="23834644166t" end="23855498332t" region="region_10" xml:id="subtitle1056">[overlapping chatter]</p>
+<p begin="23834644166t" end="23855498332t" region="region_00" xml:id="subtitle1057">[conversaciones indistintas]</p>
+<p begin="23866342500t" end="23881774582t" region="region_00" xml:id="subtitle1058">[en inglés]<br/>Sr. presidente.</p>
+<p begin="23867176666t" end="23881774582t" region="region_10" xml:id="subtitle1059">[in English]<br/>Mr. President.</p>
+<p begin="23917643750t" end="23935995416t" region="region_10" xml:id="subtitle1060">Lovely party, Ambassador.</p>
+<p begin="23917643750t" end="23935995416t" region="region_00" xml:id="subtitle1061">Hermosa fiesta, embajador.</p>
+<p begin="23943502916t" end="23978955000t" region="region_10" xml:id="subtitle1062">It's nice we can pretend<br/>we're all friends.</p>
+<p begin="23943502916t" end="23978955000t" region="region_00" xml:id="subtitle1063">Es bonito fingir que somos todos amigos.</p>
+<p begin="23986879582t" end="24022748750t" region="region_10" xml:id="subtitle1064">Believe it or not, the State Department<br/>does the guest list, not me.</p>
+<p begin="23986879582t" end="24027753750t" region="region_00" xml:id="subtitle1065">Sabe, el Departamento de Estado<br/>elige a los invitados, no yo.</p>
+<p begin="24028587916t" end="24066542500t" region="region_10" xml:id="subtitle1066">I can't wait to tell them<br/>that he wants us to legalize drugs.</p>
+<p begin="24028587916t" end="24066542500t" region="region_00" xml:id="subtitle1067">Muero por decirles que él quiere<br/>que legalicemos las drogas.</p>
+<p begin="24094070000t" end="24121597500t" region="region_10" xml:id="subtitle1068">He thinks I should<br/>publicly condemn Los Pepes.</p>
+<p begin="24094070000t" end="24121597500t" region="region_00" xml:id="subtitle1069">Quiere que repudie<br/>públicamente a Los Pepes.</p>
+<p begin="24122431666t" end="24164557082t" region="region_10" xml:id="subtitle1070">They're criminals.<br/>Their activities cannot be condoned.</p>
+<p begin="24122431666t" end="24164557082t" region="region_00" xml:id="subtitle1071">Son criminales.<br/>Sus actividades no pueden justificarse.</p>
+<p begin="24172898750t" end="24210436250t" region="region_10" xml:id="subtitle1072">Even if one does approve of the results.</p>
+<p begin="24172898750t" end="24210436250t" region="region_00" xml:id="subtitle1073">Aun si uno celebra los resultados.</p>
+<p begin="24222531666t" end="24261737500t" region="region_10" xml:id="subtitle1074">[sighs]<br/>Mr. President, I'm no one to bullshit.</p>
+<p begin="24222531666t" end="24260486250t" region="region_00" xml:id="subtitle1075">[suspira]<br/>Señor presidente, no soy de dar rodeos.</p>
+<p begin="24261320416t" end="24284677082t" region="region_00" xml:id="subtitle1076">Quizás eso haya perjudicado mi carrera.</p>
+<p begin="24262571666t" end="24284677082t" region="region_10" xml:id="subtitle1077">Maybe that's hurt me in my career.</p>
+<p begin="24285511250t" end="24320963332t" region="region_10" xml:id="subtitle1078">Yes, Los Pepes are an ugly business.</p>
+<p begin="24285511250t" end="24320963332t" region="region_00" xml:id="subtitle1079">Sí, lo que hacen Los Pepes es reprochable.</p>
+<p begin="24349325000t" end="24366008332t" region="region_10" xml:id="subtitle1080">They're getting to Escobar.</p>
+<p begin="24349325000t" end="24366008332t" region="region_00" xml:id="subtitle1081">Están atacando a Escobar.</p>
+<p begin="24374350000t" end="24395204166t" region="region_10" xml:id="subtitle1082">That's all that matters at the present.</p>
+<p begin="24374350000t" end="24395204166t" region="region_00" xml:id="subtitle1083">Eso es lo único que importa ahora.</p>
+<p begin="24421480416t" end="24464857082t" region="region_10" xml:id="subtitle1084">If I condemn them, I have to police them.</p>
+<p begin="24421480416t" end="24464857082t" region="region_00" xml:id="subtitle1085">Si los repudio, tengo que controlarlos.</p>
+<p begin="24465691250t" end="24524917082t" region="region_10" xml:id="subtitle1086">With politics and war...<br/>the trick is in the timing.</p>
+<p begin="24465691250t" end="24524917082t" region="region_00" xml:id="subtitle1087">En la política y en la guerra...<br/>el truco es actuar en el momento justo.</p>
+<p begin="24525751250t" end="24578303750t" region="region_10" xml:id="subtitle1088">Watch how they evolve,<br/>how their actions are received.</p>
+<p begin="24525751250t" end="24578303750t" region="region_00" xml:id="subtitle1089">Hay que observar su evolución,<br/>la recepción de sus actos.</p>
+<p begin="24579137916t" end="24630022082t" region="region_10" xml:id="subtitle1090">And, uh, up till then,<br/>pretend they don't exist.</p>
+<p begin="24579137916t" end="24630022082t" region="region_00" xml:id="subtitle1091">Y mientras tanto, fingir que no existen.</p>
+<p begin="24638363750t" end="24657966666t" region="region_00" xml:id="subtitle1092">Si usted puede, nosotros también.</p>
+<p begin="24640032082t" end="24657966666t" region="region_10" xml:id="subtitle1093">Well, we can if you can.</p>
+<p begin="24708433750t" end="24738463750t" region="region_10" xml:id="subtitle1094">[singing "Silent Night" in Spanish]</p>
+<p begin="24708433750t" end="24738463750t" region="region_00" xml:id="subtitle1095">[villancico en español]</p>
+<p begin="24846905416t" end="24869427916t" region="region_00" xml:id="subtitle1096">¿Qué haces aquí? Toma un trago.</p>
+<p begin="24847322500t" end="24869010832t" region="region_10" xml:id="subtitle1097">What are you up to in here?<br/>Have a drink.</p>
+<p begin="24880272082t" end="24909885000t" region="region_10" xml:id="subtitle1098">Thanks. Saved me a trip to the bar.</p>
+<p begin="24880272082t" end="24909885000t" region="region_00" xml:id="subtitle1099">Gracias.<br/>Ahora no tengo que ir hasta el bar.</p>
+<p begin="24910719166t" end="24939497916t" region="region_10" xml:id="subtitle1100">Call it inter-agency cooperation.</p>
+<p begin="24910719166t" end="24939497916t" region="region_00" xml:id="subtitle1101">Cooperación interinstitucional.</p>
+<p begin="24940332082t" end="24988713750t" region="region_10" xml:id="subtitle1102">Hmm. That's a joke. And it's funny.</p>
+<p begin="24940332082t" end="24988713750t" region="region_00" xml:id="subtitle1103">Una broma. Y graciosa.</p>
+<p begin="25009985000t" end="25042100416t" region="region_10" xml:id="subtitle1104">Cheers. So where are you from, Bill?</p>
+<p begin="25009985000t" end="25042100416t" region="region_00" xml:id="subtitle1105">Salud. ¿De dónde eres, Bill?</p>
+<p begin="25042934582t" end="25065040000t" region="region_10" xml:id="subtitle1106">Originally, Oregon.</p>
+<p begin="25042934582t" end="25065040000t" region="region_00" xml:id="subtitle1107">Nací en Oregón.</p>
+<p begin="25077969582t" end="25095070000t" region="region_00" xml:id="subtitle1108">Estuviste en Afganistán, ¿no?</p>
+<p begin="25079220832t" end="25095070000t" region="region_10" xml:id="subtitle1109">You were in Afghanistan, right?</p>
+<p begin="25107582500t" end="25131356250t" region="region_10" xml:id="subtitle1110">Well, I could tell you that<br/>but then I'd have to...</p>
+<p begin="25107582500t" end="25131356250t" region="region_00" xml:id="subtitle1111">Te lo diría, pero luego tendría que...</p>
+<p begin="25139697916t" end="25151793332t" region="region_10" xml:id="subtitle1112">Funny.</p>
+<p begin="25139697916t" end="25151793332t" region="region_00" xml:id="subtitle1113">Qué gracioso.</p>
+<p begin="25181823332t" end="25224782916t" region="region_10" xml:id="subtitle1114">I know Bill Haler.<br/>He was our guy in Afghanistan.</p>
+<p begin="25181823332t" end="25224782916t" region="region_00" xml:id="subtitle1115">Conozco a Bill Haler.<br/>Era nuestro agente en Afganistán.</p>
+<p begin="25225617082t" end="25266074166t" region="region_10" xml:id="subtitle1116">Oh, yeah. DEA Bill, we used to call him.</p>
+<p begin="25225617082t" end="25266074166t" region="region_00" xml:id="subtitle1117">Ah, sí. Le decíamos "Bill de la DEA".</p>
+<p begin="25266908332t" end="25292767500t" region="region_10" xml:id="subtitle1118">I liked him. Stayed in his lane.</p>
+<p begin="25266908332t" end="25292767500t" region="region_00" xml:id="subtitle1119">Me agradaba.<br/>Se concentraba en sus asuntos.</p>
+<p begin="25331973332t" end="25351576250t" region="region_10" xml:id="subtitle1120">So, as I'm sure you know,</p>
+<p begin="25331973332t" end="25371596250t" region="region_00" xml:id="subtitle1121">Como sabrás, hace poco pedí<br/>que desplazáramos recursos</p>
+<p begin="25352410416t" end="25396204166t" region="region_10" xml:id="subtitle1122">I recently asked for a resource redirect<br/>into some emerging players</p>
+<p begin="25372430416t" end="25411219166t" region="region_00" xml:id="subtitle1123">para controlar a ciertos actores<br/>emergentes del narcotráfico.</p>
+<p begin="25397038332t" end="25411219166t" region="region_10" xml:id="subtitle1124">in the trafficking world.</p>
+<p begin="25412053332t" end="25437912500t" region="region_10" xml:id="subtitle1125">-A group based in Cali. Ring a bell?<br/>-[sighs]</p>
+<p begin="25412053332t" end="25437912500t" region="region_00" xml:id="subtitle1126">A un grupo con base en Cali. ¿Te suena?</p>
+<p begin="25438746666t" end="25474198750t" region="region_10" xml:id="subtitle1127">-We're not gonna talk about work, are we?<br/>-My request was denied, Bill.</p>
+<p begin="25438746666t" end="25473781666t" region="region_00" xml:id="subtitle1128">- No vamos a hablar de trabajo, ¿no?<br/>- Mi pedido se denegó.</p>
+<p begin="25474615832t" end="25514238750t" region="region_00" xml:id="subtitle1129">- Justo cuando empezábamos a conocernos.<br/>- Hablé con Bill de la DEA.</p>
+<p begin="25475032916t" end="25514238750t" region="region_10" xml:id="subtitle1130">-We were just getting to know each other.<br/>-So I spoke to DEA Bill.</p>
+<p begin="25515072916t" end="25534258750t" region="region_10" xml:id="subtitle1131">-He's in Washington now.<br/>-You don't say.</p>
+<p begin="25515072916t" end="25534675832t" region="region_00" xml:id="subtitle1132">- Ahora está en Washington.<br/>- ¿Sí?</p>
+<p begin="25535092916t" end="25578052500t" region="region_10" xml:id="subtitle1133">And he told me the roadblock<br/>was caused by the agency.</p>
+<p begin="25535510000t" end="25578052500t" region="region_00" xml:id="subtitle1134">Y me dijo que la agencia<br/>fue la que se opuso.</p>
+<p begin="25586811250t" end="25609750832t" region="region_10" xml:id="subtitle1135">Something about an ongoing operation.</p>
+<p begin="25586811250t" end="25609750832t" region="region_00" xml:id="subtitle1136">Por una operación en curso.</p>
+<p begin="25610585000t" end="25653961666t" region="region_10" xml:id="subtitle1137">He actually said,<br/>"That sounds like CIA Bill."</p>
+<p begin="25610585000t" end="25653961666t" region="region_00" xml:id="subtitle1138">De hecho, lo que dijo fue:<br/>"Parece obra de Bill de la CIA".</p>
+<p begin="25668142500t" end="25704428750t" region="region_00" xml:id="subtitle1139">No me importa lo que haces<br/>con los comunistas y paramilitares.</p>
+<p begin="25668559582t" end="25702760416t" region="region_10" xml:id="subtitle1140">Look, I don't care what you do<br/>with the commies and the paramilitaries.</p>
+<p begin="25711936250t" end="25778669582t" region="region_10" xml:id="subtitle1141">But as soon as your ongoing operations<br/>involve narcos... you're in my backyard.</p>
+<p begin="25711936250t" end="25778669582t" region="region_00" xml:id="subtitle1142">Pero si tus operaciones involucran<br/>a los narcos... eso sí es asunto mío.</p>
+<p begin="25940915000t" end="25974698750t" region="region_10" xml:id="subtitle1143">[door opens, closes]</p>
+<p begin="25940915000t" end="25974698750t" region="region_00" xml:id="subtitle1144">[la puerta se abre y se cierra]</p>
+<p begin="26032256250t" end="26051442082t" region="region_10" xml:id="subtitle1145">[in Spanish]<br/>Where were you?</p>
+<p begin="26032256250t" end="26051442082t" region="region_00" xml:id="subtitle1146">[en español]<br/>¿En dónde estaba?</p>
+<p begin="26052276250t" end="26078969582t" region="region_10" xml:id="subtitle1147">-I went to church.<br/>-I told you it wasn't safe.</p>
+<p begin="26052276250t" end="26080220832t" region="region_00" xml:id="subtitle1148">- Fui a la iglesia.<br/>- Le dije que no era seguro.</p>
+<p begin="26079803750t" end="26113587500t" region="region_10" xml:id="subtitle1149">And I told you that it would be fine.<br/>And look, everything's fine.</p>
+<p begin="26081055000t" end="26113587500t" region="region_00" xml:id="subtitle1150">Y yo le dije que no pasaba nada.<br/>¿Ves? Y no pasó nada.</p>
+<p begin="26114421666t" end="26136944166t" region="region_10" xml:id="subtitle1151">How could you put the children's lives<br/>at risk?</p>
+<p begin="26114421666t" end="26136944166t" region="region_00" xml:id="subtitle1152">¿Cómo pones a los niños en riesgo?</p>
+<p begin="26137778332t" end="26158632500t" region="region_10" xml:id="subtitle1153">No one here is in danger.</p>
+<p begin="26137778332t" end="26158632500t" region="region_00" xml:id="subtitle1154">Aquí nadie corre peligro.</p>
+<p begin="26159466666t" end="26202426250t" region="region_10" xml:id="subtitle1155">I'm surprised at you, Pablo.<br/>This one has always been nervous, but you?</p>
+<p begin="26159466666t" end="26202009166t" region="region_00" xml:id="subtitle1156">Me sorprende, Pablo. De esta no me extraña<br/>porque es nerviosa pero vos...</p>
+<p begin="26202843332t" end="26219943750t" region="region_00" xml:id="subtitle1157">A mi marido no le hables así.</p>
+<p begin="26203260416t" end="26219526666t" region="region_10" xml:id="subtitle1158">Don't talk that way to my husband.</p>
+<p begin="26220360832t" end="26267908332t" region="region_10" xml:id="subtitle1159">I can talk to him however I want.<br/>I don't know why everyone is--</p>
+<p begin="26220777916t" end="26267908332t" region="region_00" xml:id="subtitle1160">Yo le hablo como se me dé la gana<br/>a mi hijo. No sé por qué todos están...</p>
+<p begin="26268742500t" end="26298772500t" region="region_10" xml:id="subtitle1161">-[gunshots in distance]<br/>-[dogs bark outside]</p>
+<p begin="26268742500t" end="26298772500t" region="region_00" xml:id="subtitle1162">- [se oyen disparos]<br/>- [los perros ladran fuera]</p>
+<p begin="26356747082t" end="26365505832t" region="region_00" xml:id="subtitle1163">[disparo]</p>
+<p begin="26357998332t" end="26377184166t" region="region_10" xml:id="subtitle1164">-[gunshot]<br/>-Take Tata and the kids!</p>
+<p begin="26366340000t" end="26394284582t" region="region_00" xml:id="subtitle1165">¡Vaya con Tata y los niños!<br/>¡Usted, con mi mamá!</p>
+<p begin="26378018332t" end="26400123750t" region="region_10" xml:id="subtitle1166">-You, cover my mother!<br/>-[automatic gunfire]</p>
+<p begin="26395118750t" end="26423480416t" region="region_00" xml:id="subtitle1167">- [disparos de metralleta]<br/>- [gritos en español]</p>
+<p begin="26400957916t" end="26423480416t" region="region_10" xml:id="subtitle1168">-[shouting in Spanish]<br/>-[screaming]</p>
+<p begin="26424314582t" end="26441832082t" region="region_10" xml:id="subtitle1169">[gunfire continues]</p>
+<p begin="26424314582t" end="26441832082t" region="region_00" xml:id="subtitle1170">[siguen los disparos]</p>
+<p begin="26466857082t" end="26484791666t" region="region_10" xml:id="subtitle1171">[panting]</p>
+<p begin="26466857082t" end="26484791666t" region="region_00" xml:id="subtitle1172">[jadea]</p>
+<p begin="26491465000t" end="26529002500t" region="region_10" xml:id="subtitle1173">Juan Pablo! Juan Pablo!<br/>Put your coat on, quick! Put your coat on.</p>
+<p begin="26491465000t" end="26528585416t" region="region_00" xml:id="subtitle1174">¡Juan Pablo! Juan Pablo,<br/>ponte la chaqueta, vamos.</p>
+<p begin="26529419582t" end="26555278750t" region="region_00" xml:id="subtitle1175">Vení, vení mi amor.<br/>Vámonos, vámonos rápido.</p>
+<p begin="26529836666t" end="26555695832t" region="region_10" xml:id="subtitle1176">Come here, Manuela. Let's go, Pablo!</p>
+<p begin="26556112916t" end="26574047500t" region="region_00" xml:id="subtitle1177">Vení por acá, mi amor. ¡Corre!</p>
+<p begin="26556530000t" end="26574464582t" region="region_10" xml:id="subtitle1178">This way! Run!</p>
+<p begin="26574881666t" end="26599906666t" region="region_00" xml:id="subtitle1179">- ¡Corre, corre!<br/>- [disparos de metralleta]</p>
+<p begin="26575298750t" end="26599906666t" region="region_10" xml:id="subtitle1180">-Run! Run!<br/>-[automatic gunfire nearby]</p>
+<p begin="26600740832t" end="26633273332t" region="region_10" xml:id="subtitle1181">-Run quickly! [screams]<br/>-[glass shatters]</p>
+<p begin="26600740832t" end="26633273332t" region="region_00" xml:id="subtitle1182">- ¡Corre rápido! [grita]<br/>- [se rompen los vidrios]</p>
+<p begin="26643283332t" end="26667474166t" region="region_10" xml:id="subtitle1183">-Quickly!<br/>-[overlapping gunfire]</p>
+<p begin="26643283332t" end="26667474166t" region="region_00" xml:id="subtitle1184">¡Rápido!</p>
+<p begin="26668308332t" end="26705011666t" region="region_10" xml:id="subtitle1185">-Pablo!<br/>-Get out! Get out! Get out!</p>
+<p begin="26668308332t" end="26705011666t" region="region_00" xml:id="subtitle1186">- ¡Pablo!<br/>- ¡Váyanse, váyanse!</p>
+<p begin="26705845832t" end="26724614582t" region="region_10" xml:id="subtitle1187">Carlos, let's go!</p>
+<p begin="26705845832t" end="26724614582t" region="region_00" xml:id="subtitle1188">¡Carlos, vámonos!</p>
+<p begin="26734624582t" end="26755895832t" region="region_10" xml:id="subtitle1189">Run, Limón, run!</p>
+<p begin="26734624582t" end="26755895832t" region="region_00" xml:id="subtitle1190">¡Corre, Limón, corre!</p>
+<p begin="26756730000t" end="26777167082t" region="region_10" xml:id="subtitle1191">Let's go! Outside!</p>
+<p begin="26756730000t" end="26777167082t" region="region_00" xml:id="subtitle1192">¡Vamos, vamos afuera!</p>
+<p begin="26778001250t" end="26811785000t" region="region_10" xml:id="subtitle1193">-Come on, Tata, come on.<br/>-Get him in the car. Get him inside!</p>
+<p begin="26778001250t" end="26811785000t" region="region_00" xml:id="subtitle1194">- Venga, Tata, venga.<br/>- Mételo en el coche, ¡mételo!</p>
+<p begin="26812619166t" end="26848071250t" region="region_10" xml:id="subtitle1195">-Quickly! Let's go!<br/>-Quickly!</p>
+<p begin="26812619166t" end="26848071250t" region="region_00" xml:id="subtitle1196">- ¡Rápido, rápido! ¡Vamos!<br/>- ¡Rápido!</p>
+<p begin="26848905416t" end="26861835000t" region="region_10" xml:id="subtitle1197">Give me the girl.</p>
+<p begin="26848905416t" end="26861835000t" region="region_00" xml:id="subtitle1198">¡Pásame la niña!</p>
+<p begin="26862669166t" end="26890196666t" region="region_10" xml:id="subtitle1199">-Get in, Tata, get in.<br/>-[overlapping shouts]</p>
+<p begin="26862669166t" end="26890196666t" region="region_00" xml:id="subtitle1200">- ¡Suba, Tata! ¡Suba!<br/>- [gritos indistintos]</p>
+<p begin="26891030832t" end="26911884999t" region="region_10" xml:id="subtitle1201">Come on, brother. Go! Cover that side!</p>
+<p begin="26891030832t" end="26924814582t" region="region_00" xml:id="subtitle1202">¡Hágale, parce! ¡Vaya,<br/>cubra por aquel lado! ¡Muévase!</p>
+<p begin="26912719166t" end="26924814582t" region="region_10" xml:id="subtitle1203">Move!</p>
+<p begin="26938161249t" end="26956512916t" region="region_10" xml:id="subtitle1204">[gunfire continues nearby]</p>
+<p begin="26938161249t" end="26956512916t" region="region_00" xml:id="subtitle1205">[siguen los disparos]</p>
+<p begin="27026165832t" end="27044517499t" region="region_10" xml:id="subtitle1206">[overlapping gunfire]</p>
+<p begin="27026165832t" end="27044517499t" region="region_00" xml:id="subtitle1207">[fuego cruzado]</p>
+<p begin="27094984582t" end="27107079999t" region="region_10" xml:id="subtitle1208">[grunts]</p>
+<p begin="27094984582t" end="27107079999t" region="region_00" xml:id="subtitle1209">[gime]</p>
+<p begin="27186325832t" end="27199672499t" region="region_10" xml:id="subtitle1210">[man grunts]</p>
+<p begin="27186325832t" end="27199672499t" region="region_00" xml:id="subtitle1211">[un hombre gime]</p>
+<p begin="27210516666t" end="27238878332t" region="region_10" xml:id="subtitle1212">-[glass shattering]<br/>-[gunfire continues]</p>
+<p begin="27210516666t" end="27238878332t" region="region_00" xml:id="subtitle1213">- [estallan los vidrios]<br/>- [siguen los disparos]</p>
+<p begin="27515821666t" end="27534173332t" region="region_00" xml:id="subtitle1214">[gritos indistintos en español]</p>
+<p begin="27516238749t" end="27534173332t" region="region_10" xml:id="subtitle1215">[indistinct shouts in Spanish]</p>
+<p begin="27567957082t" end="27588811249t" region="region_10" xml:id="subtitle1216">They're in the house!<br/>Let's go! Let's go!</p>
+<p begin="27567957082t" end="27588811249t" region="region_00" xml:id="subtitle1217">¡Están en la casa! ¡Vamos, vamos!</p>
+<p begin="27624263332t" end="27643449166t" region="region_10" xml:id="subtitle1218">-Calm down.<br/>-Don't let her move.</p>
+<p begin="27624263332t" end="27643449166t" region="region_00" xml:id="subtitle1219">- Tranquila.<br/>- Que no se mueva.</p>
+<p begin="27644283332t" end="27652624999t" region="region_10" xml:id="subtitle1220">Carlos!</p>
+<p begin="27644283332t" end="27652624999t" region="region_00" xml:id="subtitle1221">¡Carlos!</p>
+<p begin="27653459166t" end="27669725416t" region="region_10" xml:id="subtitle1222">Come on, boss! Let's go.</p>
+<p begin="27653459166t" end="27669308332t" region="region_00" xml:id="subtitle1223">¡Venga, patrón! ¡Vamos!</p>
+<p begin="27670142499t" end="27685574582t" region="region_00" xml:id="subtitle1224">- [Tata] ¡Pablo!<br/>- ¡Carlos!</p>
+<p begin="27670559582t" end="27685574582t" region="region_10" xml:id="subtitle1225">-[Tata] Pablo!<br/>-Carlos!</p>
+<p begin="27686408749t" end="27705594582t" region="region_10" xml:id="subtitle1226">[grunts]</p>
+<p begin="27686408749t" end="27705594582t" region="region_00" xml:id="subtitle1227">[gime]</p>
+<p begin="27706428749t" end="27735207499t" region="region_10" xml:id="subtitle1228">-[scream] No!<br/>-[groans]</p>
+<p begin="27706428749t" end="27735207499t" region="region_00" xml:id="subtitle1229">- [grita] ¡No!<br/>- [resuella]</p>
+<p begin="27736041666t" end="27766488749t" region="region_10" xml:id="subtitle1230">-Come on! Come on!<br/>-[gunfire continues]</p>
+<p begin="27736041666t" end="27766488749t" region="region_00" xml:id="subtitle1231">- ¡Venga, venga!<br/>- [siguen los disparos]</p>
+<p begin="27767322916t" end="27789011249t" region="region_10" xml:id="subtitle1232">-Boss, come on!<br/>-[screaming]</p>
+<p begin="27767322916t" end="27789011249t" region="region_00" xml:id="subtitle1233">- ¡Patrón, vámonos!<br/>- [chillidos]</p>
+<p begin="27789845416t" end="27810282499t" region="region_10" xml:id="subtitle1234">Let's go, boss!</p>
+<p begin="27789845416t" end="27810282499t" region="region_00" xml:id="subtitle1235">¡Vamos, patrón!</p>
+<p begin="27833222082t" end="27856995832t" region="region_10" xml:id="subtitle1236">-Come on!<br/>-[screaming]</p>
+<p begin="27833222082t" end="27856995832t" region="region_00" xml:id="subtitle1237">- ¡Vámonos!<br/>- [alaridos]</p>
+<p begin="27857829999t" end="27883689166t" region="region_10" xml:id="subtitle1238">-Let's go!<br/>-[shrieks] Carlos!</p>
+<p begin="27857829999t" end="27883689166t" region="region_00" xml:id="subtitle1239">- ¡Vamos, vamos, vamos!<br/>- [aúlla] ¡Carlos!</p>
+<p begin="27897452916t" end="27919141249t" region="region_10" xml:id="subtitle1240">[sobbing]</p>
+<p begin="27897452916t" end="27919141249t" region="region_00" xml:id="subtitle1241">[solloza]</p>
+<p begin="27946668749t" end="27960015416t" region="region_10" xml:id="subtitle1242">No!</p>
+<p begin="27946668749t" end="27960015416t" region="region_00" xml:id="subtitle1243">¡No!</p>
+<p begin="28506811666t" end="28521826666t" region="region_10" xml:id="subtitle1244">Los Pepes...</p>
+<p begin="28506811666t" end="28521826666t" region="region_00" xml:id="subtitle1245">Los Pepes...</p>
+<p begin="28551439582t" end="28577715832t" region="region_10" xml:id="subtitle1246">the Cali cartel, Judy Moncada,</p>
+<p begin="28551439582t" end="28577715832t" region="region_00" xml:id="subtitle1247">El cartel de Cali, Judy Moncada,</p>
+<p begin="28578549999t" end="28616921666t" region="region_10" xml:id="subtitle1248">the Castaños, the government, the gringos.</p>
+<p begin="28578549999t" end="28616921666t" region="region_00" xml:id="subtitle1249">los Castaño, el gobierno, los gringos.</p>
+<p begin="28617755832t" end="28645700416t" region="region_10" xml:id="subtitle1250">Let the bastards come.</p>
+<p begin="28617755832t" end="28644449166t" region="region_00" xml:id="subtitle1251">Pues que vengan, malparidos,<br/>que vengan todos,</p>
+<p begin="28645283332t" end="28689911249t" region="region_00" xml:id="subtitle1252">porque nosotros vamos a estar listos<br/>para una guerra muy berraca.</p>
+<p begin="28646534582t" end="28689911249t" region="region_10" xml:id="subtitle1253">We'll be ready for a war,<br/>a fucking bloodbath.</p>
+<p begin="28690745416t" end="28737458749t" region="region_10" xml:id="subtitle1254">We will fight like we have never<br/>fought before in our lives.</p>
+<p begin="28690745416t" end="28737458749t" region="region_00" xml:id="subtitle1255">Vamos a pelear como nunca<br/>hemos peleado en nuestras vidas.</p>
+<p begin="28749971249t" end="28762900832t" region="region_10" xml:id="subtitle1256">Yes, boss.</p>
+<p begin="28749971249t" end="28762900832t" region="region_00" xml:id="subtitle1257">Sí, patrón.</p>
+<p begin="28767905832t" end="28797935832t" region="region_10" xml:id="subtitle1258">Go for food and you go for firewood.</p>
+<p begin="28767905832t" end="28797935832t" region="region_00" xml:id="subtitle1259">Usted vaya por comida y usted, por leña.</p>
+<p begin="28823377916t" end="28883437916t" region="region_10" xml:id="subtitle1260">[softly] Whoever did this<br/>will never get near us ever again.</p>
+<p begin="28823377916t" end="28883437916t" region="region_00" xml:id="subtitle1261">[murmura] El que sea que haya hecho esto<br/>nunca se va a acercar a nosotros otra vez.</p>
+<p begin="28927231666t" end="28947251666t" region="region_10" xml:id="subtitle1262">I promise you.</p>
+<p begin="28927231666t" end="28947251666t" region="region_00" xml:id="subtitle1263">Se lo prometo.</p>
+<p begin="29019824166t" end="29064452082t" region="region_10" xml:id="subtitle1264">Daddy, how will Santa<br/>know how to find us?</p>
+<p begin="29019824166t" end="29064452082t" region="region_00" xml:id="subtitle1265">Papi, ¿cómo va a saber<br/>Papá Noel que estamos aquí?</p>
+<p begin="29112833749t" end="29131602499t" region="region_10" xml:id="subtitle1266">[voice trembling]</p>
+<p begin="29112833749t" end="29131602499t" region="region_00" xml:id="subtitle1267">[se le quiebra la voz]</p>
+<p begin="29173310832t" end="29188325832t" region="region_10" xml:id="subtitle1268">[softly] Santa...</p>
+<p begin="29173310832t" end="29188325832t" region="region_00" xml:id="subtitle1269">[susurra] El Papá Noel...</p>
+<p begin="29216687499t" end="29277164582t" region="region_10" xml:id="subtitle1270">Santa will always find<br/>your good and kind heart.</p>
+<p begin="29216687499t" end="29277164582t" region="region_00" xml:id="subtitle1271">El Papá Noel siempre encontrará<br/>a ese corazón bueno suyo.</p>
+<p begin="29295933332t" end="29325129166t" region="region_10" xml:id="subtitle1272">Wherever you are in this world.</p>
+<p begin="29295933332t" end="29325129166t" region="region_00" xml:id="subtitle1273">En cualquier parte del mundo.</p>
+<p begin="29325963332t" end="29379349999t" region="region_10" xml:id="subtitle1274">Boss? The wood is all wet.<br/>There's no way to light it up.</p>
+<p begin="29325963332t" end="29379349999t" region="region_00" xml:id="subtitle1275">Patrón, la madera está toda mojada.<br/>No hay cómo encenderla.</p>
+<p begin="29480701249t" end="29511982499t" region="region_10" xml:id="subtitle1276">Go to Envigado for wood and food.</p>
+<p begin="29480701249t" end="29511982499t" region="region_00" xml:id="subtitle1277">Vaya a Envigado por leña y comida.</p>
+<p begin="29512816666t" end="29547017499t" region="region_10" xml:id="subtitle1278">-Right away, boss.<br/>-Be careful not to be seen.</p>
+<p begin="29512816666t" end="29547017499t" region="region_00" xml:id="subtitle1279">- Como usted diga, patrón.<br/>- Ojo, ojo pa' que no lo vean.</p>
+<p begin="29547851666t" end="29559112916t" region="region_10" xml:id="subtitle1280">Got it.</p>
+<p begin="29547851666t" end="29559112916t" region="region_00" xml:id="subtitle1281">Listo.</p>
+<p begin="29607494582t" end="29627931666t" region="region_10" xml:id="subtitle1282">This is all I could find, boss.</p>
+<p begin="29607494582t" end="29630017082t" region="region_00" xml:id="subtitle1283">Eso fue lo único que encontré, patrón.</p>
+<p begin="29638775832t" end="29654207916t" region="region_10" xml:id="subtitle1284">How do you open that shit?</p>
+<p begin="29638775832t" end="29654207916t" region="region_00" xml:id="subtitle1285">¿Cómo se abre esa mierda?</p>
+<p begin="29655042082t" end="29672142499t" region="region_10" xml:id="subtitle1286">I'll go look, boss.</p>
+<p begin="29655042082t" end="29672142499t" region="region_00" xml:id="subtitle1287">Voy a buscar, patrón.</p>
+<p begin="29842312499t" end="29861915416t" region="region_00" xml:id="subtitle1288">[en español]<br/>Esto acaba de llegar.</p>
+<p begin="29843980832t" end="29859829999t" region="region_10" xml:id="subtitle1289">[in Spanish]<br/>This just came in.</p>
+<p begin="29909879999t" end="29931985416t" region="region_00" xml:id="subtitle1290">Esta mierda se está calentando, Peña.</p>
+<p begin="29910297082t" end="29931151249t" region="region_10" xml:id="subtitle1291">Shit's getting real, Peña.</p>
+<p begin="30125094999t" end="30155542082t" region="region_10" xml:id="subtitle1292">[sirens wailing in distance]</p>
+<p begin="30125094999t" end="30155542082t" region="region_00" xml:id="subtitle1293">[se oyen sirenas a lo lejos]</p>
+<p begin="30469605832t" end="30508394582t" region="region_10" xml:id="subtitle1294">-[Tata sniffling]<br/>-Mommy, I'm cold.</p>
+<p begin="30469605832t" end="30508394582t" region="region_00" xml:id="subtitle1295">- [Tata solloza]<br/>- Mami, tengo frío.</p>
+<p begin="30536756249t" end="30553022499t" region="region_00" xml:id="subtitle1296">La niña se está congelando.</p>
+<p begin="30537173332t" end="30552188332t" region="region_10" xml:id="subtitle1297">She's freezing.</p>
+<p begin="30618921666t" end="30632268332t" region="region_10" xml:id="subtitle1298">Put this on.</p>
+<p begin="30618921666t" end="30632268332t" region="region_00" xml:id="subtitle1299">Póngase eso.</p>
+<p begin="30981367082t" end="31030582916t" region="region_10" xml:id="subtitle1300">You and the children...<br/>need to leave Colombia.</p>
+<p begin="30981367082t" end="31030582916t" region="region_00" xml:id="subtitle1301">Usted y los niños...<br/>se tienen que ir de Colombia.</p>
+<p begin="31059361666t" end="31117336249t" region="region_10" xml:id="subtitle1302">When you're safe,<br/>I'll be free to do what's best for us.</p>
+<p begin="31059361666t" end="31117336249t" region="region_00" xml:id="subtitle1303">Cuando estén seguros, yo estaré libre<br/>para hacer lo que sea mejor para nosotros.</p>
+<p begin="31209928749t" end="31229531666t" region="region_10" xml:id="subtitle1304">[softly] It won't be long.</p>
+<p begin="31209928749t" end="31232034166t" region="region_00" xml:id="subtitle1305">[susurra] No va a pasar mucho tiempo.</p>
+<p begin="31265817916t" end="31292511249t" region="region_10" xml:id="subtitle1306">Soon we'll be together again.</p>
+<p begin="31265817916t" end="31292511249t" region="region_00" xml:id="subtitle1307">Pronto vamos a estar juntos otra vez.</p>
+<p begin="31337556249t" end="31352571249t" region="region_10" xml:id="subtitle1308">Forever.</p>
+<p begin="31337556249t" end="31352571249t" region="region_00" xml:id="subtitle1309">Para siempre.</p>
+<p begin="31413465416t" end="31429314582t" region="region_10" xml:id="subtitle1310">[sniffling]</p>
+<p begin="31413465416t" end="31429314582t" region="region_00" xml:id="subtitle1311">[solloza]</p>
+<p begin="31457676249t" end="31498133332t" region="region_10" xml:id="subtitle1312">[slow Latin guitar song plays]</p><p begin="31457676249t" end="31498133332t" region="region_00" xml:id="subtitle1313">[música bolero]</p>
+</div>
+</body>
+</tt>
