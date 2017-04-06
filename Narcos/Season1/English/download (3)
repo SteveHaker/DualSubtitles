@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tt xmlns:tt="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:tts="http://www.w3.org/ns/ttml#styling" ttp:tickRate="10000000" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+<head>
+<ttp:profile use="http://netflix.com/ttml/profile/dfxp-ls-sdh"/>
+<styling>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_1"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_2"/>
+<style tts:color="white" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:textAlign="center" xml:id="defaultStyle_3"/>
+</styling>
+<layout>
+<region tts:backgroundColor="transparent" tts:displayAlign="after" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.after"/>
+<region tts:backgroundColor="transparent" tts:displayAlign="before" tts:extent="80.00% 80.00%" tts:origin="10.00% 10.00%" xml:id="region.before"/>
+</layout>
+</head>
+<body>
+<div xml:space="preserve">
+<p begin="224812503t" end="257347506t" region="region.after" style="defaultStyle" xml:id="subtitle0">I'm more of a dog man myself,<br/>but no cat deserves this.</p>
+<p begin="267357506t" end="288630007t" region="region.after" style="defaultStyle" xml:id="subtitle1">Did you tell anyone<br/>about why you were down here?</p>
+<p begin="289465008t" end="309067508t" region="region.after" style="defaultStyle" xml:id="subtitle2">Someone on the plane?<br/>Someone you met at a restaurant?</p>
+<p begin="309902508t" end="320737500t" region="region.after" style="defaultStyle" xml:id="subtitle3">'Course not.</p>
+<p begin="321572500t" end="360777500t" region="region.after" style="defaultStyle" xml:id="subtitle4">Not to get personal,<br/>but have you had any, uh... encounters?</p>
+<p begin="362447501t" end="378720007t" region="region.after" style="defaultStyle" xml:id="subtitle5">- "Encounters"?<br/>- Yeah.</p>
+<p begin="379555008t" end="401652500t" region="region.after" style="defaultStyle" xml:id="subtitle6">[scoffs] I'm married.</p>
+<p begin="413332502t" end="425847505t" region="region.after" style="defaultStyle" xml:id="subtitle7">Right.</p>
+<p begin="433352502t" end="460052508t" region="region.after" style="defaultStyle" xml:id="subtitle8">Only people I've encountered<br/>outside the DEA and my wife</p>
+<p begin="460877500t" end="475897505t" region="region.after" style="defaultStyle" xml:id="subtitle9">are those Colombian cops in Medellín.</p>
+<p begin="477567506t" end="491742500t" region="region.after" style="defaultStyle" xml:id="subtitle10">No, no, Carrillo's solid.</p>
+<p begin="492577501t" end="510509999t" region="region.after" style="defaultStyle" xml:id="subtitle11">Did anyone have access<br/>to your credentials?</p>
+<p begin="512180001t" end="535540003t" region="region.after" style="defaultStyle" xml:id="subtitle12">Did you drop your wallet?</p>
+<p begin="536375005t" end="547220006t" region="region.after" style="defaultStyle" xml:id="subtitle13">Passport.</p>
+<p begin="548890007t" end="567657506t" region="region.after" style="defaultStyle" xml:id="subtitle14">How important is this cat to you?</p>
+<p begin="574745003t" end="583502502t" region="region.after" style="defaultStyle" xml:id="subtitle15">Excuse me?</p>
+<p begin="585172503t" end="601435000t" region="region.after" style="defaultStyle" xml:id="subtitle16">[Javier]<br/><span style="defaultStyle_1">You gave someone your passport?</span></p>
+<p begin="622290001t" end="643562502t" region="region.after" style="defaultStyle" xml:id="subtitle17">We were trying to get Puff<br/>through Immigration.</p>
+<p begin="645232503t" end="657330006t" region="region.after" style="defaultStyle" xml:id="subtitle18">"Puff"?</p>
+<p begin="659000007t" end="675262503t" region="region.after" style="defaultStyle" xml:id="subtitle19">I didn't name it, dude.</p>
+<p begin="676932506t" end="703622502t" region="region.after" style="defaultStyle" xml:id="subtitle20">Traffickers pay people<br/>at the airports for intel.</p>
+<p begin="705292503t" end="735740003t" region="region.after" style="defaultStyle" xml:id="subtitle21">A gringo coming in from Miami raises<br/>suspicions. That's how you got made.</p>
+<p begin="744915003t" end="762012500t" region="region.after" style="defaultStyle" xml:id="subtitle22">Don't let it rattle you.<br/>That's what they want.</p>
+<p begin="762847501t" end="790382508t" region="region.after" style="defaultStyle" xml:id="subtitle23">You probably got a price on your head,<br/>but no one's gonna take the contract.</p>
+<p begin="792042500t" end="802052500t" region="region.after" style="defaultStyle" xml:id="subtitle24">Fucking price on my head?</p>
+<p begin="802887501t" end="847102506t" region="region.after" style="defaultStyle" xml:id="subtitle25">There's a standing bounty<br/>of 350,000 US on any DEA down here,</p>
+<p begin="847937506t" end="875880003t" region="region.after" style="defaultStyle" xml:id="subtitle26">but you're safe... because of Kiki.</p>
+<p begin="888395006t" end="907997506t" region="region.after" style="defaultStyle" xml:id="subtitle27">[Steve]<br/><span style="defaultStyle_1">The "Kiki" Peña was referring to</span></p>
+<p begin="909667508t" end="963047501t" region="region.after" style="defaultStyle" xml:id="subtitle28"><span style="defaultStyle_1">was Kiki Camarena, a DEA agent who went</span><br/><span style="defaultStyle_1">after the Guadalajara cartel in Mexico.</span></p>
+<p begin="964717502t" end="986825005t" region="region.after" style="defaultStyle" xml:id="subtitle29"><span style="defaultStyle_1">Kiki was captured and tortured.</span></p>
+<p begin="988495006t" end="1017690006t" region="region.after" style="defaultStyle" xml:id="subtitle30"><span style="defaultStyle_1">They skinned his legs,</span><br/><span style="defaultStyle_1">put a bullet in each limb,</span></p>
+<p begin="1018525006t" end="1043545001t" region="region.after" style="defaultStyle" xml:id="subtitle31"><span style="defaultStyle_1">used an electric drill on his head</span><br/><span style="defaultStyle_1">until he died.</span></p>
+<p begin="1052720001t" end="1073992502t" region="region.after" style="defaultStyle" xml:id="subtitle32"><span style="defaultStyle_1">- </span>[gunshots]<br/><span style="defaultStyle_1">- What the fuck were they thinking?</span></p>
+<p begin="1075662503t" end="1118207506t" region="region.after" style="defaultStyle" xml:id="subtitle33"><span style="defaultStyle_1">They could kill an American</span><br/><span style="defaultStyle_1">government agent and get away with it?</span></p>
+<p begin="1119042507t" end="1156577505t" region="region.after" style="defaultStyle" xml:id="subtitle34"><span style="defaultStyle_1">Uncle Sam doesn't fuck around.</span><br/><span style="defaultStyle_1">The cocksuckers paid in blood.</span></p>
+<p begin="1165752503t" end="1190365008t" region="region.after" style="defaultStyle" xml:id="subtitle35"><span style="defaultStyle_1">They went after them so hard,</span><br/><span style="defaultStyle_1">every single narco in the world</span></p>
+<p begin="1192025000t" end="1229987508t" region="region.after" style="defaultStyle" xml:id="subtitle36"><span style="defaultStyle_1">got the message</span><br/><span style="defaultStyle_1">that the DEA is off-limits.</span></p>
+<p begin="1230822508t" end="1255842503t" region="region.after" style="defaultStyle" xml:id="subtitle37"><span style="defaultStyle_1">Kiki was like Jesus Christ to us.</span></p>
+<p begin="1256677505t" end="1269192507t" region="region.after" style="defaultStyle" xml:id="subtitle38"><span style="defaultStyle_1">He died to save us all.</span></p>
+<p begin="1273775001t" end="1302135000t" region="region.after" style="defaultStyle" xml:id="subtitle39">Do not tell Connie that story.</p>
+<p begin="1303805001t" end="1315902503t" region="region.after" style="defaultStyle" xml:id="subtitle40">I won't.</p>
+<p begin="1316737505t" end="1340932508t" region="region.after" style="defaultStyle" xml:id="subtitle41">- But you shouldn't forget it either.<br/>- Why?</p>
+<p begin="1349690007t" end="1372205000t" region="region.after" style="defaultStyle" xml:id="subtitle42">This cat is DEA.</p>
+<p begin="1373040001t" end="1394312502t" region="region.after" style="defaultStyle" xml:id="subtitle43">Mark my words, it will get justice.</p>
+<p begin="1455207502t" end="1484820002t" region="region.after" style="defaultStyle" xml:id="subtitle44">[Latin guitar theme music plays]</p>
+<p begin="2431187508t" end="2455372502t" region="region.after" style="defaultStyle" xml:id="subtitle45">[speaking Spanish]<br/>My name is everywhere.</p>
+<p begin="2493325000t" end="2506675003t" region="region.after" style="defaultStyle" xml:id="subtitle46">Newspapers...</p>
+<p begin="2529617506t" end="2544627501t" region="region.after" style="defaultStyle" xml:id="subtitle47">magazines...</p>
+<p begin="2590512507t" end="2630552507t" region="region.after" style="defaultStyle" xml:id="subtitle48">Everyone is talking about<br/>the "<span style="defaultStyle_1">Paisa </span>Robin Hood."</p>
+<p begin="2631387508t" end="2649320006t" region="region.after" style="defaultStyle" xml:id="subtitle49">Pablito, I'm sorry.<br/>If I had known that--</p>
+<p begin="2650155006t" end="2673087500t" region="region.after" style="defaultStyle" xml:id="subtitle50">You're going to have<br/>to pay for that, my love.</p>
+<p begin="2683097500t" end="2703117500t" region="region.after" style="defaultStyle" xml:id="subtitle51">Anything you want, Pablito.</p>
+<p begin="2704787501t" end="2723555000t" region="region.after" style="defaultStyle" xml:id="subtitle52">Anything I want?</p>
+<p begin="2724390001t" end="2748167505t" region="region.after" style="defaultStyle" xml:id="subtitle53">Yes, my love,<br/>whatever you want.</p>
+<p begin="2749002506t" end="2764430001t" region="region.after" style="defaultStyle" xml:id="subtitle54">You sure?</p>
+<p begin="2775275001t" end="2791965008t" region="region.after" style="defaultStyle" xml:id="subtitle55">[Valeria]<br/>Uh-huh.</p>
+<p begin="2867452503t" end="2880802507t" region="region.after" style="defaultStyle" xml:id="subtitle56">[moans]</p>
+<p begin="2946697502t" end="2959212506t" region="region.after" style="defaultStyle" xml:id="subtitle57">[whispers] Then...</p>
+<p begin="2980902507t" end="3013427500t" region="region.after" style="defaultStyle" xml:id="subtitle58">you're going to help me<br/>get into Congress.</p>
+<p begin="3044292500t" end="3056807502t" region="region.after" style="defaultStyle" xml:id="subtitle59">Yes, Pablo.</p>
+<p begin="3070575006t" end="3083080000t" region="region.after" style="defaultStyle" xml:id="subtitle60">Yes.</p>
+<p begin="3083915000t" end="3112285008t" region="region.after" style="defaultStyle" xml:id="subtitle61">[moans, panting]</p>
+<p begin="3141062507t" end="3166917502t" region="region.after" style="defaultStyle" xml:id="subtitle62">[moaning]</p>
+<p begin="3215715001t" end="3238240003t" region="region.after" style="defaultStyle" xml:id="subtitle63">Those shitty oligarchs.</p>
+<p begin="3259512506t" end="3283697500t" region="region.after" style="defaultStyle" xml:id="subtitle64">Those people,<br/>all of their lives...</p>
+<p begin="3296212502t" end="3333747500t" region="region.after" style="defaultStyle" xml:id="subtitle65">don't know what it's like to wonder<br/>where their next meal is coming from.</p>
+<p begin="3365030001t" end="3388390003t" region="region.after" style="defaultStyle" xml:id="subtitle66">I come from nothing, Valeria...</p>
+<p begin="3405487501t" end="3430517506t" region="region.after" style="defaultStyle" xml:id="subtitle67">and I have more money<br/>than any of those sons of bitches.</p>
+<p begin="3431352507t" end="3470140006t" region="region.after" style="defaultStyle" xml:id="subtitle68">If you run for Congress, you put yourself<br/>in the public eye, you become a target.</p>
+<p begin="3483072508t" end="3524355000t" region="region.after" style="defaultStyle" xml:id="subtitle69">"I made my money from taxis" isn't going<br/>to work when you face the press.</p>
+<p begin="3537287502t" end="3573162508t" region="region.after" style="defaultStyle" xml:id="subtitle70">Pablo, you need a party that supports you.</p>
+<p begin="3575240001t" end="3605687501t" region="region.after" style="defaultStyle" xml:id="subtitle71">You need a proper political campaign.</p>
+<p begin="3619872506t" end="3639057505t" region="region.after" style="defaultStyle" xml:id="subtitle72">I buy the press, my love.</p>
+<p begin="3651990007t" end="3667417502t" region="region.after" style="defaultStyle" xml:id="subtitle73">And as far as a political party,</p>
+<p begin="3668252503t" end="3698282503t" region="region.after" style="defaultStyle" xml:id="subtitle74">I am quite sure<br/>that I can buy one of those as well.</p>
+<p begin="3711215006t" end="3726225001t" region="region.after" style="defaultStyle" xml:id="subtitle75">I don't want to be good.</p>
+<p begin="3759177505t" end="3777110002t" region="region.after" style="defaultStyle" xml:id="subtitle76">I am going to be great.</p>
+<p begin="3778780003t" end="3787120002t" region="region.before" style="defaultStyle_2" xml:id="subtitle77">A <span style="defaultStyle_3">PAISA</span> ROBIN HOOD</p>
+<p begin="3787955003t" end="3823412508t" region="region.before" style="defaultStyle_2" xml:id="subtitle78">[Steve] <span style="defaultStyle_3">A drug dealer running</span><br/><span style="defaultStyle_3">for president. It was crazy, right?</span></p>
+<p begin="3824237500t" end="3855520001t" region="region.after" style="defaultStyle" xml:id="subtitle79"><span style="defaultStyle_1">Well, not in Colombia.</span><br/><span style="defaultStyle_1">Not in the mid-'80s.</span></p>
+<p begin="3857190002t" end="3889307505t" region="region.after" style="defaultStyle" xml:id="subtitle80"><span style="defaultStyle_1">As far as Colombians go,</span><br/><span style="defaultStyle_1">Pablo wasn't a drug dealer at all.</span></p>
+<p begin="3890142506t" end="3910997506t" region="region.after" style="defaultStyle" xml:id="subtitle81"><span style="defaultStyle_1">He was a fucking winner.</span></p>
+<p begin="3912667508t" end="3938522503t" region="region.after" style="defaultStyle" xml:id="subtitle82"><span style="defaultStyle_1">The living embodiment</span><br/><span style="defaultStyle_1">of the Colombian dream.</span></p>
+<p begin="3939357505t" end="3970222506t" region="region.after" style="defaultStyle" xml:id="subtitle83"><span style="defaultStyle_1">The guy who'd buy houses for the poor</span><br/><span style="defaultStyle_1">in exchange for nothing.</span></p>
+<p begin="3978562503t" end="4013602508t" region="region.after" style="defaultStyle" xml:id="subtitle84"><span style="defaultStyle_1">As far as Pablo could tell, the doors</span><br/><span style="defaultStyle_1">to political success were there...</span></p>
+<p begin="4024855000t" end="4045292500t" region="region.after" style="defaultStyle" xml:id="subtitle85"><span style="defaultStyle_1">and all he had to do was to get to them.</span></p>
+<p begin="4069905005t" end="4089090003t" region="region.after" style="defaultStyle" xml:id="subtitle86"><span style="defaultStyle_1">And in order to do that,</span></p>
+<p begin="4089925005t" end="4129547505t" region="region.after" style="defaultStyle" xml:id="subtitle87"><span style="defaultStyle_1">he asked Valeria Velez</span><br/><span style="defaultStyle_1">to introduce him to Fernando Duque.</span></p>
+<p begin="4182102507t" end="4220055005t" region="region.after" style="defaultStyle" xml:id="subtitle88"><span style="defaultStyle_1">Duque was a lawyer and a lobbyist</span><br/><span style="defaultStyle_1">who represented the New Liberals,</span></p>
+<p begin="4220890006t" end="4247997502t" region="region.after" style="defaultStyle" xml:id="subtitle89"><span style="defaultStyle_1">a party who claimed</span><br/><span style="defaultStyle_1">to represent the people.</span></p>
+<p begin="4308475003t" end="4316815001t" region="region.after" style="defaultStyle" xml:id="subtitle90">Pablo!</p>
+<p begin="4317650002t" end="4339340003t" region="region.after" style="defaultStyle" xml:id="subtitle91">[speaking Spanish]<br/>I should've gotten into the taxi business.</p>
+<p begin="4341010006t" end="4362282507t" region="region.after" style="defaultStyle" xml:id="subtitle92">- Valeria, how are you doing?<br/>- Well, thank you.</p>
+<p begin="4363117508t" end="4377292502t" region="region.after" style="defaultStyle" xml:id="subtitle93">Mr. Duque.</p>
+<p begin="4378962503t" end="4411497506t" region="region.after" style="defaultStyle" xml:id="subtitle94">It gives me great pleasure to invite you<br/>to the Hacienda Nápoles.</p>
+<p begin="4412332507t" end="4427760002t" region="region.after" style="defaultStyle" xml:id="subtitle95">- Nice to meet you.<br/>- Please, come.</p>
+<p begin="4435682500t" end="4447780002t" region="region.after" style="defaultStyle" xml:id="subtitle96">After you, Valeria.</p>
+<p begin="4477810002t" end="4489072503t" region="region.after" style="defaultStyle" xml:id="subtitle97">Please.</p>
+<p begin="4507005001t" end="4558725003t" region="region.after" style="defaultStyle" xml:id="subtitle98">Look, I am not a rich person.<br/>I am a poor person with money.</p>
+<p begin="4559560003t" end="4581250006t" region="region.after" style="defaultStyle" xml:id="subtitle99">And for that reason,<br/>I think that...</p>
+<p begin="4592095006t" end="4614610000t" region="region.after" style="defaultStyle" xml:id="subtitle100">Well, I think that<br/>I understand the people</p>
+<p begin="4615445000t" end="4637552502t" region="region.after" style="defaultStyle" xml:id="subtitle101">to whom the New Liberalism<br/>wants to give a voice.</p>
+<p begin="4639222503t" end="4684272508t" region="region.after" style="defaultStyle" xml:id="subtitle102">The party clearly needs to hear<br/>what you have to say, Mr. Escobar.</p>
+<p begin="4698030002t" end="4726390001t" region="region.after" style="defaultStyle" xml:id="subtitle103">There is a great deal of talk<br/>about how you have made your money.</p>
+<p begin="4728060002t" end="4765595000t" region="region.after" style="defaultStyle" xml:id="subtitle104">I need guarantees<br/>concerning the origins of your fortune.</p>
+<p begin="4781032506t" end="4815645000t" region="region.after" style="defaultStyle" xml:id="subtitle105">And Valeria told you...<br/>how much I am going to donate?</p>
+<p begin="4817315001t" end="4835665000t" region="region.after" style="defaultStyle" xml:id="subtitle106">- No, no--<br/>- Look, I am not a politician.</p>
+<p begin="4836500001t" end="4885715000t" region="region.after" style="defaultStyle" xml:id="subtitle107">I am not a successful lawyer like you.<br/>I come from the street... brother.</p>
+<p begin="4887385001t" end="4927842502t" region="region.after" style="defaultStyle" xml:id="subtitle108">I want to reassure you<br/>that you will receive your piece.</p>
+<p begin="4928677502t" end="4952037506t" region="region.after" style="defaultStyle" xml:id="subtitle109">- It's not about that--<br/>- Assuming your piece is ten percent,</p>
+<p begin="4952872507t" end="4967465001t" region="region.after" style="defaultStyle" xml:id="subtitle110">your piece would be what?</p>
+<p begin="4969135003t" end="4992912507t" region="region.after" style="defaultStyle" xml:id="subtitle111">$300,000 just for you.</p>
+<p begin="5037117501t" end="5066312500t" region="region.after" style="defaultStyle" xml:id="subtitle112">Does that seem like a sufficient guarantee<br/>for the Justice Minister or what?</p>
+<p begin="5067982502t" end="5091342506t" region="region.after" style="defaultStyle" xml:id="subtitle113">- Most definitely.<br/>- All right, then.</p>
+<p begin="5092177506t" end="5110527505t" region="region.after" style="defaultStyle" xml:id="subtitle114">Let's go look at the hippos.<br/>Come on.</p>
+<p begin="5132635006t" end="5158490002t" region="region.after" style="defaultStyle" xml:id="subtitle115">- Blackie.<br/>- [indistinct chatter in Spanish]</p>
+<p begin="5160160003t" end="5171840006t" region="region.after" style="defaultStyle" xml:id="subtitle116">Pablo?</p>
+<p begin="5188102502t" end="5213967508t" region="region.after" style="defaultStyle" xml:id="subtitle117">- And what about me?<br/>- What about you?</p>
+<p begin="5228142502t" end="5243162507t" region="region.after" style="defaultStyle" xml:id="subtitle118">I don't get my piece?</p>
+<p begin="5251502506t" end="5272357506t" region="region.after" style="defaultStyle" xml:id="subtitle119">No, my queen.<br/>The thing is that you...</p>
+<p begin="5285280000t" end="5306970001t" region="region.after" style="defaultStyle" xml:id="subtitle120">you're in this for love, right?</p>
+<p begin="5337000001t" end="5359942503t" region="region.after" style="defaultStyle" xml:id="subtitle121">Look, Minister...</p>
+<p begin="5360777505t" end="5390807505t" region="region.after" style="defaultStyle" xml:id="subtitle122">Escobar has founded schools, clinics.</p>
+<p begin="5391642506t" end="5415002508t" region="region.after" style="defaultStyle" xml:id="subtitle123">He has created sources of employment<br/>throughout Medellín.</p>
+<p begin="5415827500t" end="5441692506t" region="region.after" style="defaultStyle" xml:id="subtitle124">The people love him,<br/>and he loves the people.</p>
+<p begin="5442527506t" end="5469635003t" region="region.after" style="defaultStyle" xml:id="subtitle125">And from a legal point of view,<br/>his money is clean.</p>
+<p begin="5470470003t" end="5507587501t" region="region.after" style="defaultStyle" xml:id="subtitle126">And according to <span style="defaultStyle_1">Forbes Magazine,</span><br/>he's a drug trafficker.</p>
+<p begin="5508422502t" end="5550132503t" region="region.after" style="defaultStyle" xml:id="subtitle127">Are you going to believe all of that<br/>American imperialist propaganda?</p>
+<p begin="5550967505t" end="5560977505t" region="region.after" style="defaultStyle" xml:id="subtitle128">Take a look.</p>
+<p begin="5588920002t" end="5642727506t" region="region.after" style="defaultStyle" xml:id="subtitle129">These are property holdings papers.</p>
+<p begin="5643562507t" end="5655242508t" region="region.after" style="defaultStyle" xml:id="subtitle130">Look.</p>
+<p begin="5656067500t" end="5702787506t" region="region.after" style="defaultStyle" xml:id="subtitle131">He's the owner of hundreds of properties<br/>in Colombia and also the United States.</p>
+<p begin="5712380006t" end="5734905008t" region="region.after" style="defaultStyle" xml:id="subtitle132">In addition,<br/>this man has no criminal record.</p>
+<p begin="5735730000t" end="5769517502t" region="region.after" style="defaultStyle" xml:id="subtitle133">If there was,<br/>there would be proof of his background.</p>
+<p begin="5820402503t" end="5833335006t" region="region.after" style="defaultStyle" xml:id="subtitle134">How much is he paying you?</p>
+<p begin="5851267505t" end="5872122506t" region="region.after" style="defaultStyle" xml:id="subtitle135">I am thinking about our party, Minister.</p>
+<p begin="5882967506t" end="5918415001t" region="region.after" style="defaultStyle" xml:id="subtitle136">Escobar is prepared<br/>to contribute millions of dollars.</p>
+<p begin="5920085003t" end="5964300007t" region="region.after" style="defaultStyle" xml:id="subtitle137">We already support Jairo Ortega<br/>so that he can campaign in Antioquia.</p>
+<p begin="5965135008t" end="5991407505t" region="region.after" style="defaultStyle" xml:id="subtitle138">Let's let Escobar be his alternate.</p>
+<p begin="5992242506t" end="6028107501t" region="region.after" style="defaultStyle" xml:id="subtitle139">What do you prefer...<br/>rumors and insinuations,</p>
+<p begin="6028942502t" end="6052720006t" region="region.after" style="defaultStyle" xml:id="subtitle140">or fewer representatives in Congress?</p>
+<p begin="6062312506t" end="6105692508t" region="region.after" style="defaultStyle" xml:id="subtitle141">[Steve] <span style="defaultStyle_1">And just like that...</span><br/><span style="defaultStyle_1">an honest man blinked.</span></p>
+<p begin="6107770001t" end="6128207501t" region="region.after" style="defaultStyle" xml:id="subtitle142">You're not going back to that <span style="defaultStyle_1">comuna!</span></p>
+<p begin="6129042502t" end="6154490007t" region="region.after" style="defaultStyle" xml:id="subtitle143">What, you want me to stay<br/>in this apartment for the next two years?</p>
+<p begin="6169082502t" end="6186180000t" region="region.after" style="defaultStyle" xml:id="subtitle144">Oh, my God, you do.</p>
+<p begin="6187850001t" end="6204957508t" region="region.after" style="defaultStyle" xml:id="subtitle145">Honey, your cat was killed<br/>as a warning to me.</p>
+<p begin="6206617500t" end="6217045000t" region="region.after" style="defaultStyle" xml:id="subtitle146">Our cat.</p>
+<p begin="6218715001t" end="6229560002t" region="region.after" style="defaultStyle" xml:id="subtitle147">OK, our cat.</p>
+<p begin="6243327506t" end="6277105000t" region="region.after" style="defaultStyle" xml:id="subtitle148">What if you went back to Miami just for<br/>a little while until things quiet down?</p>
+<p begin="6277940001t" end="6316310000t" region="region.after" style="defaultStyle" xml:id="subtitle149">Oh, you're gonna make them quiet down?<br/>You're that good, huh? [scoffs]</p>
+<p begin="6317980001t" end="6353020006t" region="region.after" style="defaultStyle" xml:id="subtitle150">I'll tell you what. I'll agree to go back<br/>to Miami if you agree to go back, too.</p>
+<p begin="6353855006t" end="6380127502t" region="region.after" style="defaultStyle" xml:id="subtitle151">- You prepared to do that?<br/>- I'm not giving in on this one!</p>
+<p begin="6475645008t" end="6501917505t" region="region.after" style="defaultStyle" xml:id="subtitle152">[Steve]<br/>OK. I'll be waiting to take you home.</p>
+<p begin="6503587506t" end="6525695008t" region="region.after" style="defaultStyle" xml:id="subtitle153">I already stick out like a sore thumb.</p>
+<p begin="6526520000t" end="6549045001t" region="region.after" style="defaultStyle" xml:id="subtitle154">The bodyguards<br/>are only gonna draw more attention.</p>
+<p begin="6550715003t" end="6566152508t" region="region.after" style="defaultStyle" xml:id="subtitle155">Just humor me.</p>
+<p begin="6567812500t" end="6597007500t" region="region.after" style="defaultStyle" xml:id="subtitle156">I can't do my job<br/>if I'm worried about your safety.</p>
+<p begin="6607017500t" end="6616202508t" region="region.after" style="defaultStyle" xml:id="subtitle157">Mm...</p>
+<p begin="6668747501t" end="6690020002t" region="region.after" style="defaultStyle" xml:id="subtitle158">Hey, mind parking<br/>down the street a little?</p>
+<p begin="6691272503t" end="6706292508t" region="region.after" style="defaultStyle" xml:id="subtitle159">I'll scream if I need you.</p>
+<p begin="6716302508t" end="6736729999t" region="region.after" style="defaultStyle" xml:id="subtitle160">[indistinct chatter in Spanish]</p>
+<p begin="6797207500t" end="6813480006t" region="region.after" style="defaultStyle" xml:id="subtitle161">- <span style="defaultStyle_1">Buenos días, </span>Father.<br/>- Connie.</p>
+<p begin="6814315006t" end="6829742502t" region="region.after" style="defaultStyle" xml:id="subtitle162">What, are you surprised to see me?</p>
+<p begin="6830577502t" end="6856849999t" region="region.after" style="defaultStyle" xml:id="subtitle163">We've had American volunteers.<br/>They come and go.</p>
+<p begin="6857685000t" end="6873122506t" region="region.after" style="defaultStyle" xml:id="subtitle164">Well, this one will keep coming.</p>
+<p begin="6919415001t" end="6949445001t" region="region.after" style="defaultStyle" xml:id="subtitle165">[Steve] <span style="defaultStyle_1">Surprised to see Elisa,</span><br/><span style="defaultStyle_1">a communist M-19 guerrilla,</span></p>
+<p begin="6950280002t" end="6965717508t" region="region.after" style="defaultStyle" xml:id="subtitle166"><span style="defaultStyle_1">working in the </span>comuna?</p>
+<p begin="6967377500t" end="7004087506t" region="region.after" style="defaultStyle" xml:id="subtitle167"><span style="defaultStyle_1">That's because you don't know</span><br/><span style="defaultStyle_1">the liberation church in Colombia.</span></p>
+<p begin="7005757508t" end="7034535006t" region="region.after" style="defaultStyle" xml:id="subtitle168"><span style="defaultStyle_1">And the priest... innocent, right?</span></p>
+<p begin="7035370007t" end="7063730006t" region="region.after" style="defaultStyle" xml:id="subtitle169"><span style="defaultStyle_1">Wrong.</span><br/><span style="defaultStyle_1">He's more of a commie than she is.</span></p>
+<p begin="7064565006t" end="7082497505t" region="region.after" style="defaultStyle" xml:id="subtitle170">[speaking Spanish]<br/>Who is the gringa?</p>
+<p begin="7083332506t" end="7099595001t" region="region.after" style="defaultStyle" xml:id="subtitle171">A child of God, just like you.</p>
+<p begin="7100430002t" end="7118362500t" region="region.after" style="defaultStyle" xml:id="subtitle172">Hm. Got it.</p>
+<p begin="7120032502t" end="7150480002t" region="region.after" style="defaultStyle" xml:id="subtitle173">- [up-tempo music playing]<br/>- [men cheering nearby]</p>
+<p begin="7189685001t" end="7218880001t" region="region.after" style="defaultStyle" xml:id="subtitle174">[speaking Spanish]<br/>Let's see, you are here for a cat?</p>
+<p begin="7220550002t" end="7254755006t" region="region.after" style="defaultStyle" xml:id="subtitle175">This isn't just any cat.<br/>This is a gringo cat of the DEA.</p>
+<p begin="7256425008t" end="7281862503t" region="region.after" style="defaultStyle" xml:id="subtitle176">- [in English] What's he saying?<br/>- I'm telling him about the cat.</p>
+<p begin="7282697505t" end="7318562500t" region="region.after" style="defaultStyle" xml:id="subtitle177">[in Spanish] And what you want<br/>is for me to find a cat killer.</p>
+<p begin="7320232502t" end="7362360003t" region="region.after" style="defaultStyle" xml:id="subtitle178">It was the narcos, Suárez.<br/>We don't take this shit lightly.</p>
+<p begin="7379040001t" end="7394060006t" region="region.after" style="defaultStyle" xml:id="subtitle179">Your friend is a little crazy.</p>
+<p begin="7395730007t" end="7418245000t" region="region.after" style="defaultStyle" xml:id="subtitle180"><span style="defaultStyle_1">No hablo español. </span>[in English]<br/>I don't know what you're saying.</p>
+<p begin="7419915001t" end="7432847505t" region="region.after" style="defaultStyle" xml:id="subtitle181">[in Spanish]<br/>I don't speak English.</p>
+<p begin="7457042508t" end="7477887500t" region="region.after" style="defaultStyle" xml:id="subtitle182">Get me some information, Suárez.</p>
+<p begin="7478722500t" end="7496665008t" region="region.after" style="defaultStyle" xml:id="subtitle183">[Suárez]<br/>Look, I don't have enough people</p>
+<p begin="7497489999t" end="7537529999t" region="region.after" style="defaultStyle" xml:id="subtitle184">to go through hundreds of hours of chatter<br/>over a fucking cat.</p>
+<p begin="7539200001t" end="7575492507t" region="region.after" style="defaultStyle" xml:id="subtitle185">If this was information about the narcos,<br/>yes, my people are interested.</p>
+<p begin="7576327508t" end="7593425005t" region="region.after" style="defaultStyle" xml:id="subtitle186">But they won't give a fuck about the cat.</p>
+<p begin="7595095006t" end="7621785003t" region="region.after" style="defaultStyle" xml:id="subtitle187">- [in English] What is he saying?<br/>- They don't like cats in this country.</p>
+<p begin="7622620003t" end="7635970007t" region="region.after" style="defaultStyle" xml:id="subtitle188">Tell me about it.</p>
+<p begin="7637629999t" end="7671835003t" region="region.after" style="defaultStyle" xml:id="subtitle189">[in Spanish] But if you want<br/>to put all my people to work</p>
+<p begin="7672670003t" end="7719797501t" region="region.after" style="defaultStyle" xml:id="subtitle190">to find out who killed the fucking cat,<br/>that is going to cost you more.</p>
+<p begin="7739400001t" end="7761090002t" region="region.after" style="defaultStyle" xml:id="subtitle191">They broke into the house to kill his cat.</p>
+<p begin="7769847501t" end="7797789999t" region="region.after" style="defaultStyle" xml:id="subtitle192">I think they made him<br/>when he arrived at the airport in Bogotá.</p>
+<p begin="7799460001t" end="7810722502t" region="region.after" style="defaultStyle" xml:id="subtitle193">Find out.</p>
+<p begin="7846597508t" end="7866200007t" region="region.after" style="defaultStyle" xml:id="subtitle194">- [in English] Is that a D-103?<br/>- Yup.</p>
+<p begin="7867859999t" end="7894977506t" region="region.after" style="defaultStyle" xml:id="subtitle195">[Steve] Let me get this straight.<br/>Gotta pay this cop off for information,</p>
+<p begin="7896647508t" end="7931260002t" region="region.after" style="defaultStyle" xml:id="subtitle196">- then you gotta get a receipt?<br/>- I gotta get reimbursed.</p>
+<p begin="7932930003t" end="7981310002t" region="region.after" style="defaultStyle" xml:id="subtitle197">[in Spanish] This gentleman is an employee<br/>of the American Embassy in our country,</p>
+<p begin="7982145003t" end="8023020003t" region="region.after" style="defaultStyle" xml:id="subtitle198">and he assures me that you gave out his<br/>personal information to certain criminals.</p>
+<p begin="8031360002t" end="8045962507t" region="region.after" style="defaultStyle" xml:id="subtitle199">That's not true.</p>
+<p begin="8057225008t" end="8081410002t" region="region.after" style="defaultStyle" xml:id="subtitle200">These guys killed his cat.</p>
+<p begin="8091420002t" end="8113945005t" region="region.after" style="defaultStyle" xml:id="subtitle201">Maybe you don't know this,<br/>but the mistreatment of animals</p>
+<p begin="8114780006t" end="8128119999t" region="region.after" style="defaultStyle" xml:id="subtitle202">is a federal crime.</p>
+<p begin="8144392506t" end="8154402506t" region="region.after" style="defaultStyle" xml:id="subtitle203">Is this funny to you?</p>
+<p begin="8163160003t" end="8208199999t" region="region.after" style="defaultStyle" xml:id="subtitle204">They can bring formal charges against you,<br/>and you could lose your job.</p>
+<p begin="8209035000t" end="8236987508t" region="region.after" style="defaultStyle" xml:id="subtitle205">Do you not need your job, Santiago?</p>
+<p begin="8248239999t" end="8259502500t" region="region.after" style="defaultStyle" xml:id="subtitle206">Yes, I need it.</p>
+<p begin="8357107508t" end="8392555003t" region="region.after" style="defaultStyle" xml:id="subtitle207">Mr. Murphy,<br/>do you recognize these men?</p>
+<p begin="8402147502t" end="8420915001t" region="region.after" style="defaultStyle" xml:id="subtitle208">[in English] Yeah, you guys<br/>stalled me at the airport</p>
+<p begin="8421750002t" end="8457625008t" region="region.after" style="defaultStyle" xml:id="subtitle209">so you could take my passport<br/>and copy and scan it, didn't you?</p>
+<p begin="8458449999t" end="8479305000t" region="region.after" style="defaultStyle" xml:id="subtitle210">- [in Spanish] What?<br/>- May I?</p>
+<p begin="8488479999t" end="8523937505t" region="region.after" style="defaultStyle" xml:id="subtitle211">You both are being accused<br/>of conspiring against a federal agent</p>
+<p begin="8524772506t" end="8540617501t" region="region.after" style="defaultStyle" xml:id="subtitle212">of the United States.</p>
+<p begin="8548539999t" end="8588579999t" region="region.after" style="defaultStyle" xml:id="subtitle213">The cat is under the jurisdiction<br/>of the American government.</p>
+<p begin="8589415000t" end="8618202508t" region="region.after" style="defaultStyle" xml:id="subtitle214">And to kill it is the same<br/>as to kill a police dog.</p>
+<p begin="8650310001t" end="8664912506t" region="region.after" style="defaultStyle" xml:id="subtitle215">This is absurd.</p>
+<p begin="8678262508t" end="8716215006t" region="region.after" style="defaultStyle" xml:id="subtitle216">Look, I'm a Colombian citizen,<br/>and I know exactly my--</p>
+<p begin="8724555005t" end="8748740000t" region="region.after" style="defaultStyle" xml:id="subtitle217">You will not disrespect them!</p>
+<p begin="8761672502t" end="8776692507t" region="region.after" style="defaultStyle" xml:id="subtitle218">[softly]<br/>Is that clear?</p>
+<p begin="8778362508t" end="8835082506t" region="region.after" style="defaultStyle" xml:id="subtitle219">If I open my mouth, they kill me...<br/>and they kill my wife.</p>
+<p begin="8836752507t" end="8860102500t" region="region.after" style="defaultStyle" xml:id="subtitle220">He's having problems with his wife.</p>
+<p begin="8861772502t" end="8872617502t" region="region.after" style="defaultStyle" xml:id="subtitle221">Shut up!</p>
+<p begin="8882627502t" end="8902230002t" region="region.after" style="defaultStyle" xml:id="subtitle222">- [mutters] Imbecile.<br/>- OK, gentlemen.</p>
+<p begin="8911405001t" end="8927260007t" region="region.after" style="defaultStyle" xml:id="subtitle223">This is quite simple.</p>
+<p begin="8940600001t" end="9001495001t" region="region.after" style="defaultStyle" xml:id="subtitle224">I can get the phone number of the person<br/>to whom you sent those documents,</p>
+<p begin="9003165003t" end="9049040000t" region="region.after" style="defaultStyle" xml:id="subtitle225">and I can tell him that you accused him<br/>of being the cat killer.</p>
+<p begin="9050710001t" end="9064895005t" region="region.after" style="defaultStyle" xml:id="subtitle226">How does that sound?</p>
+<p begin="9119945000t" end="9147062507t" region="region.after" style="defaultStyle" xml:id="subtitle227">I sent a copy of that passport...</p>
+<p begin="9159150000t" end="9180422500t" region="region.after" style="defaultStyle" xml:id="subtitle228"><span style="defaultStyle_1">to a man they call...</span></p>
+<p begin="9197947508t" end="9206287506t" region="region.after" style="defaultStyle" xml:id="subtitle229">"Poison."</p>
+<p begin="9236735006t" end="9255502506t" region="region.after" style="defaultStyle" xml:id="subtitle230">[Pablo speaking Spanish]<br/>OK, Poison.</p>
+<p begin="9256337506t" end="9288455008t" region="region.after" style="defaultStyle" xml:id="subtitle231">You're going to take this money<br/>to Fernando Duque in Bogotá.</p>
+<p begin="9290115000t" end="9307222507t" region="region.after" style="defaultStyle" xml:id="subtitle232">And this is the address.</p>
+<p begin="9308057508t" end="9331407501t" region="region.after" style="defaultStyle" xml:id="subtitle233">If they stop you on the road,<br/>just salute the official,</p>
+<p begin="9332242502t" end="9356855006t" region="region.after" style="defaultStyle" xml:id="subtitle234">give them a little bribe<br/>and continue forward.</p>
+<p begin="9364777505t" end="9377292507t" region="region.after" style="defaultStyle" xml:id="subtitle235">No violence.</p>
+<p begin="9378127508t" end="9396895006t" region="region.after" style="defaultStyle" xml:id="subtitle236">And you call me every two hours.</p>
+<p begin="9397730007t" end="9421080001t" region="region.after" style="defaultStyle" xml:id="subtitle237">- Of course, boss. Whatever you say.<br/>- OK, then. No showing off.</p>
+<p begin="9422750002t" end="9446110006t" region="region.after" style="defaultStyle" xml:id="subtitle238">[shouts]<br/>No showing off!</p>
+<p begin="9447362507t" end="9488237508t" region="region.after" style="defaultStyle" xml:id="subtitle239">- Nice and simple. Go unnoticed.<br/>- [man] Got it.</p>
+<p begin="9490315000t" end="9524937505t" region="region.after" style="defaultStyle" xml:id="subtitle240">- [murmuring appreciatively]<br/>- What the fuck are you doing?</p>
+<p begin="9539947500t" end="9552462502t" region="region.after" style="defaultStyle" xml:id="subtitle241">Getting ready, right?</p>
+<p begin="9554132503t" end="9589997500t" region="region.after" style="defaultStyle" xml:id="subtitle242">You are meeting up with politicians,<br/>not with gangsters.</p>
+<p begin="9611270001t" end="9631290001t" region="region.after" style="defaultStyle" xml:id="subtitle243">Aren't they the same thing, boss?</p>
+<p begin="9647980007t" end="9671747501t" region="region.after" style="defaultStyle" xml:id="subtitle244">Politicians scare easily.</p>
+<p begin="9672582502t" end="9691767501t" region="region.after" style="defaultStyle" xml:id="subtitle245">You're fine with just a pistol.</p>
+<p begin="9692602502t" end="9718050007t" region="region.after" style="defaultStyle" xml:id="subtitle246">Go to it, then.<br/>Go to it, dumbass.</p>
+<p begin="9731390001t" end="9759750000t" region="region.after" style="defaultStyle" xml:id="subtitle247">[in English] According to CNP wiretaps,<br/>the <span style="defaultStyle_1">sicario </span>"Poison"</p>
+<p begin="9760585000t" end="9785197505t" region="region.after" style="defaultStyle" xml:id="subtitle248">was recorded saying<br/>he was driving to Bogotá this afternoon.</p>
+<p begin="9786032506t" end="9801877501t" region="region.after" style="defaultStyle" xml:id="subtitle249">For what purpose,<br/>we don't know.</p>
+<p begin="9802712502t" end="9831490001t" region="region.after" style="defaultStyle" xml:id="subtitle250">But if we don't respond<br/>to the obvious threat to Agent Murphy,</p>
+<p begin="9833160002t" end="9847345006t" region="region.after" style="defaultStyle" xml:id="subtitle251">we're sending the wrong message.</p>
+<p begin="9848180007t" end="9871947501t" region="region.after" style="defaultStyle" xml:id="subtitle252">Police have the information,<br/>then they should make the arrest.</p>
+<p begin="9872782502t" end="9894472503t" region="region.after" style="defaultStyle" xml:id="subtitle253">No. No, if we leave it to them,<br/>someone will sell us out.</p>
+<p begin="9895307505t" end="9921580001t" region="region.after" style="defaultStyle" xml:id="subtitle254">The narcos have informants<br/>in their department.</p>
+<p begin="9923250002t" end="9949115008t" region="region.after" style="defaultStyle" xml:id="subtitle255">What Peña's driving at is that<br/>Major Carrillo should man a roadblock.</p>
+<p begin="9949940000t" end="9967465006t" region="region.after" style="defaultStyle" xml:id="subtitle256">- We can trust Carrillo.<br/>- I don't have authority</p>
+<p begin="9968300007t" end="9990397500t" region="region.after" style="defaultStyle" xml:id="subtitle257">- over the Colombian police.<br/>- All due respect, Ambassador,</p>
+<p begin="9991232500t" end="10008757508t" region="region.after" style="defaultStyle" xml:id="subtitle258">but you know where we are.</p>
+<p begin="10009592508t" end="10027107506t" region="region.after" style="defaultStyle" xml:id="subtitle259">With enough money,<br/>you can get anything done.</p>
+<p begin="10055050003t" end="10098847508t" region="region.after" style="defaultStyle" xml:id="subtitle260">Excuse me for saying so...<br/>but this isn't much of a roadblock, is it?</p>
+<p begin="10099682508t" end="10113857502t" region="region.after" style="defaultStyle" xml:id="subtitle261">Well, if the roadblock is too obvious,</p>
+<p begin="10114692503t" end="10148062507t" region="region.after" style="defaultStyle" xml:id="subtitle262">Pablo can be tipped off<br/>by a cop or by a passerby, who knows.</p>
+<p begin="10162655001t" end="10184762503t" region="region.after" style="defaultStyle" xml:id="subtitle263">Can anybody in this country<br/>keep a secret?</p>
+<p begin="10191850001t" end="10214375003t" region="region.after" style="defaultStyle" xml:id="subtitle264">I've got a spotter set up<br/>about four kilometers away.</p>
+<p begin="10215210003t" end="10230637500t" region="region.after" style="defaultStyle" xml:id="subtitle265"><span style="defaultStyle_1">He's gonna let us know</span><br/><span style="defaultStyle_1">when Poison passes.</span></p>
+<p begin="10232307501t" end="10253997502t" region="region.after" style="defaultStyle" xml:id="subtitle266">You're gonna question them, right?<br/>Because we need to--</p>
+<p begin="10255667505t" end="10269435008t" region="region.after" style="defaultStyle" xml:id="subtitle267">Poison's killed three of my men already.</p>
+<p begin="10270260000t" end="10290280000t" region="region.after" style="defaultStyle" xml:id="subtitle268">If I catch him alive,<br/>you guys can question him here.</p>
+<p begin="10299882508t" end="10312805001t" region="region.after" style="defaultStyle" xml:id="subtitle269">Then you guys gotta go.</p>
+<p begin="10384962503t" end="10398312507t" region="region.after" style="defaultStyle" xml:id="subtitle270">[up-tempo music plays on radio]</p>
+<p begin="10399147508t" end="10417915006t" region="region.after" style="defaultStyle" xml:id="subtitle271">[speaking Spanish]<br/>Hey, hey, hey, hold on, 65?</p>
+<p begin="10419585008t" end="10433342502t" region="region.after" style="defaultStyle" xml:id="subtitle272">Sixty-five.</p>
+<p begin="10435012503t" end="10455450003t" region="region.after" style="defaultStyle" xml:id="subtitle273">Hey, brother, that's a lot.</p>
+<p begin="10456285005t" end="10472547501t" region="region.after" style="defaultStyle" xml:id="subtitle274">You sure?</p>
+<p begin="10473382502t" end="10499247508t" region="region.after" style="defaultStyle" xml:id="subtitle275">I counted every single son of a bitch.</p>
+<p begin="10500907500t" end="10515510003t" region="region.after" style="defaultStyle" xml:id="subtitle276">All right!</p>
+<p begin="10517180006t" end="10542200001t" region="region.after" style="defaultStyle" xml:id="subtitle277">Sure, but are you counting<br/>what happened last night?</p>
+<p begin="10543035001t" end="10560142508t" region="region.after" style="defaultStyle" xml:id="subtitle278">Of course,<br/>that was number 65.</p>
+<p begin="10560967500t" end="10596425005t" region="region.after" style="defaultStyle" xml:id="subtitle279">Don't bullshit.<br/>I was the one who shot that faggot.</p>
+<p begin="10597260006t" end="10624785003t" region="region.after" style="defaultStyle" xml:id="subtitle280">- Bullshit.<br/>- [scoffs] Bullshit...</p>
+<p begin="10625620003t" end="10643552502t" region="region.after" style="defaultStyle" xml:id="subtitle281">if I was the one<br/>who killed that little man.</p>
+<p begin="10645222503t" end="10677757506t" region="region.after" style="defaultStyle" xml:id="subtitle282">You only shot him<br/>once he was already on the ground, dead.</p>
+<p begin="10679427508t" end="10696525005t" region="region.after" style="defaultStyle" xml:id="subtitle283">I shot him first.</p>
+<p begin="10716962506t" end="10727807506t" region="region.after" style="defaultStyle" xml:id="subtitle284">[inaudible chatter]</p>
+<p begin="10753245001t" end="10764507502t" region="region.after" style="defaultStyle" xml:id="subtitle285">- [knocking on door]<br/>- Come in.</p>
+<p begin="10780362508t" end="10798712507t" region="region.after" style="defaultStyle" xml:id="subtitle286">Did you give information about Poison<br/>to the DEA?</p>
+<p begin="10800382508t" end="10811635000t" region="region.after" style="defaultStyle" xml:id="subtitle287">So?</p>
+<p begin="10813305001t" end="10836247505t" region="region.after" style="defaultStyle" xml:id="subtitle288">I'm still listening<br/>to their phone conversations,</p>
+<p begin="10837082506t" end="10855850003t" region="region.after" style="defaultStyle" xml:id="subtitle289">and it's not a shipment of drugs.</p>
+<p begin="10856685005t" end="10883792502t" region="region.after" style="defaultStyle" xml:id="subtitle290">They're carrying<br/>three million dollars to Bogotá,</p>
+<p begin="10885462503t" end="10900065008t" region="region.after" style="defaultStyle" xml:id="subtitle291">and if two guys from the DEA<br/>stop that car,</p>
+<p begin="10901725000t" end="10917997506t" region="region.after" style="defaultStyle" xml:id="subtitle292">Pablo is going to hang you by the balls.</p>
+<p begin="10934677502t" end="10955532503t" region="region.after" style="defaultStyle" xml:id="subtitle293">[up-tempo music continues on radio]</p>
+<p begin="10969717508t" end="11005165003t" region="region.after" style="defaultStyle" xml:id="subtitle294">- You don't have 65, Poi.<br/>- Yes, I do.</p>
+<p begin="11006835005t" end="11018932507t" region="region.after" style="defaultStyle" xml:id="subtitle295">Eh!</p>
+<p begin="11032690001t" end="11067312506t" region="region.after" style="defaultStyle" xml:id="subtitle296">- [tires squealing]<br/>- What are you doing, Gonorrhea?!</p>
+<p begin="11068147506t" end="11094002502t" region="region.after" style="defaultStyle" xml:id="subtitle297">Look, 65, man!</p>
+<p begin="11108187506t" end="11122780001t" region="region.after" style="defaultStyle" xml:id="subtitle298">[mutters in Spanish]</p>
+<p begin="11129042507t" end="11152392500t" region="region.after" style="defaultStyle" xml:id="subtitle299">Now we're going<br/>to have to wash the car, man!</p>
+<p begin="11154062502t" end="11175335003t" region="region.after" style="defaultStyle" xml:id="subtitle300">- [scoffs]<br/>- Son of a bitch.</p>
+<p begin="11177005005t" end="11196607505t" region="region.after" style="defaultStyle" xml:id="subtitle301">- [phone ringing]<br/>- Yes?</p>
+<p begin="11197442506t" end="11213705001t" region="region.after" style="defaultStyle" xml:id="subtitle302">[Suárez] <span style="defaultStyle_1">Hi, Pablo.</span><br/><span style="defaultStyle_1">I have good news for you.</span></p>
+<p begin="11215375003t" end="11239152507t" region="region.after" style="defaultStyle" xml:id="subtitle303">I'm going to help you<br/>avoid an enormous loss.</p>
+<p begin="11240822508t" end="11261667500t" region="region.after" style="defaultStyle" xml:id="subtitle304">And how much is it going to cost me?</p>
+<p begin="11262502500t" end="11295872503t" region="region.after" style="defaultStyle" xml:id="subtitle305"><span style="defaultStyle_1">Ten percent... $300,000.</span></p>
+<p begin="11341747500t" end="11366777505t" region="region.after" style="defaultStyle" xml:id="subtitle306">- How did you find out?<br/><span style="defaultStyle_1">- One of your men.</span></p>
+<p begin="11368447506t" end="11401390000t" region="region.after" style="defaultStyle" xml:id="subtitle307">That Poison... he talks too much.</p>
+<p begin="11403060001t" end="11424750002t" region="region.after" style="defaultStyle" xml:id="subtitle308"><span style="defaultStyle_1">You should take his phone away.</span></p>
+<p begin="11425585003t" end="11438100006t" region="region.after" style="defaultStyle" xml:id="subtitle309">Five percent.</p>
+<p begin="11498577506t" end="11524432502t" region="region.after" style="defaultStyle" xml:id="subtitle310">[speaks Spanish]<br/>Suspicious vehicle approaching.</p>
+<p begin="11525267502t" end="11556550003t" region="region.after" style="defaultStyle" xml:id="subtitle311">[in English] OK. We have visual<br/>confirmation. Four kilometers away.</p>
+<p begin="11557385005t" end="11583657501t" region="region.after" style="defaultStyle" xml:id="subtitle312">[overlapping chatter in Spanish]</p>
+<p begin="11620367508t" end="11636212503t" region="region.after" style="defaultStyle" xml:id="subtitle313">[phone ringing]</p>
+<p begin="11651232508t" end="11675000002t" region="region.after" style="defaultStyle" xml:id="subtitle314">- Hello?<br/>- [Pablo speaking Spanish] <span style="defaultStyle_1">Poison?</span></p>
+<p begin="11676670003t" end="11704612502t" region="region.after" style="defaultStyle" xml:id="subtitle315">You bring your fucking mouth<br/>back here immediately!</p>
+<p begin="11706282503t" end="11730895008t" region="region.after" style="defaultStyle" xml:id="subtitle316">- Yes. I'm sorry, boss.<br/><span style="defaultStyle_1">- Now!</span></p>
+<p begin="11752575000t" end="11775100002t" region="region.after" style="defaultStyle" xml:id="subtitle317">The son of a bitch policeman<br/>tapped my phone!</p>
+<p begin="11776770003t" end="11820150007t" region="region.after" style="defaultStyle" xml:id="subtitle318">- These fags.<br/>- You have a very big mouth, Poison.</p>
+<p begin="11820985008t" end="11836830003t" region="region.after" style="defaultStyle" xml:id="subtitle319">Pablo is really pissed off.</p>
+<p begin="11844752502t" end="11878122506t" region="region.after" style="defaultStyle" xml:id="subtitle320">Shut that mug,<br/>or you will never reach 66, you hear?</p>
+<p begin="11975717502t" end="11987397505t" region="region.after" style="defaultStyle" xml:id="subtitle321">OK!</p>
+<p begin="11999912507t" end="12025767502t" region="region.after" style="defaultStyle" xml:id="subtitle322">[men chattering in Spanish]</p>
+<p begin="12048710006t" end="12075817502t" region="region.after" style="defaultStyle" xml:id="subtitle323">[speaking English]<br/>I'm calling this off. Nobody's coming.</p>
+<p begin="12085410002t" end="12120032507t" region="region.after" style="defaultStyle" xml:id="subtitle324">- What the fuck has happened here?<br/>- Maybe Poison spotted the spotter.</p>
+<p begin="12121702508t" end="12136712503t" region="region.after" style="defaultStyle" xml:id="subtitle325">Either that or Suárez sold you out.</p>
+<p begin="12138382506t" end="12161742508t" region="region.after" style="defaultStyle" xml:id="subtitle326">[sighs] Yeah, if he did,<br/>he must've had a better offer,</p>
+<p begin="12162567500t" end="12180927508t" region="region.after" style="defaultStyle" xml:id="subtitle327">and it wasn't a fucking cat.</p>
+<p begin="12223462500t" end="12244735001t" region="region.after" style="defaultStyle" xml:id="subtitle328">[speaking Spanish]<br/>He has been called the <span style="defaultStyle_1">"Paisa </span>Robin Hood,"</p>
+<p begin="12245570002t" end="12264755001t" region="region.after" style="defaultStyle" xml:id="subtitle329">but he is much more than that.</p>
+<p begin="12265590002t" end="12302290000t" region="region.after" style="defaultStyle" xml:id="subtitle330">He is a man to whom the people<br/>mean a great deal. All of us.</p>
+<p begin="12303125000t" end="12332320000t" region="region.after" style="defaultStyle" xml:id="subtitle331">[Steve] <span style="defaultStyle_1">To avoid suspicion</span><br/><span style="defaultStyle_1">and questioning about his fortune,</span></p>
+<p begin="12333990001t" end="12366107502t" region="region.after" style="defaultStyle" xml:id="subtitle332"><span style="defaultStyle_1">Pablo ran as an alternate</span><br/><span style="defaultStyle_1">for Jairo Ortega,</span></p>
+<p begin="12366942503t" end="12390302507t" region="region.after" style="defaultStyle" xml:id="subtitle333"><span style="defaultStyle_1">a former congressman from Antioquia.</span></p>
+<p begin="12391972508t" end="12407400003t" region="region.after" style="defaultStyle" xml:id="subtitle334">[cheers and applause]</p>
+<p begin="12409487506t" end="12456615003t" region="region.after" style="defaultStyle" xml:id="subtitle335"><span style="defaultStyle_1">It was the first time an alternate was</span><br/><span style="defaultStyle_1">more important than the main candidate.</span></p>
+<p begin="12513752500t" end="12563802500t" region="region.after" style="defaultStyle" xml:id="subtitle336">[speaking Spanish] I am tired... of the<br/>people with power running this country.</p>
+<p begin="12565472502t" end="12625950002t" region="region.after" style="defaultStyle" xml:id="subtitle337">This is a fight between the people<br/>with power and poor people, weak people.</p>
+<p begin="12635125001t" end="12664737501t" region="region.after" style="defaultStyle" xml:id="subtitle338">And this fight must begin here!</p>
+<p begin="12665572502t" end="12696020002t" region="region.after" style="defaultStyle" xml:id="subtitle339">[cheers and applause]</p>
+<p begin="12697690003t" end="12756497502t" region="region.after" style="defaultStyle" xml:id="subtitle340">To have power does not mean<br/>that one can abuse the poor.</p>
+<p begin="12758167505t" end="12770265006t" region="region.after" style="defaultStyle" xml:id="subtitle341">If I am elected...</p>
+<p begin="12779440006t" end="12815305001t" region="region.after" style="defaultStyle" xml:id="subtitle342">if my friend, Jairo, is elected...</p>
+<p begin="12816140002t" end="12856597502t" region="region.after" style="defaultStyle" xml:id="subtitle343">those who have never had a voice<br/>will have a voice.</p>
+<p begin="12858267505t" end="12881627508t" region="region.after" style="defaultStyle" xml:id="subtitle344">[cheers and applause]</p>
+<p begin="12882462508t" end="12917910003t" region="region.after" style="defaultStyle" xml:id="subtitle345">Those who are hungry will have food.</p>
+<p begin="12919580006t" end="12952940000t" region="region.after" style="defaultStyle" xml:id="subtitle346">Those who want to learn will have schools.</p>
+<p begin="12954610001t" end="12980057506t" region="region.after" style="defaultStyle" xml:id="subtitle347">And those who have dreams</p>
+<p begin="12981727508t" end="13023010000t" region="region.after" style="defaultStyle" xml:id="subtitle348">will see that there are no limits<br/>to what you can achieve.</p>
+<p begin="13023845000t" end="13063467500t" region="region.after" style="defaultStyle" xml:id="subtitle349">- [cheering]<br/>- In me, you have a friend</p>
+<p begin="13064302500t" end="13082662508t" region="region.after" style="defaultStyle" xml:id="subtitle350">whom you have always had,</p>
+<p begin="13084322500t" end="13119780006t" region="region.after" style="defaultStyle" xml:id="subtitle351">the friend of today, the friend<br/>of yesterday and the friend of tomorrow.</p>
+<p begin="13121450007t" end="13152732508t" region="region.after" style="defaultStyle" xml:id="subtitle352">[cheers and applause]</p>
+<p begin="13154392500t" end="13163985000t" region="region.after" style="defaultStyle" xml:id="subtitle353">Thank you very much.</p>
+<p begin="13189432506t" end="13216540002t" region="region.after" style="defaultStyle" xml:id="subtitle354">- [crowd chanting] Pablo! Pablo! Pablo!<br/>- [Pablo] Thank you very much.</p>
+<p begin="13272017508t" end="13302047508t" region="region.after" style="defaultStyle" xml:id="subtitle355">My friend, Jairo Ortega!</p>
+<p begin="13303707500t" end="13331242507t" region="region.after" style="defaultStyle" xml:id="subtitle356">[cheers and applause]</p>
+<p begin="13376282502t" end="13410070006t" region="region.after" style="defaultStyle" xml:id="subtitle357">[chanting] Pablo! Pablo! Pablo!</p>
+<p begin="13411740007t" end="13423002508t" region="region.after" style="defaultStyle" xml:id="subtitle358">Thank you very much.</p>
+<p begin="13500577506t" end="13517675003t" region="region.after" style="defaultStyle" xml:id="subtitle359">- You were marvelous, my love.<br/>- You sure?</p>
+<p begin="13518510003t" end="13547287502t" region="region.after" style="defaultStyle" xml:id="subtitle360">- Yes.<br/>- [Valeria] Very good, Pablo.</p>
+<p begin="13549375005t" end="13578152503t" region="region.after" style="defaultStyle" xml:id="subtitle361">There are a few things we can improve,<br/>but we'll work on them.</p>
+<p begin="13578987505t" end="13588162503t" region="region.after" style="defaultStyle" xml:id="subtitle362">OK, whatever you say.</p>
+<p begin="13588997505t" end="13616940002t" region="region.after" style="defaultStyle" xml:id="subtitle363">- Congratulations.<br/>- Thank you so much, Valeria.</p>
+<p begin="13617775003t" end="13630290006t" region="region.after" style="defaultStyle" xml:id="subtitle364">Congratulations, ma'am.</p>
+<p begin="13653639999t" end="13663649999t" region="region.after" style="defaultStyle" xml:id="subtitle365">Excuse me.</p>
+<p begin="13718292503t" end="13730390006t" region="region.after" style="defaultStyle" xml:id="subtitle366">[overlapping chatter in Spanish]</p>
+<p begin="13777517502t" end="13815052500t" region="region.after" style="defaultStyle" xml:id="subtitle367">To vote for Jairo Ortega<br/>is to vote for the one and only Pablo!</p>
+<p begin="13835072500t" end="13862607508t" region="region.after" style="defaultStyle" xml:id="subtitle368">[coughing, gasping]</p>
+<p begin="13868860003t" end="13890967506t" region="region.after" style="defaultStyle" xml:id="subtitle369">Tata, what's wrong?</p>
+<p begin="13923909999t" end="13957280002t" region="region.after" style="defaultStyle" xml:id="subtitle370">Why does that woman need to know<br/>everything about each step you take?</p>
+<p begin="13958115003t" end="13975630001t" region="region.after" style="defaultStyle" xml:id="subtitle371">What are you talking about?</p>
+<p begin="13986475001t" end="14019010003t" region="region.after" style="defaultStyle" xml:id="subtitle372">- Valeria Velez.<br/>- My love...</p>
+<p begin="14019845005t" end="14066555001t" region="region.after" style="defaultStyle" xml:id="subtitle373">Tata, she's a newspaper woman,<br/>a reporter who follows the news.</p>
+<p begin="14079070003t" end="14095332500t" region="region.after" style="defaultStyle" xml:id="subtitle374">And right now, I'm the news.</p>
+<p begin="14109517505t" end="14152062507t" region="region.after" style="defaultStyle" xml:id="subtitle375">When you win, don't disrespect me<br/>anymore with that bitch.</p>
+<p begin="14152897508t" end="14180422506t" region="region.after" style="defaultStyle" xml:id="subtitle376">[softly] Come here.<br/>Come here, come here, come here.</p>
+<p begin="14182092507t" end="14206277501t" region="region.after" style="defaultStyle" xml:id="subtitle377">Slowly... come on.</p>
+<p begin="14207112502t" end="14222967508t" region="region.after" style="defaultStyle" xml:id="subtitle378">- [gasps]<br/>- [whispers] Come on.</p>
+<p begin="14257997502t" end="14295950001t" region="region.after" style="defaultStyle" xml:id="subtitle379">You are going to be the First Lady<br/>of this country one of these days.</p>
+<p begin="14302630007t" end="14337660002t" region="region.after" style="defaultStyle" xml:id="subtitle380">Therefore, you are going<br/>to have to learn to deal with the press.</p>
+<p begin="14339330003t" end="14367690002t" region="region.after" style="defaultStyle" xml:id="subtitle381">[voice quavering]<br/>That woman is not on your level, Pablo.</p>
+<p begin="14368525003t" end="14380622506t" region="region.after" style="defaultStyle" xml:id="subtitle382">She degrades you.</p>
+<p begin="14382292507t" end="14408147502t" region="region.after" style="defaultStyle" xml:id="subtitle383">Please, don't worry about Valeria.</p>
+<p begin="14427750002t" end="14449022503t" region="region.after" style="defaultStyle" xml:id="subtitle384">[gasping]</p>
+<p begin="14449857505t" end="14471130006t" region="region.after" style="defaultStyle" xml:id="subtitle385">[cries out] Pablo!</p>
+<p begin="14484887500t" end="14508247502t" region="region.after" style="defaultStyle" xml:id="subtitle386">- A car, please!<br/>- [gasping]</p>
+<p begin="14509082503t" end="14530355005t" region="region.after" style="defaultStyle" xml:id="subtitle387">- A car to the hospital, now!<br/>- [cries out]</p>
+<p begin="14632960007t" end="14644629999t" region="region.after" style="defaultStyle" xml:id="subtitle388">You know what, Pablo?</p>
+<p begin="14661320006t" end="14688845003t" region="region.after" style="defaultStyle" xml:id="subtitle389">To me, it looks like<br/>you are handling things very badly.</p>
+<p begin="14700107505t" end="14712622507t" region="region.after" style="defaultStyle" xml:id="subtitle390">[sniffs]</p>
+<p begin="14722632507t" end="14758915003t" region="region.after" style="defaultStyle" xml:id="subtitle391">You need to start thinking more<br/>about your family... and about business.</p>
+<p begin="14773517508t" end="14791032506t" region="region.after" style="defaultStyle" xml:id="subtitle392">Thing is,<br/>you can't be a politician.</p>
+<p begin="14798955003t" end="14811470006t" region="region.after" style="defaultStyle" xml:id="subtitle393">Says who?</p>
+<p begin="14822732507t" end="14864025008t" region="region.after" style="defaultStyle" xml:id="subtitle394">[sighs] You can't go strutting around<br/>giving things to people</p>
+<p begin="14864849999t" end="14881957506t" region="region.after" style="defaultStyle" xml:id="subtitle395">simply so they will love you.</p>
+<p begin="14904482508t" end="14931172506t" region="region.after" style="defaultStyle" xml:id="subtitle396">We... are bandits.</p>
+<p begin="14984969999t" end="15025009999t" region="region.after" style="defaultStyle" xml:id="subtitle397">If you run for Congress, find someone else<br/>to manage the laboratories.</p>
+<p begin="15026680001t" end="15047117501t" region="region.after" style="defaultStyle" xml:id="subtitle398">[doctor] Señor Escobar?</p>
+<p begin="15047952502t" end="15084245008t" region="region.after" style="defaultStyle" xml:id="subtitle399">- Come meet your daughter.<br/>- [baby crying]</p>
+<p begin="15143052507t" end="15169325003t" region="region.after" style="defaultStyle" xml:id="subtitle400">God has blessed us with a girl, Pablo.</p>
+<p begin="15204782508t" end="15224385008t" region="region.after" style="defaultStyle" xml:id="subtitle401">[whispers] How beautiful.</p>
+<p begin="15260250003t" end="15286105000t" region="region.after" style="defaultStyle" xml:id="subtitle402">Shh.</p>
+<p begin="15287357501t" end="15302377506t" region="region.after" style="defaultStyle" xml:id="subtitle403">Shh.</p>
+<p begin="15334495008t" end="15349505003t" region="region.after" style="defaultStyle" xml:id="subtitle404">[whispers indistinctly]</p>
+<p begin="15370360003t" end="15384127508t" region="region.after" style="defaultStyle" xml:id="subtitle405">[camera clicks]</p>
+<p begin="15404565008t" end="15431672506t" region="region.after" style="defaultStyle" xml:id="subtitle406">[indistinct chatter in Spanish]</p>
+<p begin="15450022503t" end="15477130001t" region="region.after" style="defaultStyle" xml:id="subtitle407">[plane flying overhead]</p>
+<p begin="15527180001t" end="15543870007t" region="region.after" style="defaultStyle" xml:id="subtitle408">[Fabio] Pablo is out of control.</p>
+<p begin="15576812500t" end="15608512502t" region="region.after" style="defaultStyle" xml:id="subtitle409">Mother Mary, man.<br/>What do you want us to do?</p>
+<p begin="15609347502t" end="15653145006t" region="region.after" style="defaultStyle" xml:id="subtitle410">You can't give Pablo Escobar a spanking<br/>as though he were some spoiled brat.</p>
+<p begin="15654815008t" end="15666067500t" region="region.after" style="defaultStyle" xml:id="subtitle411">Oh, no?</p>
+<p begin="15674835008t" end="15686087500t" region="region.after" style="defaultStyle" xml:id="subtitle412">And why not?</p>
+<p begin="15686922500t" end="15714457508t" region="region.after" style="defaultStyle" xml:id="subtitle413">Careful with the threat<br/>you cannot execute.</p>
+<p begin="15769090002t" end="15788692502t" region="region.after" style="defaultStyle" xml:id="subtitle414">You know what he's doing, right?</p>
+<p begin="15789527502t" end="15839577502t" region="region.after" style="defaultStyle" xml:id="subtitle415">According to Colombian law,<br/>a congressman has total immunity.</p>
+<p begin="15841247505t" end="15882540006t" region="region.after" style="defaultStyle" xml:id="subtitle416">Do you think he's protecting himself<br/>while we remain in the drift?</p>
+<p begin="15883375006t" end="15915899999t" region="region.after" style="defaultStyle" xml:id="subtitle417">I do. He thinks he's that fucking<br/><span style="defaultStyle_1">"Paisa </span>Robin Hood."</p>
+<p begin="15916735000t" end="15937590001t" region="region.after" style="defaultStyle" xml:id="subtitle418">So what do we do?</p>
+<p begin="15938425001t" end="15991397505t" region="region.after" style="defaultStyle" xml:id="subtitle419">Well... we fulfill our duties,<br/>stuffing the ballot box,</p>
+<p begin="15992232506t" end="16042700006t" region="region.after" style="defaultStyle" xml:id="subtitle420">and later we let Pablo receive<br/>the applause, and take the risk.</p>
+<p begin="16043535006t" end="16104012507t" region="region.after" style="defaultStyle" xml:id="subtitle421">We continue with our business...<br/>in the shadows, like always.</p>
+<p begin="16118187501t" end="16138625001t" region="region.after" style="defaultStyle" xml:id="subtitle422">Carlos, what are the guys saying?</p>
+<p begin="16152392506t" end="16176995000t" region="region.after" style="defaultStyle" xml:id="subtitle423">I imagine that they're worried, right?</p>
+<p begin="16177830001t" end="16203695006t" region="region.after" style="defaultStyle" xml:id="subtitle424">They are not politically conscious,<br/>brother.</p>
+<p begin="16238725001t" end="16267085000t" region="region.after" style="defaultStyle" xml:id="subtitle425">How can you expect them<br/>to understand your objectives?</p>
+<p begin="16307542500t" end="16326727500t" region="region.after" style="defaultStyle" xml:id="subtitle426">You do understand me, brother.</p>
+<p begin="16348835001t" end="16386787500t" region="region.after" style="defaultStyle" xml:id="subtitle427">Imagine... a state governed by us.</p>
+<p begin="16395555008t" end="16420992503t" region="region.after" style="defaultStyle" xml:id="subtitle428">Immunity for everyone, brother.</p>
+<p begin="16421827505t" end="16450605003t" region="region.after" style="defaultStyle" xml:id="subtitle429">We, Carlos, belong to the people.</p>
+<p begin="16451440003t" end="16484810007t" region="region.after" style="defaultStyle" xml:id="subtitle430">I need you to use your influence with the<br/>others to convince them that I am right.</p>
+<p begin="16485645008t" end="16506082508t" region="region.after" style="defaultStyle" xml:id="subtitle431">If you win,<br/>you don't need to explain anything.</p>
+<p begin="16514005006t" end="16544870007t" region="region.after" style="defaultStyle" xml:id="subtitle432">And if you lose...<br/>there's nothing to explain.</p>
+<p begin="16545705008t" end="16561132503t" region="region.after" style="defaultStyle" xml:id="subtitle433">[voice straining] I like that.</p>
+<p begin="16574482507t" end="16594920007t" region="region.after" style="defaultStyle" xml:id="subtitle434">- Hitler said it.<br/>- Fuck off.</p>
+<p begin="16595755008t" end="16610765003t" region="region.after" style="defaultStyle" xml:id="subtitle435">Yes.</p>
+<p begin="16611600003t" end="16628280001t" region="region.after" style="defaultStyle" xml:id="subtitle436">He also said that no politician</p>
+<p begin="16629115001t" end="16662485005t" region="region.after" style="defaultStyle" xml:id="subtitle437">should ever let his picture be taken<br/>in a bathing suit.</p>
+<p begin="16674165006t" end="16693767506t" region="region.after" style="defaultStyle" xml:id="subtitle438">[giggling]</p>
+<p begin="16745070007t" end="16761332503t" region="region.after" style="defaultStyle" xml:id="subtitle439">[chuckles]</p>
+<p begin="16792615005t" end="16819722502t" region="region.after" style="defaultStyle" xml:id="subtitle440">[hysterical laughter]</p>
+<p begin="16871860003t" end="16888540001t" region="region.after" style="defaultStyle" xml:id="subtitle441">Well, that's what he said.</p>
+<p begin="16917735000t" end="16935260007t" region="region.after" style="defaultStyle" xml:id="subtitle442">[sighs] And if I tell you, Carlos...</p>
+<p begin="16936095008t" end="16952775005t" region="region.after" style="defaultStyle" xml:id="subtitle443">[sniffing]</p>
+<p begin="16953610006t" end="16990727502t" region="region.after" style="defaultStyle" xml:id="subtitle444">that what I want, sincerely...</p>
+<p begin="17000320002t" end="17022010003t" region="region.after" style="defaultStyle" xml:id="subtitle445">is to help the poor people<br/>of this country...</p>
+<p begin="17038272500t" end="17052875005t" region="region.after" style="defaultStyle" xml:id="subtitle446">do you believe me or what?</p>
+<p begin="17076235008t" end="17097497500t" region="region.after" style="defaultStyle" xml:id="subtitle447">[Steve]<br/><span style="defaultStyle_1">Pablo held most of his campaign rallies</span></p>
+<p begin="17098332500t" end="17125032507t" region="region.after" style="defaultStyle" xml:id="subtitle448"><span style="defaultStyle_1">in the poorest neighborhoods</span><br/><span style="defaultStyle_1">of his electoral district.</span></p>
+<p begin="17136712508t" end="17162985005t" region="region.after" style="defaultStyle" xml:id="subtitle449"><span style="defaultStyle_1">He placed himself on the side</span><br/><span style="defaultStyle_1">of the poor and the weak</span></p>
+<p begin="17164655006t" end="17198432500t" region="region.after" style="defaultStyle" xml:id="subtitle450"><span style="defaultStyle_1">in the fight against the oligarchs,</span><br/><span style="defaultStyle_1">"The Men of Always."</span></p>
+<p begin="17214287506t" end="17253492506t" region="region.after" style="defaultStyle" xml:id="subtitle451"><span style="defaultStyle_1">And just like any politician,</span><br/><span style="defaultStyle_1">he made plenty of promises.</span></p>
+<p begin="17254327506t" end="17297697500t" region="region.after" style="defaultStyle" xml:id="subtitle452"><span style="defaultStyle_1">Only difference was Pablo had the men</span><br/><span style="defaultStyle_1">and the money to back them up.</span></p>
+<p begin="17306465008t" end="17321057502t" region="region.after" style="defaultStyle" xml:id="subtitle453">[cheering]</p>
+<p begin="17322727505t" end="17347747500t" region="region.after" style="defaultStyle" xml:id="subtitle454"><span style="defaultStyle_1">It was becoming clear to everyone</span><br/><span style="defaultStyle_1">that Pablo was gonna win.</span></p>
+<p begin="17349417501t" end="17362767505t" region="region.after" style="defaultStyle" xml:id="subtitle455">[crowd chanting]<span style="defaultStyle_1"> </span>Pablo! Pablo!</p>
+<p begin="17363602506t" end="17396137508t" region="region.after" style="defaultStyle" xml:id="subtitle456"><span style="defaultStyle_1">The only question remaining was...</span><br/><span style="defaultStyle_1">what to do about that.</span></p>
+<p begin="17410730002t" end="17439090001t" region="region.after" style="defaultStyle" xml:id="subtitle457"><span style="defaultStyle_1">Gustavo made good on his promise</span><br/><span style="defaultStyle_1">to quit the labs,</span></p>
+<p begin="17439925001t" end="17474547506t" region="region.after" style="defaultStyle" xml:id="subtitle458"><span style="defaultStyle_1">- so Pablo put Carlos Lehder in charge.</span><br/><span style="defaultStyle_1">- </span>[plane flies overhead]</p>
+<p begin="17475382507t" end="17521675003t" region="region.after" style="defaultStyle" xml:id="subtitle459"><span style="defaultStyle_1">With characteristic German efficiency,</span><br/><span style="defaultStyle_1">he turned the labs into Nazilandia,</span></p>
+<p begin="17522510003t" end="17557540000t" region="region.after" style="defaultStyle" xml:id="subtitle460"><span style="defaultStyle_1">and production rose 12 percent</span><br/><span style="defaultStyle_1">in just two short months.</span></p>
+<p begin="17583405005t" end="17617192508t" region="region.after" style="defaultStyle" xml:id="subtitle461"><span style="defaultStyle_1">Gacha and the Ochoas</span><br/><span style="defaultStyle_1">adopted a wait-and-see attitude,</span></p>
+<p begin="17618017500t" end="17648465000t" region="region.after" style="defaultStyle" xml:id="subtitle462"><span style="defaultStyle_1">debating how and when</span><br/><span style="defaultStyle_1">Pablo would dispose of Jairo Ortega,</span></p>
+<p begin="17649300001t" end="17669737501t" region="region.after" style="defaultStyle" xml:id="subtitle463"><span style="defaultStyle_1">his front man,</span><br/><span style="defaultStyle_1">once the election was over.</span></p>
+<p begin="17671407502t" end="17718952500t" region="region.after" style="defaultStyle" xml:id="subtitle464">[speaking Spanish] As soon as the results<br/>come out, Jairo Ortega will resign.</p>
+<p begin="17720622502t" end="17751487502t" region="region.after" style="defaultStyle" xml:id="subtitle465">I say he's running toward his death.</p>
+<p begin="17775265006t" end="17791945003t" region="region.after" style="defaultStyle" xml:id="subtitle466">- [horse snorts]<br/>- [chattering in Spanish]</p>
+<p begin="17804877506t" end="17829897501t" region="region.after" style="defaultStyle" xml:id="subtitle467">[Steve]<br/><span style="defaultStyle_1">As for us, we were kind of divided.</span></p>
+<p begin="17830732502t" end="17860762502t" region="region.after" style="defaultStyle" xml:id="subtitle468">We cannot have Colombia<br/>become a narco state.</p>
+<p begin="17861597502t" end="17890792502t" region="region.after" style="defaultStyle" xml:id="subtitle469">We need to find someone<br/>who can prove this guy is a drug dealer.</p>
+<p begin="17891627502t" end="17910395001t" region="region.after" style="defaultStyle" xml:id="subtitle470">Let's stop his campaign before it starts.</p>
+<p begin="17911230002t" end="17928327500t" region="region.after" style="defaultStyle" xml:id="subtitle471">No one will go on record.</p>
+<p begin="17940007501t" end="17954610006t" region="region.after" style="defaultStyle" xml:id="subtitle472">I got a better idea.</p>
+<p begin="17965455006t" end="17980465001t" region="region.after" style="defaultStyle" xml:id="subtitle473">We let him win.</p>
+<p begin="17982135003t" end="18002990003t" region="region.after" style="defaultStyle" xml:id="subtitle474">If we put him in the spotlight<br/>and prove he's a trafficker,</p>
+<p begin="18004660006t" end="18030097501t" region="region.after" style="defaultStyle" xml:id="subtitle475">the embarrassment alone<br/>might get this country off its ass.</p>
+<p begin="18053040003t" end="18070137501t" region="region.after" style="defaultStyle" xml:id="subtitle476">[Steve]<br/><span style="defaultStyle_1">But first, we had to get proof</span></p>
+<p begin="18070972502t" end="18096002507t" region="region.after" style="defaultStyle" xml:id="subtitle477"><span style="defaultStyle_1">that Pablo was the drug dealer</span><br/><span style="defaultStyle_1">we knew he was.</span></p>
+<p begin="18097672508t" end="18118517500t" region="region.after" style="defaultStyle" xml:id="subtitle478"><span style="defaultStyle_1">So we went to Suárez,</span></p>
+<p begin="18119352500t" end="18142712503t" region="region.after" style="defaultStyle" xml:id="subtitle479"><span style="defaultStyle_1">- and gave him a lot of money.</span><br/><span style="defaultStyle_1">- </span>[speaking Spanish]</p>
+<p begin="18155227506t" end="18197772508t" region="region.after" style="defaultStyle" xml:id="subtitle480"><span style="defaultStyle_1">First, he told us that Pablo</span><br/><span style="defaultStyle_1">was arrested for trafficking back in '76,</span></p>
+<p begin="18198597500t" end="18235307506t" region="region.after" style="defaultStyle" xml:id="subtitle481"><span style="defaultStyle_1">and then he gave us the name</span><br/><span style="defaultStyle_1">of a sergeant who could give us the files.</span></p>
+<p begin="18272425003t" end="18318300000t" region="region.after" style="defaultStyle" xml:id="subtitle482"><span style="defaultStyle_1">Problem was, Suárez was on both the DEA</span><br/><span style="defaultStyle_1">and the narcos' payroll.</span></p>
+<p begin="18345000006t" end="18355845006t" region="region.after" style="defaultStyle" xml:id="subtitle483">[body thuds]</p>
+<p begin="18390457501t" end="18420905001t" region="region.after" style="defaultStyle" xml:id="subtitle484">- Sixty-six.<br/>- Bullshit. I shot him first.</p>
+<p begin="18463450003t" end="18483887505t" region="region.after" style="defaultStyle" xml:id="subtitle485">[Steve] <span style="defaultStyle_1">Then Suárez gave us</span><br/><span style="defaultStyle_1">the name of the journalist</span></p>
+<p begin="18484722506t" end="18507665008t" region="region.after" style="defaultStyle" xml:id="subtitle486"><span style="defaultStyle_1">- who reported the arrest...</span><br/>- [groaning]</p>
+<p begin="18508490000t" end="18535190006t" region="region.after" style="defaultStyle" xml:id="subtitle487"><span style="defaultStyle_1">...and then the lawyer</span><br/><span style="defaultStyle_1">who defended Pablo...</span></p>
+<p begin="18537277508t" end="18567307508t" region="region.after" style="defaultStyle" xml:id="subtitle488"><span style="defaultStyle_1">and finally, the judge</span><br/><span style="defaultStyle_1">who signed Pablo's arrest warrant.</span></p>
+<p begin="18568967500t" end="18585657506t" region="region.after" style="defaultStyle" xml:id="subtitle489">[overlapping chatter]</p>
+<p begin="18586492507t" end="18611512502t" region="region.after" style="defaultStyle" xml:id="subtitle490"><span style="defaultStyle_1">We were like the Bermuda Triangle.</span></p>
+<p begin="18613182503t" end="18635707506t" region="region.after" style="defaultStyle" xml:id="subtitle491"><span style="defaultStyle_1">You get too close to us,</span><br/><span style="defaultStyle_1">you disappear.</span></p>
+<p begin="18637377508t" end="18660310001t" region="region.after" style="defaultStyle" xml:id="subtitle492">We gotta get something<br/>on this motherfucker.</p>
+<p begin="18673660003t" end="18692427502t" region="region.after" style="defaultStyle" xml:id="subtitle493">If he was arrested,<br/>there's gotta be a mug shot.</p>
+<p begin="18693262503t" end="18712865003t" region="region.after" style="defaultStyle" xml:id="subtitle494">[Javier]<br/><span style="defaultStyle_1">Yeah, well, the file's gone.</span></p>
+<p begin="18714535005t" end="18738312508t" region="region.after" style="defaultStyle" xml:id="subtitle495">If there was a mug shot,<br/>then it's gone, too.</p>
+<p begin="18757497508t" end="18773760003t" region="region.after" style="defaultStyle" xml:id="subtitle496">If there was a photo,<br/>there's a negative.</p>
+<p begin="18784605005t" end="18803790003t" region="region.after" style="defaultStyle" xml:id="subtitle497">[Steve]<span style="defaultStyle_1"> Finally, it dawned on us.</span></p>
+<p begin="18805460006t" end="18839237500t" region="region.after" style="defaultStyle" xml:id="subtitle498"><span style="defaultStyle_1">We had to find someone</span><br/><span style="defaultStyle_1">without Suárez's help,</span></p>
+<p begin="18840072500t" end="18884705005t" region="region.after" style="defaultStyle" xml:id="subtitle499"><span style="defaultStyle_1">and that was the photographer</span><br/><span style="defaultStyle_1">who had taken Pablo's mug shot years ago.</span></p>
+<p begin="18896802507t" end="18930162500t" region="region.after" style="defaultStyle" xml:id="subtitle500">- [tires screech]<br/>- [man grunting]</p>
+<p begin="18930997501t" end="18968542508t" region="region.after" style="defaultStyle" xml:id="subtitle501"><span style="defaultStyle_1">We got his negatives, and for safekeeping,</span><br/><span style="defaultStyle_1">we put him into witness protection.</span></p>
+<p begin="19008165008t" end="19030680001t" region="region.after" style="defaultStyle" xml:id="subtitle502">- How long have you had this picture?<br/>- That's classified.</p>
+<p begin="19049030000t" end="19059875000t" region="region.after" style="defaultStyle" xml:id="subtitle503">And what am I doing here?</p>
+<p begin="19060710001t" end="19089487500t" region="region.after" style="defaultStyle" xml:id="subtitle504">It's not America's role to get involved<br/>in other countries' elections.</p>
+<p begin="19090322500t" end="19120352500t" region="region.after" style="defaultStyle" xml:id="subtitle505">Once again, the hand<br/>of the United States remains invisible.</p>
+<p begin="19121187501t" end="19139537500t" region="region.after" style="defaultStyle" xml:id="subtitle506">Your party took money from Escobar.</p>
+<p begin="19140372500t" end="19157897508t" region="region.after" style="defaultStyle" xml:id="subtitle507">I should think<br/>you'd want to get ahead of this.</p>
+<p begin="19158732508t" end="19171655001t" region="region.after" style="defaultStyle" xml:id="subtitle508">Everyone took money.</p>
+<p begin="19173325003t" end="19215870006t" region="region.after" style="defaultStyle" xml:id="subtitle509">By the way, it's all American money,<br/>so why don't you take this to the press?</p>
+<p begin="19216705006t" end="19245482506t" region="region.after" style="defaultStyle" xml:id="subtitle510">It should come from you.<br/>You're the Minister of Justice.</p>
+<p begin="19268842508t" end="19304290003t" region="region.after" style="defaultStyle" xml:id="subtitle511">[Steve] <span style="defaultStyle_1">Come election day,</span><br/><span style="defaultStyle_1">sure enough, it was a landslide.</span></p>
+<p begin="19305960006t" end="19328902508t" region="region.after" style="defaultStyle" xml:id="subtitle512"><span style="defaultStyle_1">The New Liberal party had the candidate</span></p>
+<p begin="19330562500t" end="19358932508t" region="region.after" style="defaultStyle" xml:id="subtitle513"><span style="defaultStyle_1">who got the most votes</span><br/><span style="defaultStyle_1">in all of Antioquia...</span></p>
+<p begin="19359757500t" end="19381030001t" region="region.after" style="defaultStyle" xml:id="subtitle514"><span style="defaultStyle_1">and his name was Jairo Ortega.</span></p>
+<p begin="19381865001t" end="19400632500t" region="region.after" style="defaultStyle" xml:id="subtitle515">[Ortega speaking Spanish]<br/>Ladies and gentlemen,</p>
+<p begin="19401467501t" end="19432332502t" region="region.after" style="defaultStyle" xml:id="subtitle516">with clear use of my<br/>mental and physical faculties...</p>
+<p begin="19441507501t" end="19472790002t" region="region.after" style="defaultStyle" xml:id="subtitle517">I wish to communicate to you my decision</p>
+<p begin="19473625003t" end="19511160001t" region="region.after" style="defaultStyle" xml:id="subtitle518">to resign from my seat<br/>in the Congress of the Republic...</p>
+<p begin="19512830002t" end="19548287508t" region="region.after" style="defaultStyle" xml:id="subtitle519">- [crowd murmuring]<br/>- ...for reasons of family and health.</p>
+<p begin="19549947500t" end="19591240001t" region="region.after" style="defaultStyle" xml:id="subtitle520">But I am completely certain that<br/>my friend Pablo Emilio Escobar Gaviria</p>
+<p begin="19592075001t" end="19631280001t" region="region.after" style="defaultStyle" xml:id="subtitle521">is going to continue<br/>our social and political ideas,</p>
+<p begin="19632950002t" end="19660475000t" region="region.after" style="defaultStyle" xml:id="subtitle522">because Pablo is the voice of the people.</p>
+<p begin="19661310001t" end="19680912500t" region="region.after" style="defaultStyle" xml:id="subtitle523">- Thank you very much.<br/>- Thank you very much, Jairo.</p>
+<p begin="19681747501t" end="19699680000t" region="region.after" style="defaultStyle" xml:id="subtitle524">- [applause]<br/>- I will give my best effort.</p>
+<p begin="19700932500t" end="19709282508t" region="region.after" style="defaultStyle" xml:id="subtitle525">Thank you very much.</p>
+<p begin="19710942500t" end="19738477508t" region="region.after" style="defaultStyle" xml:id="subtitle526">[all singing Colombian national anthem]</p>
+<p begin="19962862502t" end="19980377500t" region="region.after" style="defaultStyle" xml:id="subtitle527">[song fades]</p>
+<p begin="20022505001t" end="20041272500t" region="region.after" style="defaultStyle" xml:id="subtitle528">[thunder rumbles in distance]</p>
+<p begin="20042107501t" end="20067972507t" region="region.after" style="defaultStyle" xml:id="subtitle529">[Steve]<br/><span style="defaultStyle_1">Imagine you were born in a poor family,</span></p>
+<p begin="20068807508t" end="20108012507t" region="region.after" style="defaultStyle" xml:id="subtitle530"><span style="defaultStyle_1">in a poor city, in a poor country,</span></p>
+<p begin="20108847508t" end="20131780001t" region="region.after" style="defaultStyle" xml:id="subtitle531"><span style="defaultStyle_1">and by the time you were 28 years old,</span></p>
+<p begin="20132615001t" end="20163062502t" region="region.after" style="defaultStyle" xml:id="subtitle532"><span style="defaultStyle_1">you have so much money</span><br/><span style="defaultStyle_1">you can't even count it.</span></p>
+<p begin="20172237501t" end="20193927502t" region="region.after" style="defaultStyle" xml:id="subtitle533">[thunder continues]</p>
+<p begin="20194762503t" end="20210607500t" region="region.after" style="defaultStyle" xml:id="subtitle534"><span style="defaultStyle_1">What do you do?</span></p>
+<p begin="20212277501t" end="20243560002t" region="region.after" style="defaultStyle" xml:id="subtitle535"><span style="defaultStyle_1">- </span>[bells tolling in distance]<br/><span style="defaultStyle_1">- You make your dreams come true.</span></p>
+<p begin="20258997508t" end="20274007502t" region="region.after" style="defaultStyle" xml:id="subtitle536">[rain pattering]</p>
+<p begin="20274842503t" end="20301950001t" region="region.after" style="defaultStyle" xml:id="subtitle537">[thunder rumbles]</p>
+<p begin="20315717505t" end="20343242502t" region="region.after" style="defaultStyle" xml:id="subtitle538"><span style="defaultStyle_1">Problem is, nobody can control</span><br/><span style="defaultStyle_1">the dreams they have.</span></p>
+<p begin="20396632506t" end="20414147502t" region="region.after" style="defaultStyle" xml:id="subtitle539"><span style="defaultStyle_1">Especially if you were Pablo Escobar.</span></p>
+<p begin="20433332502t" end="20460032508t" region="region.after" style="defaultStyle" xml:id="subtitle540"><span style="defaultStyle_1">Especially if you grew up in Colombia.</span></p>
+<p begin="20511325000t" end="20542190001t" region="region.after" style="defaultStyle" xml:id="subtitle541"><span style="defaultStyle_1">There's a reason magical realism</span><br/><span style="defaultStyle_1">was born in Colombia.</span></p>
+<p begin="20562627501t" end="20593492502t" region="region.after" style="defaultStyle" xml:id="subtitle542"><span style="defaultStyle_1">It's a country where</span><br/><span style="defaultStyle_1">dreams and reality are conflated...</span></p>
+<p begin="20622270001t" end="20652300001t" region="region.after" style="defaultStyle" xml:id="subtitle543"><span style="defaultStyle_1">where, in their heads,</span><br/><span style="defaultStyle_1">people fly as high as Icarus.</span></p>
+<p begin="20684000002t" end="20710282508t" region="region.after" style="defaultStyle" xml:id="subtitle544"><span style="defaultStyle_1">But even magical realism has its limits.</span></p>
+<p begin="20711942500t" end="20746147505t" region="region.after" style="defaultStyle" xml:id="subtitle545">[speaking Spanish]<br/>Congressman Escobar... Sir!</p>
+<p begin="20746982506t" end="20762827501t" region="region.after" style="defaultStyle" xml:id="subtitle546">Excuse me.</p>
+<p begin="20763662502t" end="20789110007t" region="region.after" style="defaultStyle" xml:id="subtitle547">Allow me to remind you<br/>of the norms of etiquette.</p>
+<p begin="20789945008t" end="20812460001t" region="region.after" style="defaultStyle" xml:id="subtitle548">You cannot enter the hall<br/>if you don't have a tie.</p>
+<p begin="20842490001t" end="20854587502t" region="region.after" style="defaultStyle" xml:id="subtitle549">All right.</p>
+<p begin="20855422503t" end="20879200007t" region="region.after" style="defaultStyle" xml:id="subtitle550">- What is your name?<br/>- Juan.</p>
+<p begin="20880035008t" end="20895880003t" region="region.after" style="defaultStyle" xml:id="subtitle551">Look, Juan...</p>
+<p begin="20906307505t" end="20934667502t" region="region.after" style="defaultStyle" xml:id="subtitle552">that is a really nice tie.</p>
+<p begin="20935502503t" end="20950105008t" region="region.after" style="defaultStyle" xml:id="subtitle553">- My girlfriend gave it to me.<br/>- Really?</p>
+<p begin="20950930000t" end="20964280002t" region="region.after" style="defaultStyle" xml:id="subtitle554">Yes.</p>
+<p begin="20965115003t" end="21000980000t" region="region.after" style="defaultStyle" xml:id="subtitle555">Well, she's in the history books now.</p>
+<p begin="21009747508t" end="21027680006t" region="region.after" style="defaultStyle" xml:id="subtitle556">- Thank you very much, my son.<br/>- Thank you, sir.</p>
+<p begin="21028515006t" end="21041855000t" region="region.after" style="defaultStyle" xml:id="subtitle557">- Thank you.<br/>- All right.</p>
+<p begin="21077312506t" end="21100255008t" region="region.after" style="defaultStyle" xml:id="subtitle558">[Steve]<br/><span style="defaultStyle_1">And when you get too close to the sun...</span></p>
+<p begin="21110682508t" end="21131527500t" region="region.after" style="defaultStyle" xml:id="subtitle559"><span style="defaultStyle_1">your dreams may melt away.</span></p>
+<p begin="21178665006t" end="21203685001t" region="region.after" style="defaultStyle" xml:id="subtitle560">[indistinct chatter in Spanish]</p>
+<p begin="21275842503t" end="21292105000t" region="region.after" style="defaultStyle" xml:id="subtitle561">[man] Good morning.</p>
+<p begin="21309630007t" end="21347582506t" region="region.after" style="defaultStyle" xml:id="subtitle562">This is to inform you that we have<br/>a quorum and may now begin our session.</p>
+<p begin="21367602506t" end="21421400000t" region="region.after" style="defaultStyle" xml:id="subtitle563">The Minister of Justice,<br/>Rodrigo Lara Bonilla,</p>
+<p begin="21423070001t" end="21450605008t" region="region.after" style="defaultStyle" xml:id="subtitle564">is present here today<br/>to address this honorable Congress.</p>
+<p begin="21452265000t" end="21487305005t" region="region.after" style="defaultStyle" xml:id="subtitle565">I give the floor to you, Mr. Minister.</p>
+<p begin="21488140006t" end="21502315000t" region="region.after" style="defaultStyle" xml:id="subtitle566">Thank you very much.</p>
+<p begin="21550287508t" end="21599502507t" region="region.after" style="defaultStyle" xml:id="subtitle567">Much has been made<br/>of the issue of drug money,</p>
+<p begin="21601172508t" end="21655805003t" region="region.after" style="defaultStyle" xml:id="subtitle568">"hot money,"<br/>in our national political process.</p>
+<p begin="21657475005t" end="21705437502t" region="region.after" style="defaultStyle" xml:id="subtitle569">I myself have been accused<br/>of receiving campaign contributions</p>
+<p begin="21706272503t" end="21743390001t" region="region.after" style="defaultStyle" xml:id="subtitle570">from the narcotics traffickers<br/>who have bought influence in these halls.</p>
+<p begin="21794275001t" end="21819305006t" region="region.after" style="defaultStyle" xml:id="subtitle571">To this charge, I plead guilty.</p>
+<p begin="21821392508t" end="21843490001t" region="region.after" style="defaultStyle" xml:id="subtitle572">[crowd murmuring]</p>
+<p begin="21845160002t" end="21881860000t" region="region.after" style="defaultStyle" xml:id="subtitle573">In my eyes,<br/>the sin of turning a blind eye</p>
+<p begin="21882695000t" end="21906055003t" region="region.after" style="defaultStyle" xml:id="subtitle574">is as great as the sin<br/>of outright corruption.</p>
+<p begin="21907725005t" end="21944007501t" region="region.after" style="defaultStyle" xml:id="subtitle575">We are a nation of the blind,<br/>and in our blindness,</p>
+<p begin="21944842502t" end="21975290002t" region="region.after" style="defaultStyle" xml:id="subtitle576">we have sold our country<br/>to the highest bidder.</p>
+<p begin="22004902502t" end="22029515006t" region="region.after" style="defaultStyle" xml:id="subtitle577">It's time for us to open our eyes<br/>and to see the light.</p>
+<p begin="22051622508t" end="22081235008t" region="region.after" style="defaultStyle" xml:id="subtitle578">[overlapping murmurs]</p>
+<p begin="22102080000t" end="22117100003t" region="region.after" style="defaultStyle" xml:id="subtitle579">Congressman Escobar...</p>
+<p begin="22130867508t" end="22170907508t" region="region.after" style="defaultStyle" xml:id="subtitle580">you stated that your great fortune<br/>was built from a taxi company.</p>
+<p begin="22196345003t" end="22234297501t" region="region.after" style="defaultStyle" xml:id="subtitle581">This photograph<br/>clearly contradicts your claim.</p>
+<p begin="22242220000t" end="22267250003t" region="region.after" style="defaultStyle" xml:id="subtitle582">For this reason,<br/>I demand your resignation.</p>
+<p begin="22268920006t" end="22289775006t" region="region.after" style="defaultStyle" xml:id="subtitle583">You are not welcome in this chamber.</p>
+<p begin="22302697500t" end="22313542500t" region="region.after" style="defaultStyle" xml:id="subtitle584">You don't belong here.</p>
+<p begin="22475790002t" end="22487052503t" region="region.after" style="defaultStyle" xml:id="subtitle585">[inaudible murmur]</p>
+<p begin="22775672502t" end="22801955008t" region="region.after" style="defaultStyle" xml:id="subtitle586">Thank you very much, Juan.<br/>Very kind.</p>
+<p begin="22802780000t" end="22819887506t" region="region.after" style="defaultStyle" xml:id="subtitle587">[Lara]<span style="defaultStyle_1"> What interests the narcos</span></p>
+<p begin="22820722507t" end="22856587502t" region="region.after" style="defaultStyle" xml:id="subtitle588"><span style="defaultStyle_1">isn't just the fall</span><br/><span style="defaultStyle_1">of the Minister of Justice,</span></p>
+<p begin="22858257505t" end="22896627502t" region="region.after" style="defaultStyle" xml:id="subtitle589">but also to impede the strategy of<br/>the government to combat his interests.</p>
+<p begin="22904967501t" end="22936250002t" region="region.after" style="defaultStyle" xml:id="subtitle590">His two arms: silver or lead.</p>
+<p begin="22937920003t" end="22999232506t" region="region.after" style="defaultStyle" xml:id="subtitle591">I want to inform the people<br/>that the Minister of Justice has 24 hours</p>
+<p begin="23000067506t" end="23038020003t" region="region.after" style="defaultStyle" xml:id="subtitle592">within which to present concrete proof<br/>regarding the insinuations he made</p>
+<p begin="23038855005t" end="23068467505t" region="region.after" style="defaultStyle" xml:id="subtitle593">the day before yesterday<br/>in the Hall of Representatives.</p>
+<p begin="23069302506t" end="23111012507t" region="region.after" style="defaultStyle" xml:id="subtitle594">To the contrary,<br/>I will proceed to denounce him legally</p>
+<p begin="23111847508t" end="23139790006t" region="region.after" style="defaultStyle" xml:id="subtitle595">before the authorities<br/>and before the Colombian justice system.</p>
+<p begin="23141460007t" end="23166897502t" region="region.after" style="defaultStyle" xml:id="subtitle596">[Steve]<br/><span style="defaultStyle_1">Pablo and his lawyers went on the offense,</span></p>
+<p begin="23167732503t" end="23190675006t" region="region.after" style="defaultStyle" xml:id="subtitle597"><span style="defaultStyle_1">trying to smear Lara with accusations.</span></p>
+<p begin="23192345008t" end="23221540007t" region="region.after" style="defaultStyle" xml:id="subtitle598">[Pablo speaking Spanish] <span style="defaultStyle_1">I am not looking</span><br/><span style="defaultStyle_1">for, nor do I long for a confrontation</span></p>
+<p begin="23222375008t" end="23233627500t" region="region.after" style="defaultStyle" xml:id="subtitle599"><span style="defaultStyle_1">before the Colombian people.</span></p>
+<p begin="23235297501t" end="23269502506t" region="region.after" style="defaultStyle" xml:id="subtitle600">I look for peace,<br/>I have always preached peace,</p>
+<p begin="23270337506t" end="23309542506t" region="region.after" style="defaultStyle" xml:id="subtitle601">and have longed for peace and<br/>the prosperity of the Colombian people.</p>
+<p begin="23311212507t" end="23345825001t" region="region.after" style="defaultStyle" xml:id="subtitle602">[Lara] <span style="defaultStyle_1">It's important to realize</span><br/><span style="defaultStyle_1">that when members of Congress</span></p>
+<p begin="23347495003t" end="23377107502t" region="region.after" style="defaultStyle" xml:id="subtitle603"><span style="defaultStyle_1">can be threatened or bought at will,</span></p>
+<p begin="23378777505t" end="23422575008t" region="region.after" style="defaultStyle" xml:id="subtitle604">we see with clarity the real dimension<br/>of the drug problem here in Colombia.</p>
+<p begin="23423400000t" end="23440090006t" region="region.after" style="defaultStyle" xml:id="subtitle605">[Steve]<br/><span style="defaultStyle_1">But Lara wouldn't back down.</span></p>
+<p begin="23440925006t" end="23465945001t" region="region.after" style="defaultStyle" xml:id="subtitle606"><span style="defaultStyle_1">He denounced narcos at every opportunity,</span></p>
+<p begin="23466780002t" end="23495975001t" region="region.after" style="defaultStyle" xml:id="subtitle607"><span style="defaultStyle_1">going after the guys</span><br/><span style="defaultStyle_1">that we hadn't been able to touch.</span></p>
+<p begin="23496810002t" end="23530180006t" region="region.after" style="defaultStyle" xml:id="subtitle608"><span style="defaultStyle_1">He revealed that six</span><br/><span style="defaultStyle_1">of the country's nine soccer teams</span></p>
+<p begin="23531015006t" end="23548530003t" region="region.after" style="defaultStyle" xml:id="subtitle609"><span style="defaultStyle_1">were owned by drug traffickers.</span></p>
+<p begin="23563132508t" end="23603580000t" region="region.after" style="defaultStyle" xml:id="subtitle610"><span style="defaultStyle_1">Gacha the Mexican was forced</span><br/><span style="defaultStyle_1">to give up ownership of his team,</span></p>
+<p begin="23604415000t" end="23629445005t" region="region.after" style="defaultStyle" xml:id="subtitle611"><span style="defaultStyle_1">aptly nicknamed "The Millionaires."</span></p>
+<p begin="23641960007t" end="23682000007t" region="region.after" style="defaultStyle" xml:id="subtitle612"><span style="defaultStyle_1">Lara denied flying permits</span><br/><span style="defaultStyle_1">for 57 planes in the Ochoa fleet.</span></p>
+<p begin="23721622507t" end="23745807501t" region="region.after" style="defaultStyle" xml:id="subtitle613"><span style="defaultStyle_1">He even fined Pablo</span><br/><span style="defaultStyle_1">for illegal importation</span></p>
+<p begin="23747477502t" end="23764157500t" region="region.after" style="defaultStyle" xml:id="subtitle614"><span style="defaultStyle_1">of elephants and camels from Africa.</span></p>
+<p begin="23787517502t" end="23810460006t" region="region.after" style="defaultStyle" xml:id="subtitle615"><span style="defaultStyle_1">And with the action of one brave man,</span></p>
+<p begin="23811295006t" end="23841742507t" region="region.after" style="defaultStyle" xml:id="subtitle616"><span style="defaultStyle_1">Pablo knew his dream</span><br/><span style="defaultStyle_1">of presidency was over.</span></p>
+<p begin="23842577508t" end="23864257500t" region="region.after" style="defaultStyle" xml:id="subtitle617">[Lara speaking Spanish]<br/><span style="defaultStyle_1">What are required are honest men,</span></p>
+<p begin="23865092500t" end="23911812507t" region="region.after" style="defaultStyle" xml:id="subtitle618">men who are able to put themselves<br/>up against drug traffickers,</p>
+<p begin="23912647508t" end="23981465006t" region="region.after" style="defaultStyle" xml:id="subtitle619">who with complete tranquility buy or kill<br/>any person or government institution</p>
+<p begin="23982300007t" end="24000232506t" region="region.after" style="defaultStyle" xml:id="subtitle620">who is against their interests.</p>
+<p begin="24001067506t" end="24040272506t" region="region.after" style="defaultStyle" xml:id="subtitle621">[Steve] <span style="defaultStyle_1">Rodrigo Lara became the most</span><br/><span style="defaultStyle_1">important political figure in Colombia</span></p>
+<p begin="24041107506t" end="24061545006t" region="region.after" style="defaultStyle" xml:id="subtitle622"><span style="defaultStyle_1">with his stand against the narcos.</span></p>
+<p begin="24062380007t" end="24086982502t" region="region.after" style="defaultStyle" xml:id="subtitle623"><span style="defaultStyle_1">He just wouldn't stop going after them.</span></p>
+<p begin="24087817502t" end="24135362500t" region="region.after" style="defaultStyle" xml:id="subtitle624"><span style="defaultStyle_1">His bravery in the face of danger made him</span><br/><span style="defaultStyle_1">the most wanted man in the country.</span></p>
+<p begin="24136197501t" end="24179160003t" region="region.after" style="defaultStyle" xml:id="subtitle625"><span style="defaultStyle_1">For his own safety, he was appointed</span><br/><span style="defaultStyle_1">Colombian ambassador to Czechoslovakia.</span></p>
+<p begin="24179995005t" end="24225452500t" region="region.after" style="defaultStyle" xml:id="subtitle626"><span style="defaultStyle_1">He was slated to leave in two weeks,</span><br/><span style="defaultStyle_1">but a lot could happen in two weeks.</span></p>
+<p begin="24236297501t" end="24264240000t" region="region.after" style="defaultStyle" xml:id="subtitle627">I think it might be a good idea<br/>for you to wear this until you leave.</p>
+<p begin="24280095005t" end="24304280000t" region="region.after" style="defaultStyle" xml:id="subtitle628">You feel responsible, is that it?</p>
+<p begin="24320135005t" end="24333902508t" region="region.after" style="defaultStyle" xml:id="subtitle629">Somewhat, yes, sir.</p>
+<p begin="24343077508t" end="24386030001t" region="region.after" style="defaultStyle" xml:id="subtitle630">Are you so arrogant to think<br/>you had any influence over my actions?</p>
+<p begin="24395622500t" end="24427322502t" region="region.after" style="defaultStyle" xml:id="subtitle631">That I put my life<br/>and the life of my family at risk</p>
+<p begin="24428157502t" end="24450265005t" region="region.after" style="defaultStyle" xml:id="subtitle632">for American policy objectives?</p>
+<p begin="24467780002t" end="24498227502t" region="region.after" style="defaultStyle" xml:id="subtitle633">Let me assure you, Agent Murphy,<br/>outside of providing me with the picture,</p>
+<p begin="24499062503t" end="24515742500t" region="region.after" style="defaultStyle" xml:id="subtitle634">you... did nothing.</p>
+<p begin="24533685008t" end="24559540003t" region="region.after" style="defaultStyle" xml:id="subtitle635">The decision to speak out<br/>was solely mine.</p>
+<p begin="24561210006t" end="24589570003t" region="region.after" style="defaultStyle" xml:id="subtitle636">And I highly advise you<br/>to wear this vest, sir.</p>
+<p begin="24688000002t" end="24750565005t" region="region.after" style="defaultStyle" xml:id="subtitle637">I will accept this vest... out of respect<br/>for your concern with my well-being.</p>
+<p begin="24752235006t" end="24783100007t" region="region.after" style="defaultStyle" xml:id="subtitle638">But I would advise you one thing<br/>while you remain in Colombia.</p>
+<p begin="24783935008t" end="24797275001t" region="region.after" style="defaultStyle" xml:id="subtitle639">And what is that?</p>
+<p begin="24798945003t" end="24841490006t" region="region.after" style="defaultStyle" xml:id="subtitle640">We accept your help,<br/>but never your condescension.</p>
+<p begin="24852335006t" end="24892792507t" region="region.after" style="defaultStyle" xml:id="subtitle641">When all this is over, Colombians<br/>will be the heroes, and the victims.</p>
+<p begin="24908220002t" end="24936997501t" region="region.after" style="defaultStyle" xml:id="subtitle642">John Wayne only exists in Hollywood.</p>
+<p begin="24949095003t" end="24960775005t" region="region.after" style="defaultStyle" xml:id="subtitle643">Just wear the vest.</p>
+<p begin="25090070003t" end="25111760006t" region="region.after" style="defaultStyle" xml:id="subtitle644">[speaking Spanish]<br/>Oh, Pablito.</p>
+<p begin="25112595006t" end="25140537505t" region="region.after" style="defaultStyle" xml:id="subtitle645">We knew they wouldn't<br/>accept you in that circle.</p>
+<p begin="25172237506t" end="25189752503t" region="region.after" style="defaultStyle" xml:id="subtitle646">Damned bastards.</p>
+<p begin="25253152507t" end="25277755001t" region="region.after" style="defaultStyle" xml:id="subtitle647">You're too good for them, Pablito.</p>
+<p begin="25403302507t" end="25416225000t" region="region.after" style="defaultStyle" xml:id="subtitle648">[sighs]</p>
+<p begin="25505897500t" end="25535927500t" region="region.after" style="defaultStyle" xml:id="subtitle649">This is a fight<br/>that you cannot win, cousin.</p>
+<p begin="25560122503t" end="25593910007t" region="region.after" style="defaultStyle" xml:id="subtitle650">You need to think more<br/>about your family and the business...</p>
+<p begin="25621017505t" end="25644377508t" region="region.after" style="defaultStyle" xml:id="subtitle651">and abandon that ridiculousness<br/>once and for all.</p>
+<p begin="25699845003t" end="25715282508t" region="region.after" style="defaultStyle" xml:id="subtitle652">I will fix it.</p>
+<p begin="25820800003t" end="25867510001t" region="region.after" style="defaultStyle" xml:id="subtitle653">Due to the vicious lies<br/>and slander cast my way</p>
+<p begin="25868345001t" end="25901297505t" region="region.after" style="defaultStyle" xml:id="subtitle654">by Minister Lara and his cronies,</p>
+<p begin="25902967506t" end="25938415001t" region="region.after" style="defaultStyle" xml:id="subtitle655">I've decided to announce my resignation<br/>from Congress of the Republic.</p>
+<p begin="25960940003t" end="25995145008t" region="region.after" style="defaultStyle" xml:id="subtitle656"><span style="defaultStyle_1">I ran as a representative</span><br/><span style="defaultStyle_1">for the common man,</span></p>
+<p begin="25996805000t" end="26024757508t" region="region.after" style="defaultStyle" xml:id="subtitle657"><span style="defaultStyle_1">a voice for those who had no voice,</span></p>
+<p begin="26026417500t" end="26059370002t" region="region.after" style="defaultStyle" xml:id="subtitle658">but that has happened<br/>through much of our history.</p>
+<p begin="26060205003t" end="26102750006t" region="region.after" style="defaultStyle" xml:id="subtitle659"><span style="defaultStyle_1">The powerful have conspired to silence me.</span></p>
+<p begin="26109420002t" end="26128187501t" region="region.after" style="defaultStyle" xml:id="subtitle660">I dreamt of doing good.</p>
+<p begin="26145712508t" end="26163227506t" region="region.after" style="defaultStyle" xml:id="subtitle661">Those dreams are over.</p>
+<p begin="26182412506t" end="26232462506t" region="region.after" style="defaultStyle" xml:id="subtitle662">But make no mistake...<br/>I will not go quietly.</p>
+<p begin="26242472506t" end="26256230000t" region="region.after" style="defaultStyle" xml:id="subtitle663">I will fight.</p>
+<p begin="26262910006t" end="26289600002t" region="region.after" style="defaultStyle" xml:id="subtitle664"><span style="defaultStyle_1">"The Men of Always" are mistaken</span></p>
+<p begin="26291270003t" end="26333397506t" region="region.after" style="defaultStyle" xml:id="subtitle665">if they think they can defeat<br/>Pablo Emilio Escobar Gaviria!</p>
+<p begin="26446012508t" end="26456847500t" region="region.after" style="defaultStyle" xml:id="subtitle666">Thank you very much.</p>
+<p begin="26471867505t" end="26496887500t" region="region.after" style="defaultStyle" xml:id="subtitle667"><span style="defaultStyle_1">- Thank you very much.</span><br/><span style="defaultStyle_1">- </span>[applause continues]</p>
+<p begin="26521082503t" end="26547355000t" region="region.after" style="defaultStyle" xml:id="subtitle668">- [low conversations]<br/>- [indistinct radio chatter]</p>
+<p begin="26737127500t" end="26748807501t" region="region.after" style="defaultStyle" xml:id="subtitle669">He didn't wear it.</p>
+<p begin="26762157505t" end="26776342508t" region="region.after" style="defaultStyle" xml:id="subtitle670">[sighs]</p>
+<p begin="26777167500t" end="26796770000t" region="region.after" style="defaultStyle" xml:id="subtitle671">Wouldn't have made a difference.</p>
+<p begin="26803450006t" end="26835985008t" region="region.after" style="defaultStyle" xml:id="subtitle672">[Steve]<br/><span style="defaultStyle_1">Our strategy had gotten a good man killed.</span></p>
+<p begin="26850995003t" end="26882695005t" region="region.after" style="defaultStyle" xml:id="subtitle673"><span style="defaultStyle_1">It was the first time</span><br/><span style="defaultStyle_1">I'd felt guilty about my job.</span></p>
+<p begin="26897705000t" end="26930240002t" region="region.after" style="defaultStyle" xml:id="subtitle674">- [chatter in Spanish]<br/>- [men cheering]</p>
+<p begin="26931075003t" end="26950260002t" region="region.after" style="defaultStyle" xml:id="subtitle675"><span style="defaultStyle_1">- </span>[Steve] <span style="defaultStyle_1">As for Suárez...</span><br/><span style="defaultStyle_1">- </span>Hey.</p>
+<p begin="26951095003t" end="26975290007t" region="region.after" style="defaultStyle" xml:id="subtitle676"><span style="defaultStyle_1">...he made so much money</span><br/><span style="defaultStyle_1">playing both sides,</span></p>
+<p begin="26976125008t" end="27029505001t" region="region.after" style="defaultStyle" xml:id="subtitle677"><span style="defaultStyle_1">he decided to lift our spirits by giving</span><br/><span style="defaultStyle_1">the DEA a token of his appreciation.</span></p>
+<p begin="27050777502t" end="27073720006t" region="region.after" style="defaultStyle" xml:id="subtitle678">[speaking Spanish]<br/>I brought this for your friend's wife.</p>
+<p begin="27095827508t" end="27111672503t" region="region.after" style="defaultStyle" xml:id="subtitle679">- I hope she likes it.<br/>- No, <span style="defaultStyle_1">gracias.</span></p>
+<p begin="27112507505t" end="27131692503t" region="region.after" style="defaultStyle" xml:id="subtitle680">[speaks Spanish]<br/>You're fucking crazy, asshole.</p>
+<p begin="27132527505t" end="27147537500t" region="region.after" style="defaultStyle" xml:id="subtitle681">[yowls]</p>
+<p begin="27149625001t" end="27183412506t" region="region.after" style="defaultStyle" xml:id="subtitle682">[Latin marching song plays]</p>
+</div>
+</body>
+</tt>
